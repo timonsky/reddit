@@ -151,6 +151,7 @@ flair|image
 **#H**|
 :Hallescher_FC:|![](https://emoji.redditmedia.com/coy6z9k8zfi11_t5_2qi58/Hallescher_FC)
 :Hamburger_SV:|![](https://emoji.redditmedia.com/5bwu5x9kn5d11_t5_2qi58/Hamburger_SV)
+:Hannover_96:|![](https://emoji.redditmedia.com/e6iopktnd9d11_t5_2qi58/Hannover_96)
 :Hapoel_Tel_Aviv_FC:|![](https://emoji.redditmedia.com/g9dg6fqvtcd11_t5_2qi58/Hapoel_Tel_Aviv_FC)
 :Hashtag_United:|![](https://emoji.redditmedia.com/8ocj36pnwys21_t5_2qi58/Hashtag_United)
 :Hercules:|![](https://emoji.redditmedia.com/d53on0r2gxh11_t5_2qi58/Hercules)
@@ -167,6 +168,7 @@ flair|image
 :Indonesia:|![](https://emoji.redditmedia.com/4jykjjqfscd11_t5_2qi58/Indonesia)
 :Indy_Eleven:|![](https://emoji.redditmedia.com/a08lzg1od9d11_t5_2qi58/Indy_Eleven)
 :Inter_Milan:|![](https://emoji.redditmedia.com/2oajzhziegr61_t5_2qi58/Inter_Milan)
+:Inter_Milan: (deprecated)|![](https://emoji.redditmedia.com/om3ssptv6bd11_t5_2qi58/Inter_Milan)
 :Internazionale:|![](https://emoji.redditmedia.com/9250cxf5zrw11_t5_2qi58/Internazionale)
 :Ipswich_Town:|![](https://emoji.redditmedia.com/qfpwpem1d9d11_t5_2qi58/Ipswich_Town)
 :Iran:|![](https://emoji.redditmedia.com/v8lr87fhg9d11_t5_2qi58/Iran)
