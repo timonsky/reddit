@@ -255,6 +255,8 @@ flair|image
 :Jamshedpur_FC:|![](https://emoji.redditmedia.com/cufcvhg11kv11_t5_2qi58/Jamshedpur_FC)
 :Japan:|![](https://emoji.redditmedia.com/2352dko1d9d11_t5_2qi58/Japan)
 :Joel_Veltman:|![](https://emoji.redditmedia.com/l74d095ayn861_t5_2qi58/Joel_Veltman)
+:jokerdance:|![](https://emoji.redditmedia.com/fgm153y7vn751_t5_2uqcm/jokerdance)
+:jokerdancemirror:|![](https://emoji.redditmedia.com/88tfe4mqun751_t5_2uqcm/jokerdancemirror)
 :Juventus2:|![](https://emoji.redditmedia.com/ji42w8yhnaw11_t5_2qi58/Juventus2)
 :Juventus:|![](https://emoji.redditmedia.com/c4ok6e5vubw11_t5_2qi58/Juventus)
 :Juventus_FC:|![](https://emoji.redditmedia.com/p4q8j49uahj51_t5_2qi58/Juventus_FC)
