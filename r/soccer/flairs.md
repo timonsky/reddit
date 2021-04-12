@@ -301,6 +301,7 @@ flair|image
 :Manchester_City_97-16: (removed)|![](https://emoji.redditmedia.com/tv0vazpawn861_t5_2qi58/Manchester_City_97-16)
 :Manchester_United:|![](https://emoji.redditmedia.com/66c5gkaw6bd11_t5_2qi58/Manchester_United)
 :Maritzburg_United:|![](https://emoji.redditmedia.com/ctiwq94kcdu11_t5_2qi58/Maritzburg_United)
+:Matsumoto_Yamaga:|![](https://emoji.redditmedia.com/dfmqtezwexh11_t5_2qi58/Matsumoto_Yamaga)
 :Melbourne_City:|![](https://emoji.redditmedia.com/l1aqp71bhzt11_t5_2qi58/Melbourne_City)
 :Melbourne_Victory:|![](https://emoji.redditmedia.com/pojz9zdkn5d11_t5_2qi58/Melbourne_Victory)
 :Merseyside_Red:|![](https://emoji.redditmedia.com/jrvralmmxiq61_t5_2qi58/Merseyside_Red)
@@ -403,6 +404,7 @@ flair|image
 :Romania:|![](https://emoji.redditmedia.com/spwh0csp8r831_t5_2qi58/Romania)
 :RoPS:|![](https://emoji.redditmedia.com/d8273ixj5ye11_t5_2qi58/RoPS)
 :Rosenborg:|![](https://emoji.redditmedia.com/lckgvy4gvje11_t5_2qi58/Rosenborg)
+:Rot-Weiss_Oberhausen:|![](https://emoji.redditmedia.com/n53p5f7ydtt11_t5_2qi58/Rot-Weiss_Oberhausen)
 :Royal_Antwerp:|![](https://emoji.redditmedia.com/4fsjf57rrpd11_t5_2qi58/Royal_Antwerp)
 :RUFC:|![](https://emoji.redditmedia.com/71rwhl81upd11_t5_2qi58/RUFC)
 **#S**|
@@ -439,6 +441,7 @@ flair|image
 :SK_Brann:|![](https://emoji.redditmedia.com/q61e1logvje11_t5_2qi58/SK_Brann)
 :SK_Rapid_Wien:|![](https://emoji.redditmedia.com/okgo95jld9d11_t5_2qi58/SK_Rapid_Wien)
 :Slavia_Praha:|![](https://emoji.redditmedia.com/xcueumjy8pd11_t5_2qi58/Slavia_Praha)
+:Slovakia:|![](https://emoji.redditmedia.com/vpni6qfp33e11_t5_2qi58/Slovakia)
 :Slovenia:|![](https://emoji.redditmedia.com/4goe5tkfghd11_t5_2qi58/Slovenia)
 :South_Korea:|![](https://emoji.redditmedia.com/hpxisw82d9d11_t5_2qi58/South_Korea)
 :Southampton:|![](https://emoji.redditmedia.com/bj8hmk1u6bd11_t5_2qi58/Southampton)
