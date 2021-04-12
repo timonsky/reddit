@@ -57,6 +57,7 @@ flair|image
 :Batman_Petrolspor:|![](https://emoji.redditmedia.com/it1lkgxty5v11_t5_2qi58/Batman_Petrolspor)
 :Bayer_04_Leverkusen:|![](https://emoji.redditmedia.com/skg7ue40d9d11_t5_2qi58/Bayer_04_Leverkusen)
 :Bayern_Munich:|![](https://emoji.redditmedia.com/0est8tuu6bd11_t5_2qi58/Bayern_Munich)
+:Beitar_Jerusalem:|![](https://emoji.redditmedia.com/hpgqcgry1ys31_t5_2qi58/Beitar_Jerusalem)
 :Belgium:|![](https://emoji.redditmedia.com/073a3ji0ora61_t5_2qi58/Belgium)
 :Benfica:|![](https://emoji.redditmedia.com/tvw7s5wu6bd11_t5_2qi58/Benfica)
 :Bengaluru_FC:|![](https://emoji.redditmedia.com/s9f6xycnfhd11_t5_2qi58/Bengaluru_FC)
@@ -468,6 +469,7 @@ flair|image
 **#V**|
 :Valencia:|![](https://emoji.redditmedia.com/bjsju34gd7w11_t5_2qi58/Valencia)
 :Vancouver_Whitecaps_FC:|![](https://emoji.redditmedia.com/6bnfofhln5d11_t5_2qi58/Vancouver_Whitecaps_FC)
+:Vejle_Boldklub:|![](https://emoji.redditmedia.com/fvtpfk4zddu11_t5_2qi58/Vejle_Boldklub)
 :Velez_Mostar:|![](https://emoji.redditmedia.com/0py6c73a8pd11_t5_2qi58/Velez_Mostar)
 :Venezuela:|![](https://emoji.redditmedia.com/o2uqex6jg9d11_t5_2qi58/Venezuela)
 :Vermont_Voltage:|![](https://emoji.redditmedia.com/7ir7gqr5mxh11_t5_2qi58/Vermont_Voltage)
