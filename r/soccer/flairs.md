@@ -463,6 +463,7 @@ flair|image
 :SV_Werder_Bremen:|![](https://emoji.redditmedia.com/889cus5fvbw11_t5_2qi58/SV_Werder_Bremen)
 :Swansea_City:|![](https://emoji.redditmedia.com/ieny99bu6bd11_t5_2qi58/Swansea_City)
 :Sweden:|![](https://emoji.redditmedia.com/xshvu6dln5d11_t5_2qi58/Sweden)
+:Switzerland:|![](https://emoji.redditmedia.com/twtur22jg9d11_t5_2qi58/Switzerland)
 :Sydney_FC:|![](https://emoji.redditmedia.com/0zq91ng2d9d11_t5_2qi58/Sydney_FC)
 **#T**|
 :Taiwan:|![](https://emoji.redditmedia.com/jutwc6z4jxh11_t5_2qi58/Taiwan)
