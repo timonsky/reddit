@@ -212,6 +212,7 @@ flair|image
 :FSV_Mainz_05:|![](https://emoji.redditmedia.com/yg0cs05hg9d11_t5_2qi58/FSV_Mainz_05)
 :Fulham:|![](https://emoji.redditmedia.com/3qi9sxkv6bd11_t5_2qi58/Fulham)
 **#G**|
+:GAIS:|![](https://emoji.redditmedia.com/q11pbx0hghd11_t5_2qi58/GAIS)
 :Galatasaray:|![](https://emoji.redditmedia.com/83wp2xnv6bd11_t5_2qi58/Galatasaray)
 :Gateshead_FC:|![](https://emoji.redditmedia.com/vepfkqsa70i11_t5_2qi58/Gateshead_FC)
 :Genclerbirligi:|![](https://emoji.redditmedia.com/b7tszwd4jxh11_t5_2qi58/Genclerbirligi)
