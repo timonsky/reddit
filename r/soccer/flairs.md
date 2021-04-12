@@ -66,6 +66,7 @@ flair|image
 :Blackburn_Rovers:|![](https://emoji.redditmedia.com/lkhn6x0mn5d11_t5_2qi58/Blackburn_Rovers)
 :Blackpool_FC:|![](https://emoji.redditmedia.com/2bkocs50d9d11_t5_2qi58/Blackpool_FC)
 :Boca_Juniors:|![](https://emoji.redditmedia.com/s4xw7v2mn5d11_t5_2qi58/Boca_Juniors)
+:Boca_Unidos:|![](https://emoji.redditmedia.com/ezzhprh4n5v11_t5_2qi58/Boca_Unidos)
 :Bohemian:|![](https://emoji.redditmedia.com/7kxv49hnfhd11_t5_2qi58/Bohemian)
 :Bologna_FC_1909:|![](https://emoji.redditmedia.com/gtq4k1bsnrd11_t5_2qi58/Bologna_FC_1909)
 :Bolton_Wanderers:|![](https://emoji.redditmedia.com/csr3mq70d9d11_t5_2qi58/Bolton_Wanderers)
@@ -488,6 +489,7 @@ flair|image
 :Uruguay:|![](https://emoji.redditmedia.com/dbwag0l2d9d11_t5_2qi58/Uruguay)
 :US_Salernitana:|![](https://emoji.redditmedia.com/ebny06hp4oi61_t5_2qi58/US_Salernitana)
 :USA:|![](https://emoji.redditmedia.com/dh65sydu6bd11_t5_2qi58/USA)
+:Uzbekistan:|![](https://emoji.redditmedia.com/8gcggeb6r3e11_t5_2qi58/Uzbekistan)
 **#V**|
 :Valencia:|![](https://emoji.redditmedia.com/bjsju34gd7w11_t5_2qi58/Valencia)
 :Vancouver_Whitecaps_FC:|![](https://emoji.redditmedia.com/6bnfofhln5d11_t5_2qi58/Vancouver_Whitecaps_FC)
