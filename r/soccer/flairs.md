@@ -421,6 +421,7 @@ flair|image
 **#R**|
 :r_soccer_user:|![](https://emoji.redditmedia.com/g8fnz3oiunq61_t5_2qi58/r_soccer_user)
 :Racing_Club:|![](https://emoji.redditmedia.com/qq3brzmeghd11_t5_2qi58/Racing_Club)
+:Raja_Club_Athletic:|![](https://emoji.redditmedia.com/dzz9qvluyxd11_t5_2qi58/Raja_Club_Athletic)
 :Rangers:|![](https://emoji.redditmedia.com/l4h8josw6bd11_t5_2qi58/Rangers)
 :Rapid_Bucuresti:|![](https://emoji.redditmedia.com/v2lz86ihscd11_t5_2qi58/Rapid_Bucuresti)
 :Rayo_Vallecano:|![](https://emoji.redditmedia.com/ko6h9tq98pd11_t5_2qi58/Rayo_Vallecano)
@@ -530,6 +531,7 @@ flair|image
 :USA:|![](https://emoji.redditmedia.com/dh65sydu6bd11_t5_2qi58/USA)
 :Uzbekistan:|![](https://emoji.redditmedia.com/8gcggeb6r3e11_t5_2qi58/Uzbekistan)
 **#V**|
+:V-Varen_Nagasaki:|![](https://emoji.redditmedia.com/v93wheybjfu11_t5_2qi58/V-Varen_Nagasaki)
 :Valencia:|![](https://emoji.redditmedia.com/bjsju34gd7w11_t5_2qi58/Valencia)
 :Vancouver_Whitecaps_FC:|![](https://emoji.redditmedia.com/6bnfofhln5d11_t5_2qi58/Vancouver_Whitecaps_FC)
 :Vejle_Boldklub:|![](https://emoji.redditmedia.com/fvtpfk4zddu11_t5_2qi58/Vejle_Boldklub)
