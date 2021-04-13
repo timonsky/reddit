@@ -250,6 +250,7 @@ flair|image
 :Hertha_BSC:|![](https://emoji.redditmedia.com/4r0gaeg1d9d11_t5_2qi58/Hertha_BSC)
 :Hibernian:|![](https://emoji.redditmedia.com/3jup5pvnd9d11_t5_2qi58/Hibernian)
 :HNK_Cibalia:|![](https://emoji.redditmedia.com/nku8nzl4r5v11_t5_2qi58/HNK_Cibalia)
+:HNK_Rijeka:|![](https://emoji.redditmedia.com/yf14l0z2hrd11_t5_2qi58/HNK_Rijeka)
 :Hougang_United_FC:|![](https://emoji.redditmedia.com/1hwm35aatks61_t5_2qi58/Hougang_United_FC)
 :Houston_Dynamo:|![](https://emoji.redditmedia.com/zv5kj6sv6bd11_t5_2qi58/Houston_Dynamo)
 :Huesca:|![](https://emoji.redditmedia.com/ogu8c11w5ye11_t5_2qi58/Huesca)
@@ -294,6 +295,7 @@ flair|image
 :Kerala_Blasters:|![](https://emoji.redditmedia.com/3pbk3e18ufi11_t5_2qi58/Kerala_Blasters)
 :Kidderminster_Harriers:|![](https://emoji.redditmedia.com/ye01rhf0wpd11_t5_2qi58/Kidderminster_Harriers)
 :Kristiansund_BK:|![](https://emoji.redditmedia.com/j61y8og1odu11_t5_2qi58/Kristiansund_BK)
+:KV_Oostende:|![](https://emoji.redditmedia.com/wdapp8hqgae11_t5_2qi58/KV_Oostende)
 **#L**|
 :LA_Galaxy:|![](https://emoji.redditmedia.com/l23toy0w6bd11_t5_2qi58/LA_Galaxy)
 :Lancaster_City:|![](https://emoji.redditmedia.com/f28sc4s21kv11_t5_2qi58/Lancaster_City)
@@ -495,6 +497,7 @@ flair|image
 :Sydney_FC:|![](https://emoji.redditmedia.com/0zq91ng2d9d11_t5_2qi58/Sydney_FC)
 **#T**|
 :Taiwan:|![](https://emoji.redditmedia.com/jutwc6z4jxh11_t5_2qi58/Taiwan)
+:Tampines_Rovers:|![](https://emoji.redditmedia.com/5tweliwtvbe11_t5_2qi58/Tampines_Rovers)
 :Thibaut_is_a_shit_Xavier:|![](https://emoji.redditmedia.com/c1ih4lju68961_t5_2qi58/Thibaut_is_a_shit_Xavier)
 :Tigres:|![](https://emoji.redditmedia.com/p641d4owhts31_t5_2qi58/Tigres)
 :Toronto_FC:|![](https://emoji.redditmedia.com/ac434zfln5d11_t5_2qi58/Toronto_FC)
