@@ -14,6 +14,7 @@ flair|image
 :Aberdeen_FC:|![](https://emoji.redditmedia.com/lxsycc03d9d11_t5_2qi58/Aberdeen_FC)
 :AC_Milan:|![](https://emoji.redditmedia.com/0xn9kjiu6bd11_t5_2qi58/AC_Milan)
 :AC_Pisa_1909:|![](https://emoji.redditmedia.com/purl6vqrodu11_t5_2qi58/AC_Pisa_1909)
+:Adana_Demirspor:|![](https://emoji.redditmedia.com/og0e9bq9uks61_t5_2qi58/Adana_Demirspor)
 :Adelaide_United:|![](https://emoji.redditmedia.com/ofifr5xld9d11_t5_2qi58/Adelaide_United)
 :ADO_Den_Haag:|![](https://emoji.redditmedia.com/xl1gpwbvtcd11_t5_2qi58/ADO_Den_Haag)
 :AEK_Athens:|![](https://emoji.redditmedia.com/vb5yi7te7zt11_t5_2qi58/AEK_Athens)
@@ -50,6 +51,7 @@ flair|image
 :Australia:|![](https://emoji.redditmedia.com/neuisculn5d11_t5_2qi58/Australia)
 :AZ_Alkmaar:|![](https://emoji.redditmedia.com/jzjmf5shvje11_t5_2qi58/AZ_Alkmaar)
 **#B**|
+:Badajoz:|![](https://emoji.redditmedia.com/xtuwk7b5r3e11_t5_2qi58/Badajoz)
 :Bahamas:|![](https://emoji.redditmedia.com/ew0rqa7cmet11_t5_2qi58/Bahamas)
 :Barcelona_Sporting_Club:|![](https://emoji.redditmedia.com/xok2at8yvbd11_t5_2qi58/Barcelona_Sporting_Club)
 :Barnet_FC:|![](https://emoji.redditmedia.com/dl6tk3c7ufi11_t5_2qi58/Barnet_FC)
@@ -228,6 +230,7 @@ flair|image
 :Grasshopper_Club_Zurich:|![](https://emoji.redditmedia.com/qua611nbghd11_t5_2qi58/Grasshopper_Club_Zurich)
 :Grays_Athletic_FC:|![](https://emoji.redditmedia.com/47meper7mh361_t5_2qi58/Grays_Athletic_FC)
 :Greenock_Morton:|![](https://emoji.redditmedia.com/aiq1048ahzt11_t5_2qi58/Greenock_Morton)
+:Griezz_Dance:|![](https://emoji.redditmedia.com/x8nyvakpxn861_t5_2qi58/Griezz_Dance)
 :Guangzhou_Evergrande:|![](https://emoji.redditmedia.com/vfegxaobghd11_t5_2qi58/Guangzhou_Evergrande)
 :Guyana:|![](https://emoji.redditmedia.com/yftw3kldmet11_t5_2qi58/Guyana)
 **#H**|
@@ -489,6 +492,7 @@ flair|image
 :Torpedo:|![](https://emoji.redditmedia.com/joilko75jxh11_t5_2qi58/Torpedo)
 :Tottenham_Hotspur:|![](https://emoji.redditmedia.com/mz6rafcu6bd11_t5_2qi58/Tottenham_Hotspur)
 :Tranmere_Rovers:|![](https://emoji.redditmedia.com/pwrfwh5jg9d11_t5_2qi58/Tranmere_Rovers)
+:Trinidad_Tobago:|![](https://emoji.redditmedia.com/pqkfj0egghd11_t5_2qi58/Trinidad_Tobago)
 :TSV_Schwarme:|![](https://emoji.redditmedia.com/a3hrjsfdlqa61_t5_2qi58/TSV_Schwarme)
 :TuS_Koblenz:|![](https://emoji.redditmedia.com/1umomzvabpk11_t5_2qi58/TuS_Koblenz)
 **#U**|
