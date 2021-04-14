@@ -158,6 +158,7 @@ flair|image
 :Detroit_City_FC:|![](https://emoji.redditmedia.com/vfworayjn5d11_t5_2qi58/Detroit_City_FC)
 :Dinamo_Zagreb:|![](https://emoji.redditmedia.com/r3pb32wmd9d11_t5_2qi58/Dinamo_Zagreb)
 :Djurgardens_IF:|![](https://emoji.redditmedia.com/9asa3pz0d9d11_t5_2qi58/Djurgardens_IF)
+:Doncaster_Rovers:|![](https://emoji.redditmedia.com/sz0xvyt9hzt11_t5_2qi58/Doncaster_Rovers)
 :Dulwich_Hamlet:|![](https://emoji.redditmedia.com/m7i78nluzwi11_t5_2qi58/Dulwich_Hamlet)
 :Dundalk_FC:|![](https://emoji.redditmedia.com/bwbja0hsnrd11_t5_2qi58/Dundalk_FC)
 :Dundee_United:|![](https://emoji.redditmedia.com/wkrkfwzmd9d11_t5_2qi58/Dundee_United)
