@@ -394,6 +394,7 @@ flair|image
 :Leeds_United:|![](https://emoji.redditmedia.com/lraeoq2w6bd11_t5_2qi58/Leeds_United)
 :Legia_Warsaw:|![](https://emoji.redditmedia.com/8d6kpwfhg9d11_t5_2qi58/Legia_Warsaw)
 :Leicester_City_FC:|![](https://emoji.redditmedia.com/ssvlodckn5d11_t5_2qi58/Leicester_City_FC)
+:Liechtenstein:|![](https://emoji.redditmedia.com/oc1uyiprjxh11_t5_2qi58/Liechtenstein)
 :Ligue_1:|![](https://emoji.redditmedia.com/4rotbwpfvje11_t5_2qi58/Ligue_1)
 :Lille_OSC:|![](https://emoji.redditmedia.com/bw84lgu47ff21_t5_2qi58/Lille_OSC)
 :Limerick_FC:|![](https://emoji.redditmedia.com/0n6mehlcghd11_t5_2qi58/Limerick_FC)
