@@ -1,0 +1,3517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Profile: EBU-TT-D-Basic-DE--><tt:tt ttp:cellResolution="50 30" ttp:timeBase="media" xml:lang="de-DE" xmlns:ebuttm="urn:ebu:tt:metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<tt:head>
+<tt:metadata>
+<ebuttm:documentMetadata>
+<ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+</ebuttm:documentMetadata>
+</tt:metadata>
+<tt:styling>
+<tt:style tts:fontFamily="Verdana,Arial,Tiresias" tts:fontSize="160%" tts:lineHeight="125%" xml:id="defaultStyle"/>
+<tt:style tts:backgroundColor="#000000c2" tts:color="#000000" xml:id="textBlack"/>
+<tt:style tts:backgroundColor="#000000c2" tts:color="#FF0000" xml:id="textRed"/>
+<tt:style tts:backgroundColor="#000000c2" tts:color="#00FF00" xml:id="textGreen"/>
+<tt:style tts:backgroundColor="#000000c2" tts:color="#FFFF00" xml:id="textYellow"/>
+<tt:style tts:backgroundColor="#000000c2" tts:color="#0000FF" xml:id="textBlue"/>
+<tt:style tts:backgroundColor="#000000c2" tts:color="#FF00FF" xml:id="textMagenta"/>
+<tt:style tts:backgroundColor="#000000c2" tts:color="#00FFFF" xml:id="textCyan"/>
+<tt:style tts:backgroundColor="#000000c2" tts:color="#FFFFFF" xml:id="textWhite"/>
+<tt:style tts:textAlign="center" xml:id="textCenter"/>
+<tt:style tts:textAlign="left" xml:id="textLeft"/>
+<tt:style tts:textAlign="right" xml:id="textRight"/>
+</tt:styling>
+<tt:layout>
+<tt:region tts:displayAlign="before" tts:extent="80% 80%" tts:origin="10% 10%" xml:id="top"/>
+<tt:region tts:displayAlign="after" tts:extent="80% 80%" tts:origin="10% 10%" xml:id="bottom"/>
+</tt:layout>
+</tt:head>
+<tt:body>
+<tt:div style="defaultStyle">
+<tt:p begin="00:00:01.480" end="00:00:03.600" region="bottom" style="textCenter" xml:id="sub0">
+<tt:span style="textWhite">Sinsheim, end of November:</tt:span>
+</tt:p>
+<tt:p begin="00:00:03.640" end="00:00:07.960" region="bottom" style="textCenter" xml:id="sub1">
+<tt:span style="textWhite">Fabian S., one of the leading heads of the</tt:span>
+<tt:br/>
+<tt:span style="textWhite">of the ultra group Schickeria,</tt:span>
+</tt:p>
+<tt:p begin="00:00:08.000" end="00:00:09.960" region="bottom" style="textCenter" xml:id="sub2">
+<tt:span style="textWhite">on the way to his trial.</tt:span>
+</tt:p>
+<tt:p begin="00:00:11.120" end="00:00:13.960" region="bottom" style="textCenter" xml:id="sub3">
+<tt:span style="textWhite">Reported by TSG Hoffenheim.</tt:span>
+</tt:p>
+<tt:p begin="00:00:14.000" end="00:00:17.200" region="bottom" style="textCenter" xml:id="sub4">
+<tt:span style="textWhite">It's about the biggest conflict</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in German soccer</tt:span>
+</tt:p>
+<tt:p begin="00:00:17.240" end="00:00:19.440" region="bottom" style="textCenter" xml:id="sub5">
+<tt:span style="textWhite">and about this day:</tt:span>
+</tt:p>
+<tt:p begin="00:00:19.480" end="00:00:21.120" region="bottom" style="textCenter" xml:id="sub6">
+<tt:span style="textWhite">* Shouts in chorus *</tt:span>
+</tt:p>
+<tt:p begin="00:00:21.160" end="00:00:24.040" region="bottom" style="textCenter" xml:id="sub7">
+<tt:span style="textYellow">Horror and bewilderment</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in the Bundesliga ...</tt:span>
+</tt:p>
+<tt:p begin="00:00:24.080" end="00:00:26.400" region="bottom" style="textCenter" xml:id="sub8">
+<tt:span style="textYellow">... because of insults</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of Bayern fans</tt:span>
+</tt:p>
+<tt:p begin="00:00:26.440" end="00:00:28.360" region="bottom" style="textCenter" xml:id="sub9">
+<tt:span style="textYellow">against TSG majority owner Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:00:28.400" end="00:00:34.240" region="bottom" style="textCenter" xml:id="sub10">
+<tt:span style="textWhite">February 29, 2020:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">A Bundesliga match turns into a scandal.</tt:span>
+</tt:p>
+<tt:p begin="00:00:34.280" end="00:00:36.680" region="bottom" style="textCenter" xml:id="sub11">
+<tt:span style="textWhite">Dietmar Hopp: insulted,</tt:span>
+</tt:p>
+<tt:p begin="00:00:36.720" end="00:00:40.440" region="bottom" style="textCenter" xml:id="sub12">
+<tt:span style="textWhite">the game on the verge of being abandoned,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Soccer Germany in turmoil.</tt:span>
+</tt:p>
+<tt:p begin="00:00:40.480" end="00:00:43.680" region="bottom" style="textCenter" xml:id="sub13">
+<tt:span style="textYellow">(Rummenigge) This is</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the ugly face of soccer.</tt:span>
+</tt:p>
+<tt:p begin="00:00:43.720" end="00:00:46.840" region="bottom" style="textCenter" xml:id="sub14">
+<tt:span style="textYellow">I'm ashamed towards Hopp,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who is a man of honor.</tt:span>
+</tt:p>
+<tt:p begin="00:00:46.880" end="00:00:50.120" region="bottom" style="textCenter" xml:id="sub15">
+<tt:span style="textYellow">This agitation against people</tt:span>
+<tt:br/>
+<tt:span style="textYellow">are so unacceptable.</tt:span>
+</tt:p>
+<tt:p begin="00:00:50.160" end="00:00:52.640" region="bottom" style="textCenter" xml:id="sub16">
+<tt:span style="textYellow">We have reached rock bottom.</tt:span>
+</tt:p>
+<tt:p begin="00:00:52.680" end="00:00:54.640" region="bottom" style="textCenter" xml:id="sub17">
+<tt:span style="textWhite">The Ultras and Dietmar Hopp,</tt:span>
+</tt:p>
+<tt:p begin="00:00:54.680" end="00:00:58.440" region="bottom" style="textCenter" xml:id="sub18">
+<tt:span style="textWhite">a permanent conflict,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">for 13 years now.</tt:span>
+</tt:p>
+<tt:p begin="00:00:58.480" end="00:01:01.360" region="bottom" style="textCenter" xml:id="sub19">
+<tt:span style="textWhite">On this day, it finally escalated.</tt:span>
+</tt:p>
+<tt:p begin="00:01:01.400" end="00:01:03.640" region="bottom" style="textCenter" xml:id="sub20">
+<tt:span style="textWhite">How did it come about? What is behind it?</tt:span>
+</tt:p>
+<tt:p begin="00:01:03.680" end="00:01:06.560" region="bottom" style="textCenter" xml:id="sub21">
+<tt:span style="textWhite">Who is to blame for the escalation?</tt:span>
+</tt:p>
+<tt:p begin="00:01:06.600" end="00:01:09.480" region="bottom" style="textCenter" xml:id="sub22">
+<tt:span style="textWhite">This is what we have</tt:span>
+<tt:br/>
+<tt:span style="textWhite">over the last few months,</tt:span>
+</tt:p>
+<tt:p begin="00:01:09.520" end="00:01:13.000" region="bottom" style="textCenter" xml:id="sub23">
+<tt:span style="textWhite">with fans,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">with lawyers from both sides,</tt:span>
+</tt:p>
+<tt:p begin="00:01:13.040" end="00:01:14.520" region="bottom" style="textCenter" xml:id="sub24">
+<tt:span style="textWhite">with officials.</tt:span>
+</tt:p>
+<tt:p begin="00:01:15.640" end="00:01:17.760" region="bottom" style="textCenter" xml:id="sub25">
+<tt:span style="textYellow">Dietmar Hopp has done nothing.</tt:span>
+</tt:p>
+<tt:p begin="00:01:17.800" end="00:01:20.400" region="bottom" style="textCenter" xml:id="sub26">
+<tt:span style="textYellow">He's being attacked for things</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that are okay.</tt:span>
+</tt:p>
+<tt:p begin="00:01:20.440" end="00:01:22.520" region="bottom" style="textCenter" xml:id="sub27">
+<tt:span style="textYellow">There's only one victim here</tt:span>
+</tt:p>
+<tt:p begin="00:01:22.560" end="00:01:24.800" region="bottom" style="textCenter" xml:id="sub28">
+<tt:span style="textYellow">and only one group</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who is guilty.</tt:span>
+</tt:p>
+<tt:p begin="00:01:24.840" end="00:01:26.560" region="bottom" style="textCenter" xml:id="sub29">
+<tt:span style="textYellow">Nonsense.</tt:span>
+</tt:p>
+<tt:p begin="00:01:26.600" end="00:01:28.360" region="bottom" style="textCenter" xml:id="sub30">
+<tt:span style="textWhite">What we have learned:</tt:span>
+</tt:p>
+<tt:p begin="00:01:28.400" end="00:01:32.920" region="bottom" style="textCenter" xml:id="sub31">
+<tt:span style="textWhite">The outrage of those responsible</tt:span>
+<tt:br/>
+<tt:span style="textWhite">on that day was not as spontaneous</tt:span>
+</tt:p>
+<tt:p begin="00:01:32.960" end="00:01:34.760" region="bottom" style="textCenter" xml:id="sub32">
+<tt:span style="textWhite">as it seemed so far.</tt:span>
+</tt:p>
+<tt:p begin="00:01:34.800" end="00:01:38.240" region="bottom" style="textCenter" xml:id="sub33">
+<tt:span style="textYellow">I think it was</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a staging, a play.</tt:span>
+</tt:p>
+<tt:p begin="00:01:38.280" end="00:01:42.640" region="bottom" style="textCenter" xml:id="sub34">
+<tt:span style="textYellow">The people at FC Bayern and</tt:span>
+<tt:br/>
+<tt:span style="textYellow">TSG Hoffenheim knew about it.</tt:span>
+</tt:p>
+<tt:p begin="00:01:42.680" end="00:01:46.160" region="bottom" style="textCenter" xml:id="sub35">
+<tt:span style="textWhite">And behind everything</tt:span>
+<tt:br/>
+<tt:span style="textWhite">is also a dispute</tt:span>
+</tt:p>
+<tt:p begin="00:01:46.200" end="00:01:49.760" region="bottom" style="textCenter" xml:id="sub36">
+<tt:span style="textWhite">between two</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the most powerful DFB bosses at the time.</tt:span>
+</tt:p>
+<tt:p begin="00:01:49.800" end="00:01:53.160" region="bottom" style="textCenter" xml:id="sub37">
+<tt:span style="textYellow">My relationship with Rainer Koch</tt:span>
+<tt:br/>
+<tt:span style="textYellow">has not only been</tt:span>
+</tt:p>
+<tt:p begin="00:01:53.200" end="00:01:56.800" region="bottom" style="textCenter" xml:id="sub38">
+<tt:span style="textYellow">not only put a strain on my relationship with Rainer Koch,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">but almost destroyed.</tt:span>
+</tt:p>
+<tt:p begin="00:01:56.840" end="00:02:00.440" region="bottom" style="textCenter" xml:id="sub39">
+<tt:span style="textWhite">And we talked to those</tt:span>
+<tt:br/>
+<tt:span style="textWhite">who triggered it all,</tt:span>
+</tt:p>
+<tt:p begin="00:02:00.480" end="00:02:03.760" region="bottom" style="textCenter" xml:id="sub40">
+<tt:span style="textWhite">who otherwise hardly ever</tt:span>
+<tt:br/>
+<tt:span style="textWhite">talk to us in the media.</tt:span>
+</tt:p>
+<tt:p begin="00:02:03.800" end="00:02:05.320" region="bottom" style="textCenter" xml:id="sub41">
+<tt:span style="textWhite">The Ultras of the Schickeria</tt:span>
+</tt:p>
+<tt:p begin="00:02:05.360" end="00:02:08.160" region="bottom" style="textCenter" xml:id="sub42">
+<tt:span style="textWhite">speak out in front of the camera</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in front of the camera for the first time.</tt:span>
+</tt:p>
+<tt:p begin="00:02:08.200" end="00:02:09.720" region="bottom" style="textCenter" xml:id="sub43">
+<tt:span style="textWhite">Also Fabian S.,</tt:span>
+</tt:p>
+<tt:p begin="00:02:09.760" end="00:02:13.840" region="bottom" style="textCenter" xml:id="sub44">
+<tt:span style="textWhite">who has to answer for this day</tt:span>
+<tt:br/>
+<tt:span style="textWhite">has to answer for this day in court.</tt:span>
+</tt:p>
+<tt:p begin="00:02:39.720" end="00:02:43.400" region="bottom" style="textCenter" xml:id="sub45">
+<tt:span style="textYellow">It was not yet Corona,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">but it was still a day</tt:span>
+</tt:p>
+<tt:p begin="00:02:43.440" end="00:02:46.480" region="bottom" style="textCenter" xml:id="sub46">
+<tt:span style="textYellow">that shook up German soccer</tt:span>
+<tt:br/>
+<tt:span style="textYellow">has been shaken up.</tt:span>
+</tt:p>
+<tt:p begin="00:02:46.520" end="00:02:49.840" region="bottom" style="textCenter" xml:id="sub47">
+<tt:span style="textYellow">(Commentator)</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"Goretzka, fantastic! 6:0!"</tt:span>
+</tt:p>
+<tt:p begin="00:02:49.880" end="00:02:52.120" region="bottom" style="textCenter" xml:id="sub48">
+<tt:span style="textYellow">I am</tt:span>
+<tt:br/>
+<tt:span style="textYellow">neither Hoffenheim nor Bayern fan,</tt:span>
+</tt:p>
+<tt:p begin="00:02:53.160" end="00:02:55.680" region="bottom" style="textCenter" xml:id="sub49">
+<tt:span style="textYellow">but I was watching the game</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of my favorite club.</tt:span>
+</tt:p>
+<tt:p begin="00:02:55.720" end="00:02:57.920" region="bottom" style="textCenter" xml:id="sub50">
+<tt:span style="textYellow">I have</tt:span>
+<tt:br/>
+<tt:span style="textYellow">over social media,</tt:span>
+</tt:p>
+<tt:p begin="00:02:57.960" end="00:03:00.320" region="bottom" style="textCenter" xml:id="sub51">
+<tt:span style="textYellow">that in Sinsheim</tt:span>
+<tt:br/>
+<tt:span style="textYellow">is happening in historical</tt:span>
+</tt:p>
+<tt:p begin="00:03:00.360" end="00:03:01.840" region="bottom" style="textCenter" xml:id="sub52">
+<tt:span style="textYellow">and I switched over.</tt:span>
+</tt:p>
+<tt:p begin="00:03:01.880" end="00:03:05.320" region="bottom" style="textCenter" xml:id="sub53">
+<tt:span style="textWhite">* (boos and whistles)</tt:span>
+</tt:p>
+<tt:p begin="00:03:05.360" end="00:03:07.360" region="bottom" style="textCenter" xml:id="sub54">
+<tt:span style="textYellow">(commentator) "So, what's next?"</tt:span>
+</tt:p>
+<tt:p begin="00:03:07.400" end="00:03:10.040" region="bottom" style="textCenter" xml:id="sub55">
+<tt:span style="textYellow">"Aha,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Insults against Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:03:10.080" end="00:03:13.880" region="bottom" style="textCenter" xml:id="sub56">
+<tt:span style="textYellow">"Banners, that's what they are.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">What is this?"</tt:span>
+</tt:p>
+<tt:p begin="00:03:13.920" end="00:03:16.400" region="bottom" style="textCenter" xml:id="sub57">
+<tt:span style="textYellow">I saw that on TV,</tt:span>
+</tt:p>
+<tt:p begin="00:03:16.440" end="00:03:20.040" region="bottom" style="textCenter" xml:id="sub58">
+<tt:span style="textYellow">and what happened there,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">I was ashamed of it.</tt:span>
+</tt:p>
+<tt:p begin="00:03:20.080" end="00:03:23.200" region="bottom" style="textCenter" xml:id="sub59">
+<tt:span style="textYellow">(Commentator)</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"I have zero understanding for it -</tt:span>
+</tt:p>
+<tt:p begin="00:03:23.240" end="00:03:26.000" region="bottom" style="textCenter" xml:id="sub60">
+<tt:span style="textYellow">and he still has arguments</tt:span>
+<tt:br/>
+<tt:span style="textYellow">why one does that!"</tt:span>
+</tt:p>
+<tt:p begin="00:03:26.040" end="00:03:29.480" region="bottom" style="textCenter" xml:id="sub61">
+<tt:span style="textYellow">All those who were there as reporters</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who were there as reporters, have seen</tt:span>
+</tt:p>
+<tt:p begin="00:03:29.520" end="00:03:32.240" region="bottom" style="textCenter" xml:id="sub62">
+<tt:span style="textYellow">how horrified,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">how shocked, how stunned</tt:span>
+</tt:p>
+<tt:p begin="00:03:32.280" end="00:03:34.240" region="bottom" style="textCenter" xml:id="sub63">
+<tt:span style="textYellow">the audience around it was.</tt:span>
+</tt:p>
+<tt:p begin="00:03:34.280" end="00:03:37.360" region="bottom" style="textCenter" xml:id="sub64">
+<tt:span style="textYellow">At that moment I said:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"This is a hard sign."</tt:span>
+</tt:p>
+<tt:p begin="00:03:37.400" end="00:03:40.280" region="bottom" style="textCenter" xml:id="sub65">
+<tt:span style="textYellow">(man) I got</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a call from Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:03:40.320" end="00:03:43.720" region="bottom" style="textCenter" xml:id="sub66">
+<tt:span style="textYellow">He was absolutely beside himself,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">stunned, horrified...</tt:span>
+</tt:p>
+<tt:p begin="00:03:43.760" end="00:03:48.320" region="bottom" style="textCenter" xml:id="sub67">
+<tt:span style="textYellow">...horrified by the worst case so far...</tt:span>
+<tt:br/>
+<tt:span style="textYellow">this agitation against him.</tt:span>
+</tt:p>
+<tt:p begin="00:03:48.360" end="00:03:51.840" region="bottom" style="textCenter" xml:id="sub68">
+<tt:span style="textYellow">(commentator) "The teams</tt:span>
+<tt:br/>
+<tt:span style="textYellow">leave the field."</tt:span>
+</tt:p>
+<tt:p begin="00:03:51.880" end="00:03:55.480" region="bottom" style="textCenter" xml:id="sub69">
+<tt:span style="textYellow">(man) An absurd spectacle,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">what was organized there.</tt:span>
+</tt:p>
+<tt:p begin="00:03:55.520" end="00:03:59.480" region="bottom" style="textCenter" xml:id="sub70">
+<tt:span style="textYellow">I'm thinking of Karl-Heinz Rummenigge</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and Dietmar Hopp,</tt:span>
+</tt:p>
+<tt:p begin="00:03:59.520" end="00:04:01.840" region="bottom" style="textCenter" xml:id="sub71">
+<tt:span style="textYellow">how they try to..,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to hold hands,</tt:span>
+</tt:p>
+<tt:p begin="00:04:01.880" end="00:04:04.560" region="bottom" style="textCenter" xml:id="sub72">
+<tt:span style="textYellow">but they can't,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and walk out onto the pitch.</tt:span>
+</tt:p>
+<tt:p begin="00:04:07.280" end="00:04:08.840" region="bottom" style="textCenter" xml:id="sub73">
+<tt:span style="textYellow">That was not soccer,</tt:span>
+</tt:p>
+<tt:p begin="00:04:08.880" end="00:04:12.720" region="bottom" style="textCenter" xml:id="sub74">
+<tt:span style="textYellow">but a demonstration</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of footballers on the pitch.</tt:span>
+</tt:p>
+<tt:p begin="00:04:12.760" end="00:04:16.040" region="bottom" style="textCenter" xml:id="sub75">
+<tt:span style="textYellow">(Commentator)</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"So, I stand up, clap along,</tt:span>
+</tt:p>
+<tt:p begin="00:04:16.080" end="00:04:21.120" region="bottom" style="textCenter" xml:id="sub76">
+<tt:span style="textYellow">as a protest, communally,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">against people who want equality,</tt:span>
+</tt:p>
+<tt:p begin="00:04:21.160" end="00:04:24.840" region="bottom" style="textCenter" xml:id="sub77">
+<tt:span style="textYellow">democracy, a free life</tt:span>
+<tt:br/>
+<tt:span style="textYellow">with equality, democracy, a free life,</tt:span>
+</tt:p>
+<tt:p begin="00:04:24.880" end="00:04:29.320" region="bottom" style="textCenter" xml:id="sub78">
+<tt:span style="textYellow">because they say, "Let's show it</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the people we hate."</tt:span>
+</tt:p>
+<tt:p begin="00:04:29.360" end="00:04:32.080" region="bottom" style="textCenter" xml:id="sub79">
+<tt:span style="textYellow">(Witte) One has outdone oneself</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in superlatives.</tt:span>
+</tt:p>
+<tt:p begin="00:04:32.120" end="00:04:34.280" region="bottom" style="textCenter" xml:id="sub80">
+<tt:span style="textYellow">If you</tt:span>
+<tt:br/>
+<tt:span style="textYellow">just seen the reports,</tt:span>
+</tt:p>
+<tt:p begin="00:04:34.320" end="00:04:37.280" region="bottom" style="textCenter" xml:id="sub81">
+<tt:span style="textYellow">you thought, like me,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who knows what happened.</tt:span>
+</tt:p>
+<tt:p begin="00:04:37.320" end="00:04:40.520" region="bottom" style="textCenter" xml:id="sub82">
+<tt:span style="textYellow">(Commentator)</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"'Dietmar Hopp,' they chant."</tt:span>
+</tt:p>
+<tt:p begin="00:04:40.560" end="00:04:42.720" region="bottom" style="textCenter" xml:id="sub83">
+<tt:span style="textWhite">* Muffled shouts and applause *</tt:span>
+</tt:p>
+<tt:p begin="00:04:44.640" end="00:04:46.960" region="bottom" style="textCenter" xml:id="sub84">
+<tt:span style="textYellow">Everyone knew:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">This was the last day,</tt:span>
+</tt:p>
+<tt:p begin="00:04:47.000" end="00:04:49.080" region="bottom" style="textCenter" xml:id="sub85">
+<tt:span style="textYellow">where something like this was allowed to happen.</tt:span>
+</tt:p>
+<tt:p begin="00:04:49.120" end="00:04:51.160" region="bottom" style="textCenter" xml:id="sub86">
+<tt:span style="textWhite">* Music fades. *</tt:span>
+</tt:p>
+<tt:p begin="00:04:55.840" end="00:04:59.640" region="bottom" style="textCenter" xml:id="sub87">
+<tt:span style="textWhite">Those who want to understand</tt:span>
+<tt:br/>
+<tt:span style="textWhite">how it came to this day,</tt:span>
+</tt:p>
+<tt:p begin="00:04:59.680" end="00:05:02.800" region="bottom" style="textCenter" xml:id="sub88">
+<tt:span style="textWhite">you have to start looking for clues</tt:span>
+<tt:br/>
+<tt:span style="textWhite">here: Dortmund,</tt:span>
+</tt:p>
+<tt:p begin="00:05:02.840" end="00:05:06.600" region="bottom" style="textCenter" xml:id="sub89">
+<tt:span style="textWhite">the city with one of</tt:span>
+<tt:br/>
+<tt:span style="textWhite">of the largest ultra scenes in Germany.</tt:span>
+</tt:p>
+<tt:p begin="00:05:06.640" end="00:05:10.000" region="bottom" style="textCenter" xml:id="sub90">
+<tt:span style="textWhite">Jan-Henrik Gruszecki</tt:span>
+<tt:br/>
+<tt:span style="textWhite">was a member for 20 years.</tt:span>
+</tt:p>
+<tt:p begin="00:05:10.040" end="00:05:13.360" region="bottom" style="textCenter" xml:id="sub91">
+<tt:span style="textWhite">Until last year he was</tt:span>
+<tt:br/>
+<tt:span style="textWhite">at the head of the BVB ultras.</tt:span>
+</tt:p>
+<tt:p begin="00:05:13.400" end="00:05:16.520" region="bottom" style="textCenter" xml:id="sub92">
+<tt:span style="textWhite">Before he was then</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in January by the BVB managing director,</tt:span>
+</tt:p>
+<tt:p begin="00:05:16.560" end="00:05:20.200" region="bottom" style="textCenter" xml:id="sub93">
+<tt:span style="textWhite">Hans-Joachim Watzke,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">was hired as chief advisor.</tt:span>
+</tt:p>
+<tt:p begin="00:05:20.240" end="00:05:23.840" region="bottom" style="textCenter" xml:id="sub94">
+<tt:span style="textWhite">We meet in December, when he</tt:span>
+<tt:br/>
+<tt:span style="textWhite">was not yet working for BVB.</tt:span>
+</tt:p>
+<tt:p begin="00:05:23.880" end="00:05:27.640" region="bottom" style="textCenter" xml:id="sub95">
+<tt:span style="textWhite">Gruszecki knows the conflict with Hopp</tt:span>
+<tt:br/>
+<tt:span style="textWhite">like hardly anyone else.</tt:span>
+</tt:p>
+<tt:p begin="00:05:27.680" end="00:05:30.080" region="bottom" style="textCenter" xml:id="sub96">
+<tt:span style="textWhite">(Reporter)</tt:span>
+<tt:br/>
+<tt:span style="textWhite">It has a long history.</tt:span>
+</tt:p>
+<tt:p begin="00:05:30.120" end="00:05:33.200" region="bottom" style="textCenter" xml:id="sub97">
+<tt:span style="textWhite">What is this conflict</tt:span>
+<tt:br/>
+<tt:span style="textWhite">this conflict exactly?</tt:span>
+</tt:p>
+<tt:p begin="00:05:33.240" end="00:05:36.880" region="bottom" style="textCenter" xml:id="sub98">
+<tt:span style="textYellow">(laughs) Oh, God.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">The question is, where do we start?</tt:span>
+</tt:p>
+<tt:p begin="00:05:36.920" end="00:05:39.400" region="bottom" style="textCenter" xml:id="sub99">
+<tt:span style="textYellow">at what point in the history?</tt:span>
+</tt:p>
+<tt:p begin="00:05:39.440" end="00:05:41.520" region="bottom" style="textCenter" xml:id="sub100">
+<tt:span style="textWhite">At the beginning.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Let's start at the beginning.</tt:span>
+</tt:p>
+<tt:p begin="00:05:42.600" end="00:05:46.320" region="bottom" style="textCenter" xml:id="sub101">
+<tt:span style="textWhite">The beginning:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">A village club in professional soccer.</tt:span>
+</tt:p>
+<tt:p begin="00:05:47.040" end="00:05:50.360" region="bottom" style="textCenter" xml:id="sub102">
+<tt:span style="textWhite">Because other clubs</tt:span>
+<tt:br/>
+<tt:span style="textWhite">didn't want his money,</tt:span>
+</tt:p>
+<tt:p begin="00:05:50.400" end="00:05:52.400" region="bottom" style="textCenter" xml:id="sub103">
+<tt:span style="textWhite">Hopp leads his hometown club</tt:span>
+</tt:p>
+<tt:p begin="00:05:52.440" end="00:05:55.680" region="bottom" style="textCenter" xml:id="sub104">
+<tt:span style="textWhite">from the village of 3,000</tt:span>
+<tt:br/>
+<tt:span style="textWhite">onto the big soccer stage.</tt:span>
+</tt:p>
+<tt:p begin="00:05:55.720" end="00:05:59.080" region="bottom" style="textCenter" xml:id="sub105">
+<tt:span style="textYellow">1899 Hoffenheim!</tt:span>
+</tt:p>
+<tt:p begin="00:05:59.120" end="00:06:02.080" region="bottom" style="textCenter" xml:id="sub106">
+<tt:span style="textWhite">For him and the region, a dream,</tt:span>
+</tt:p>
+<tt:p begin="00:06:02.120" end="00:06:05.160" region="bottom" style="textCenter" xml:id="sub107">
+<tt:span style="textWhite">for others a nightmare.</tt:span>
+</tt:p>
+<tt:p begin="00:06:05.200" end="00:06:07.240" region="bottom" style="textCenter" xml:id="sub108">
+<tt:span style="textWhite">Already in the second league in 2007</tt:span>
+</tt:p>
+<tt:p begin="00:06:07.280" end="00:06:11.440" region="bottom" style="textCenter" xml:id="sub109">
+<tt:span style="textWhite">there were massive protests</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and chants of abuse.</tt:span>
+</tt:p>
+<tt:p begin="00:06:18.800" end="00:06:21.440" region="bottom" style="textCenter" xml:id="sub110">
+<tt:span style="textYellow">He must be aware</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that in professional soccer</tt:span>
+</tt:p>
+<tt:p begin="00:06:21.480" end="00:06:23.280" region="bottom" style="textCenter" xml:id="sub111">
+<tt:span style="textYellow">there is only room for 36 clubs.</tt:span>
+</tt:p>
+<tt:p begin="00:06:23.320" end="00:06:25.720" region="bottom" style="textCenter" xml:id="sub112">
+<tt:span style="textYellow">That's when people say:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"That can't be.</tt:span>
+</tt:p>
+<tt:p begin="00:06:25.760" end="00:06:29.240" region="bottom" style="textCenter" xml:id="sub113">
+<tt:span style="textYellow">Just because you're a billionaire</tt:span>
+<tt:br/>
+<tt:span style="textYellow">you got yourself a ticket</tt:span>
+</tt:p>
+<tt:p begin="00:06:29.280" end="00:06:32.600" region="bottom" style="textCenter" xml:id="sub114">
+<tt:span style="textYellow">for professional soccer,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">for our sport."</tt:span>
+</tt:p>
+<tt:p begin="00:06:33.880" end="00:06:35.480" region="bottom" style="textCenter" xml:id="sub115">
+<tt:span style="textWhite">Especially from those cities,</tt:span>
+</tt:p>
+<tt:p begin="00:06:35.520" end="00:06:38.760" region="bottom" style="textCenter" xml:id="sub116">
+<tt:span style="textWhite">that are proud of their long</tt:span>
+<tt:br/>
+<tt:span style="textWhite">soccer tradition,</tt:span>
+</tt:p>
+<tt:p begin="00:06:38.800" end="00:06:41.200" region="bottom" style="textCenter" xml:id="sub117">
+<tt:span style="textWhite">there is a headwind,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">like here from Dortmund.</tt:span>
+</tt:p>
+<tt:p begin="00:06:42.280" end="00:06:44.320" region="bottom" style="textCenter" xml:id="sub118">
+<tt:span style="textWhite">Jan-Henrik Gruszecki was there,</tt:span>
+</tt:p>
+<tt:p begin="00:06:44.360" end="00:06:47.720" region="bottom" style="textCenter" xml:id="sub119">
+<tt:span style="textWhite">when BVB and Hoffenheim</tt:span>
+<tt:br/>
+<tt:span style="textWhite">met for the first time,</tt:span>
+</tt:p>
+<tt:p begin="00:06:47.760" end="00:06:49.760" region="bottom" style="textCenter" xml:id="sub120">
+<tt:span style="textWhite">in the 2008 Bundesliga.</tt:span>
+</tt:p>
+<tt:p begin="00:06:51.440" end="00:06:55.080" region="bottom" style="textCenter" xml:id="sub121">
+<tt:span style="textWhite">The team, cleverly put together with Hopp's millions</tt:span>
+<tt:br/>
+<tt:span style="textWhite">team, cleverly put together with Hopp's millions</tt:span>
+</tt:p>
+<tt:p begin="00:06:55.120" end="00:06:58.200" region="bottom" style="textCenter" xml:id="sub122">
+<tt:span style="textWhite">overran BVB, 4:1.</tt:span>
+</tt:p>
+<tt:p begin="00:06:58.240" end="00:07:02.240" region="bottom" style="textCenter" xml:id="sub123">
+<tt:span style="textWhite">The upstart</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dismantles the establishment.</tt:span>
+</tt:p>
+<tt:p begin="00:07:04.400" end="00:07:05.880" region="bottom" style="textCenter" xml:id="sub124">
+<tt:span style="textWhite">In the Dortmund fan curve</tt:span>
+</tt:p>
+<tt:p begin="00:07:05.920" end="00:07:09.160" region="bottom" style="textCenter" xml:id="sub125">
+<tt:span style="textWhite">for the first time</tt:span>
+<tt:br/>
+<tt:span style="textWhite">a crosshair poster appears for the first time.</tt:span>
+</tt:p>
+<tt:p begin="00:07:09.200" end="00:07:13.200" region="bottom" style="textCenter" xml:id="sub126">
+<tt:span style="textWhite">Dietmar Hopp as a target,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">as the face of commercialization,</tt:span>
+</tt:p>
+<tt:p begin="00:07:13.240" end="00:07:16.800" region="bottom" style="textCenter" xml:id="sub127">
+<tt:span style="textWhite">as a hate figure for those</tt:span>
+<tt:br/>
+<tt:span style="textWhite">who were there before.</tt:span>
+</tt:p>
+<tt:p begin="00:07:16.840" end="00:07:19.040" region="bottom" style="textCenter" xml:id="sub128">
+<tt:span style="textYellow">(Gruszecki) Hello.</tt:span>
+</tt:p>
+<tt:p begin="00:07:19.080" end="00:07:21.000" region="bottom" style="textCenter" xml:id="sub129">
+<tt:span style="textWhite">Worlds collide:</tt:span>
+</tt:p>
+<tt:p begin="00:07:21.040" end="00:07:24.800" region="bottom" style="textCenter" xml:id="sub130">
+<tt:span style="textWhite">the Ultras -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">youth culture, loud, rebellious -</tt:span>
+</tt:p>
+<tt:p begin="00:07:24.840" end="00:07:29.000" region="bottom" style="textCenter" xml:id="sub131">
+<tt:span style="textWhite">and the billionaire</tt:span>
+<tt:br/>
+<tt:span style="textWhite">with his prominent lawyer.</tt:span>
+</tt:p>
+<tt:p begin="00:07:29.040" end="00:07:31.680" region="bottom" style="textCenter" xml:id="sub132">
+<tt:span style="textYellow">The commercialization of soccer,</tt:span>
+</tt:p>
+<tt:p begin="00:07:31.720" end="00:07:35.440" region="bottom" style="textCenter" xml:id="sub133">
+<tt:span style="textYellow">is just as prevalent in Dortmund</tt:span>
+<tt:br/>
+<tt:span style="textYellow">as it is in Schalke and St. Pauli</tt:span>
+</tt:p>
+<tt:p begin="00:07:35.480" end="00:07:37.800" region="bottom" style="textCenter" xml:id="sub134">
+<tt:span style="textYellow">and Hoffenheim and Leipzig.</tt:span>
+</tt:p>
+<tt:p begin="00:07:37.840" end="00:07:41.120" region="bottom" style="textCenter" xml:id="sub135">
+<tt:span style="textYellow">The commercialization of soccer</tt:span>
+<tt:br/>
+<tt:span style="textYellow">is through.</tt:span>
+</tt:p>
+<tt:p begin="00:07:41.160" end="00:07:43.280" region="bottom" style="textCenter" xml:id="sub136">
+<tt:span style="textYellow">Fans have to come to terms</tt:span>
+<tt:br/>
+<tt:span style="textYellow">come to terms with it.</tt:span>
+</tt:p>
+<tt:p begin="00:07:43.320" end="00:07:46.200" region="bottom" style="textCenter" xml:id="sub137">
+<tt:span style="textWhite">(Reporter)</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Why is Hoffenheim more commercial</tt:span>
+</tt:p>
+<tt:p begin="00:07:46.240" end="00:07:48.480" region="bottom" style="textCenter" xml:id="sub138">
+<tt:span style="textWhite">than a stock market company</tt:span>
+<tt:br/>
+<tt:span style="textWhite">like Dortmund?</tt:span>
+</tt:p>
+<tt:p begin="00:07:49.600" end="00:07:51.280" region="bottom" style="textCenter" xml:id="sub139">
+<tt:span style="textYellow">More commerce, less commerce,</tt:span>
+</tt:p>
+<tt:p begin="00:07:51.320" end="00:07:53.560" region="bottom" style="textCenter" xml:id="sub140">
+<tt:span style="textYellow">it's impossible to define,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">I think.</tt:span>
+</tt:p>
+<tt:p begin="00:07:53.600" end="00:07:56.040" region="bottom" style="textCenter" xml:id="sub141">
+<tt:span style="textYellow">The difference is</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that Borussia Dortmund</tt:span>
+</tt:p>
+<tt:p begin="00:07:56.080" end="00:07:57.760" region="bottom" style="textCenter" xml:id="sub142">
+<tt:span style="textYellow">has made it on its own,</tt:span>
+</tt:p>
+<tt:p begin="00:07:57.800" end="00:08:00.200" region="bottom" style="textCenter" xml:id="sub143">
+<tt:span style="textYellow">to be a member of the</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of its own accord.</tt:span>
+</tt:p>
+<tt:p begin="00:08:00.240" end="00:08:03.320" region="bottom" style="textCenter" xml:id="sub144">
+<tt:span style="textYellow">So as a founding member,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">as a great traditional club,</tt:span>
+</tt:p>
+<tt:p begin="00:08:03.360" end="00:08:05.720" region="bottom" style="textCenter" xml:id="sub145">
+<tt:span style="textYellow">and TSG Hoffenheim just isn't.</tt:span>
+</tt:p>
+<tt:p begin="00:08:05.760" end="00:08:07.880" region="bottom" style="textCenter" xml:id="sub146">
+<tt:span style="textYellow">The natural limit of TSG</tt:span>
+</tt:p>
+<tt:p begin="00:08:07.920" end="00:08:10.840" region="bottom" style="textCenter" xml:id="sub147">
+<tt:span style="textYellow">is probably</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the Verbandsliga or Landesliga.</tt:span>
+</tt:p>
+<tt:p begin="00:08:10.880" end="00:08:13.480" region="bottom" style="textCenter" xml:id="sub148">
+<tt:span style="textWhite">Not with Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:08:13.520" end="00:08:16.560" region="bottom" style="textCenter" xml:id="sub149">
+<tt:span style="textWhite">He gives Hoffenheim</tt:span>
+<tt:br/>
+<tt:span style="textWhite">a new stadium,</tt:span>
+</tt:p>
+<tt:p begin="00:08:16.600" end="00:08:18.240" region="bottom" style="textCenter" xml:id="sub150">
+<tt:span style="textWhite">reaps tributes...</tt:span>
+</tt:p>
+<tt:p begin="00:08:21.280" end="00:08:22.840" region="bottom" style="textCenter" xml:id="sub151">
+<tt:span style="textWhite">... and hatred.</tt:span>
+</tt:p>
+<tt:p begin="00:08:26.840" end="00:08:31.200" region="bottom" style="textCenter" xml:id="sub152">
+<tt:span style="textWhite">For many fans, he becomes a symbol</tt:span>
+<tt:br/>
+<tt:span style="textWhite">for the softening of the 50+1 rule,</tt:span>
+</tt:p>
+<tt:p begin="00:08:31.240" end="00:08:35.720" region="bottom" style="textCenter" xml:id="sub153">
+<tt:span style="textWhite">which prohibits investors from</tt:span>
+<tt:br/>
+<tt:span style="textWhite">from taking over a majority stake in a club.</tt:span>
+</tt:p>
+<tt:p begin="00:08:35.760" end="00:08:37.640" region="bottom" style="textCenter" xml:id="sub154">
+<tt:span style="textWhite">Like Leverkusen and Wolfsburg before him</tt:span>
+</tt:p>
+<tt:p begin="00:08:37.680" end="00:08:39.960" region="bottom" style="textCenter" xml:id="sub155">
+<tt:span style="textWhite">Hopp, however, gets</tt:span>
+<tt:br/>
+<tt:span style="textWhite">an exemption</tt:span>
+</tt:p>
+<tt:p begin="00:08:40.000" end="00:08:42.720" region="bottom" style="textCenter" xml:id="sub156">
+<tt:span style="textWhite">because of his</tt:span>
+<tt:br/>
+<tt:span style="textWhite">decades of commitment.</tt:span>
+</tt:p>
+<tt:p begin="00:08:42.760" end="00:08:45.120" region="bottom" style="textCenter" xml:id="sub157">
+<tt:span style="textWhite">(Reporter)</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Criticism of commercialization</tt:span>
+</tt:p>
+<tt:p begin="00:08:45.160" end="00:08:46.640" region="bottom" style="textCenter" xml:id="sub158">
+<tt:span style="textWhite">is totally legitimate.</tt:span>
+</tt:p>
+<tt:p begin="00:08:46.680" end="00:08:49.640" region="bottom" style="textCenter" xml:id="sub159">
+<tt:span style="textWhite">But why in this way,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">why "son of a bitch"?</tt:span>
+</tt:p>
+<tt:p begin="00:08:49.680" end="00:08:51.840" region="bottom" style="textCenter" xml:id="sub160">
+<tt:span style="textYellow">The choice of words</tt:span>
+<tt:br/>
+<tt:span style="textYellow">shows the powerlessness.</tt:span>
+</tt:p>
+<tt:p begin="00:08:51.880" end="00:08:54.080" region="bottom" style="textCenter" xml:id="sub161">
+<tt:span style="textYellow">How many</tt:span>
+<tt:br/>
+<tt:span style="textYellow">differentiated texts were there</tt:span>
+</tt:p>
+<tt:p begin="00:08:54.120" end="00:08:56.360" region="bottom" style="textCenter" xml:id="sub162">
+<tt:span style="textYellow">from fan organizations</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and so on -</tt:span>
+</tt:p>
+<tt:p begin="00:08:56.400" end="00:08:58.360" region="bottom" style="textCenter" xml:id="sub163">
+<tt:span style="textYellow">the topic was never addressed.</tt:span>
+</tt:p>
+<tt:p begin="00:08:58.400" end="00:09:01.440" region="bottom" style="textCenter" xml:id="sub164">
+<tt:span style="textYellow">It only became an issue</tt:span>
+<tt:br/>
+<tt:span style="textYellow">when boundaries were crossed.</tt:span>
+</tt:p>
+<tt:p begin="00:09:01.480" end="00:09:03.120" region="bottom" style="textCenter" xml:id="sub165">
+<tt:span style="textYellow">Youth culture has learned:</tt:span>
+</tt:p>
+<tt:p begin="00:09:03.160" end="00:09:06.280" region="bottom" style="textCenter" xml:id="sub166">
+<tt:span style="textYellow">"We are only heard</tt:span>
+<tt:br/>
+<tt:span style="textYellow">if we cross boundaries."</tt:span>
+</tt:p>
+<tt:p begin="00:09:10.280" end="00:09:12.440" region="bottom" style="textCenter" xml:id="sub167">
+<tt:span style="textYellow">I would have liked to have seen</tt:span>
+</tt:p>
+<tt:p begin="00:09:12.480" end="00:09:15.400" region="bottom" style="textCenter" xml:id="sub168">
+<tt:span style="textYellow">that Dietmar Hopp</tt:span>
+<tt:br/>
+<tt:span style="textYellow">had been more on top of things.</tt:span>
+</tt:p>
+<tt:p begin="00:09:15.440" end="00:09:19.440" region="bottom" style="textCenter" xml:id="sub169">
+<tt:span style="textYellow">In the end, he and</tt:span>
+<tt:br/>
+<tt:span style="textYellow">together with his agitator Schickhardt</tt:span>
+</tt:p>
+<tt:p begin="00:09:19.480" end="00:09:22.040" region="bottom" style="textCenter" xml:id="sub170">
+<tt:span style="textYellow">poured a lot of oil on the fire.</tt:span>
+</tt:p>
+<tt:p begin="00:09:22.080" end="00:09:26.240" region="bottom" style="textCenter" xml:id="sub171">
+<tt:span style="textYellow">Leipzig's rise to the top at the latest</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the image of the enemy has shifted.</tt:span>
+</tt:p>
+<tt:p begin="00:09:26.280" end="00:09:29.320" region="bottom" style="textCenter" xml:id="sub172">
+<tt:span style="textYellow">The topic</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was no longer a big issue.</tt:span>
+</tt:p>
+<tt:p begin="00:09:29.360" end="00:09:33.720" region="bottom" style="textCenter" xml:id="sub173">
+<tt:span style="textYellow">That's why I'm actually playing the ball</tt:span>
+<tt:br/>
+<tt:span style="textYellow">into Schickhardt's office.</tt:span>
+</tt:p>
+<tt:p begin="00:09:33.760" end="00:09:35.720" region="bottom" style="textCenter" xml:id="sub174">
+<tt:span style="textYellow">I think he helped to make sure</tt:span>
+</tt:p>
+<tt:p begin="00:09:35.760" end="00:09:38.440" region="bottom" style="textCenter" xml:id="sub175">
+<tt:span style="textYellow">that these fronts</tt:span>
+<tt:br/>
+<tt:span style="textYellow">were raised again.</tt:span>
+</tt:p>
+<tt:p begin="00:09:39.680" end="00:09:41.760" region="bottom" style="textCenter" xml:id="sub176">
+<tt:span style="textYellow">Now, is it?</tt:span>
+</tt:p>
+<tt:p begin="00:09:43.080" end="00:09:45.760" region="bottom" style="textCenter" xml:id="sub177">
+<tt:span style="textWhite">The office of Christoph Schickhardt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">is here</tt:span>
+</tt:p>
+<tt:p begin="00:09:45.800" end="00:09:48.760" region="bottom" style="textCenter" xml:id="sub178">
+<tt:span style="textWhite">in Ludwigsburg near Stuttgart.</tt:span>
+</tt:p>
+<tt:p begin="00:09:48.800" end="00:09:51.640" region="bottom" style="textCenter" xml:id="sub179">
+<tt:span style="textWhite">Schickhardt is one</tt:span>
+<tt:br/>
+<tt:span style="textWhite">of the best-known sports lawyers,</tt:span>
+</tt:p>
+<tt:p begin="00:09:51.680" end="00:09:55.720" region="bottom" style="textCenter" xml:id="sub180">
+<tt:span style="textWhite">works for several Bundesliga clubs</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and for Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:09:57.080" end="00:09:59.160" region="bottom" style="textCenter" xml:id="sub181">
+<tt:span style="textWhite">In 2017, Hopp and he decided</tt:span>
+</tt:p>
+<tt:p begin="00:09:59.200" end="00:10:02.320" region="bottom" style="textCenter" xml:id="sub182">
+<tt:span style="textWhite">criminal</tt:span>
+<tt:br/>
+<tt:span style="textWhite">against insults.</tt:span>
+</tt:p>
+<tt:p begin="00:10:03.320" end="00:10:05.520" region="bottom" style="textCenter" xml:id="sub183">
+<tt:span style="textWhite">(Reporter) What was</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the trigger for this?</tt:span>
+</tt:p>
+<tt:p begin="00:10:05.560" end="00:10:08.200" region="bottom" style="textCenter" xml:id="sub184">
+<tt:span style="textYellow">The trigger was once,</tt:span>
+</tt:p>
+<tt:p begin="00:10:08.240" end="00:10:11.440" region="bottom" style="textCenter" xml:id="sub185">
+<tt:span style="textYellow">that we always hoped</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that it would go away.</tt:span>
+</tt:p>
+<tt:p begin="00:10:11.480" end="00:10:14.920" region="bottom" style="textCenter" xml:id="sub186">
+<tt:span style="textYellow">But then it got worse and worse,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">more and more.</tt:span>
+</tt:p>
+<tt:p begin="00:10:14.960" end="00:10:19.480" region="bottom" style="textCenter" xml:id="sub187">
+<tt:span style="textYellow">And then, in addition</tt:span>
+<tt:br/>
+<tt:span style="textYellow">one day in Cologne also posters,</tt:span>
+</tt:p>
+<tt:p begin="00:10:19.520" end="00:10:24.240" region="bottom" style="textCenter" xml:id="sub188">
+<tt:span style="textYellow">which were so horrible that they were</tt:span>
+<tt:br/>
+<tt:span style="textYellow">they were no longer acceptable.</tt:span>
+</tt:p>
+<tt:p begin="00:10:24.280" end="00:10:27.240" region="bottom" style="textCenter" xml:id="sub189">
+<tt:span style="textYellow">Which then suggested a political</tt:span>
+<tt:br/>
+<tt:span style="textYellow">political background,</tt:span>
+</tt:p>
+<tt:p begin="00:10:27.280" end="00:10:29.720" region="bottom" style="textCenter" xml:id="sub190">
+<tt:span style="textYellow">which involved his family.</tt:span>
+</tt:p>
+<tt:p begin="00:10:31.360" end="00:10:34.080" region="bottom" style="textCenter" xml:id="sub191">
+<tt:span style="textWhite">"Dietmar: Tomorrow to the Maritim?</tt:span>
+</tt:p>
+<tt:p begin="00:10:34.120" end="00:10:36.080" region="bottom" style="textCenter" xml:id="sub192">
+<tt:span style="textWhite">Your father would be proud."</tt:span>
+</tt:p>
+<tt:p begin="00:10:36.120" end="00:10:39.920" region="bottom" style="textCenter" xml:id="sub193">
+<tt:span style="textWhite">The background: At the Maritim</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the party convention of the AfD took place.</tt:span>
+</tt:p>
+<tt:p begin="00:10:39.960" end="00:10:43.440" region="bottom" style="textCenter" xml:id="sub194">
+<tt:span style="textWhite">Hopp's father was a squad leader in the</tt:span>
+<tt:br/>
+<tt:span style="textWhite">SA in the Third Reich.</tt:span>
+</tt:p>
+<tt:p begin="00:10:43.480" end="00:10:47.280" region="bottom" style="textCenter" xml:id="sub195">
+<tt:span style="textYellow">Then at some point he said:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"That's really enough for me.</tt:span>
+</tt:p>
+<tt:p begin="00:10:47.320" end="00:10:50.880" region="bottom" style="textCenter" xml:id="sub196">
+<tt:span style="textYellow">Now we're going to go through with this and</tt:span>
+<tt:br/>
+<tt:span style="textYellow">we're not going to take it anymore."</tt:span>
+</tt:p>
+<tt:p begin="00:10:51.920" end="00:10:53.640" region="bottom" style="textCenter" xml:id="sub197">
+<tt:span style="textWhite">Hopp files a criminal complaint.</tt:span>
+</tt:p>
+<tt:p begin="00:10:53.680" end="00:10:56.880" region="bottom" style="textCenter" xml:id="sub198">
+<tt:span style="textWhite">A Cologne Ultra</tt:span>
+<tt:br/>
+<tt:span style="textWhite">is sentenced to a fine.</tt:span>
+</tt:p>
+<tt:p begin="00:10:56.920" end="00:10:59.560" region="bottom" style="textCenter" xml:id="sub199">
+<tt:span style="textWhite">But Hopp</tt:span>
+<tt:br/>
+<tt:span style="textWhite">goes one step further:</tt:span>
+</tt:p>
+<tt:p begin="00:10:59.600" end="00:11:03.800" region="bottom" style="textCenter" xml:id="sub200">
+<tt:span style="textWhite">He decides to take legal action against</tt:span>
+<tt:br/>
+<tt:span style="textWhite">against chants of abuse in the future,</tt:span>
+</tt:p>
+<tt:p begin="00:11:03.840" end="00:11:06.920" region="bottom" style="textCenter" xml:id="sub201">
+<tt:span style="textWhite">as had been the case for years</tt:span>
+<tt:br/>
+<tt:span style="textWhite">against him for years.</tt:span>
+</tt:p>
+<tt:p begin="00:11:06.960" end="00:11:11.000" region="bottom" style="textCenter" xml:id="sub202">
+<tt:span style="textWhite">At the Hoffenheim stadium</tt:span>
+<tt:br/>
+<tt:span style="textWhite">stadium at the end of 2017 especially for this purpose.</tt:span>
+</tt:p>
+<tt:p begin="00:11:11.040" end="00:11:14.240" region="bottom" style="textCenter" xml:id="sub203">
+<tt:span style="textWhite">a special directional microphone</tt:span>
+<tt:br/>
+<tt:span style="textWhite">installed.</tt:span>
+</tt:p>
+<tt:p begin="00:11:14.280" end="00:11:16.600" region="bottom" style="textCenter" xml:id="sub204">
+<tt:span style="textWhite">It is</tt:span>
+<tt:br/>
+<tt:span style="textWhite">attached to the main stand</tt:span>
+</tt:p>
+<tt:p begin="00:11:16.640" end="00:11:18.880" region="bottom" style="textCenter" xml:id="sub205">
+<tt:span style="textWhite">and is aimed at the guest block.</tt:span>
+</tt:p>
+<tt:p begin="00:11:18.920" end="00:11:21.880" region="bottom" style="textCenter" xml:id="sub206">
+<tt:span style="textWhite">We would have loved to have</tt:span>
+<tt:br/>
+<tt:span style="textWhite">shot at the stadium in Sinsheim.</tt:span>
+</tt:p>
+<tt:p begin="00:11:21.920" end="00:11:25.160" region="bottom" style="textCenter" xml:id="sub207">
+<tt:span style="textWhite">TSG Hoffenheim</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Hoffenheim did not want to grant us</tt:span>
+</tt:p>
+<tt:p begin="00:11:25.200" end="00:11:27.600" region="bottom" style="textCenter" xml:id="sub208">
+<tt:span style="textWhite">permission for this project.</tt:span>
+</tt:p>
+<tt:p begin="00:11:27.640" end="00:11:32.320" region="bottom" style="textCenter" xml:id="sub209">
+<tt:span style="textWhite">Criminal charges for chants</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Hopp files charges for the first time in 2018.</tt:span>
+</tt:p>
+<tt:p begin="00:11:32.360" end="00:11:35.280" region="bottom" style="textCenter" xml:id="sub210">
+<tt:span style="textWhite">Home game against Cologne,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Half an hour before kickoff.</tt:span>
+</tt:p>
+<tt:p begin="00:11:35.320" end="00:11:38.520" region="bottom" style="textCenter" xml:id="sub211">
+<tt:span style="textWhite">The stadium is still barely filled,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Cologne fans chant:</tt:span>
+</tt:p>
+<tt:p begin="00:11:45.640" end="00:11:47.960" region="bottom" style="textCenter" xml:id="sub212">
+<tt:span style="textWhite">"Dietmar Hopp, you son of a whore."</tt:span>
+</tt:p>
+<tt:p begin="00:11:48.000" end="00:11:50.240" region="bottom" style="textCenter" xml:id="sub213">
+<tt:span style="textWhite">The chants last 30 seconds.</tt:span>
+</tt:p>
+<tt:p begin="00:11:52.240" end="00:11:55.720" region="bottom" style="textCenter" xml:id="sub214">
+<tt:span style="textWhite">Even after a home game</tt:span>
+<tt:br/>
+<tt:span style="textWhite">against Dortmund in May 2018</tt:span>
+</tt:p>
+<tt:p begin="00:11:55.760" end="00:11:57.960" region="bottom" style="textCenter" xml:id="sub215">
+<tt:span style="textWhite">Hopp files a criminal complaint.</tt:span>
+</tt:p>
+<tt:p begin="00:11:58.000" end="00:12:00.960" region="bottom" style="textCenter" xml:id="sub216">
+<tt:span style="textYellow">(chant)</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"Dietmar Hopp, you son of a whore!"</tt:span>
+</tt:p>
+<tt:p begin="00:12:01.000" end="00:12:03.360" region="bottom" style="textCenter" xml:id="sub217">
+<tt:span style="textYellow">It has indeed</tt:span>
+<tt:br/>
+<tt:span style="textYellow">been a dam breaking,</tt:span>
+</tt:p>
+<tt:p begin="00:12:03.400" end="00:12:07.800" region="bottom" style="textCenter" xml:id="sub218">
+<tt:span style="textYellow">that insults in soccer</tt:span>
+<tt:br/>
+<tt:span style="textYellow">against insults in football.</tt:span>
+</tt:p>
+<tt:p begin="00:12:07.840" end="00:12:09.960" region="bottom" style="textCenter" xml:id="sub219">
+<tt:span style="textYellow">So, and if we start with that ...</tt:span>
+</tt:p>
+<tt:p begin="00:12:10.000" end="00:12:13.240" region="bottom" style="textCenter" xml:id="sub220">
+<tt:span style="textYellow">I think,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">we don't have a C-division game</tt:span>
+</tt:p>
+<tt:p begin="00:12:13.280" end="00:12:14.760" region="bottom" style="textCenter" xml:id="sub221">
+<tt:span style="textYellow">where people don't even say:</tt:span>
+</tt:p>
+<tt:p begin="00:12:14.800" end="00:12:16.920" region="bottom" style="textCenter" xml:id="sub222">
+<tt:span style="textYellow">"Hey, that five</tt:span>
+<tt:br/>
+<tt:span style="textYellow">is an asshole."</tt:span>
+</tt:p>
+<tt:p begin="00:12:16.960" end="00:12:18.960" region="bottom" style="textCenter" xml:id="sub223">
+<tt:span style="textYellow">Where do we want to draw the line there?</tt:span>
+</tt:p>
+<tt:p begin="00:12:19.000" end="00:12:21.560" region="bottom" style="textCenter" xml:id="sub224">
+<tt:span style="textYellow">And I think</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Hoffenheim has opened</tt:span>
+</tt:p>
+<tt:p begin="00:12:21.600" end="00:12:25.800" region="bottom" style="textCenter" xml:id="sub225">
+<tt:span style="textYellow">opened Pandora's box.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">And I think that's not good.</tt:span>
+</tt:p>
+<tt:p begin="00:12:27.400" end="00:12:30.440" region="bottom" style="textCenter" xml:id="sub226">
+<tt:span style="textWhite">Are insulting chants</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in a soccer stadium punishable by law?</tt:span>
+</tt:p>
+<tt:p begin="00:12:30.480" end="00:12:33.680" region="bottom" style="textCenter" xml:id="sub227">
+<tt:span style="textWhite">That has been the subject of negotiations here since 2018.</tt:span>
+</tt:p>
+<tt:p begin="00:12:33.720" end="00:12:35.640" region="bottom" style="textCenter" xml:id="sub228">
+<tt:span style="textWhite">In the Sinsheim district court.</tt:span>
+</tt:p>
+<tt:p begin="00:12:36.680" end="00:12:39.120" region="bottom" style="textCenter" xml:id="sub229">
+<tt:span style="textWhite">Stefan Witte</tt:span>
+<tt:br/>
+<tt:span style="textWhite">defends fans of BVB,</tt:span>
+</tt:p>
+<tt:p begin="00:12:39.160" end="00:12:41.880" region="bottom" style="textCenter" xml:id="sub230">
+<tt:span style="textWhite">of 1. FC Köln and Bayern.</tt:span>
+</tt:p>
+<tt:p begin="00:12:41.920" end="00:12:45.280" region="bottom" style="textCenter" xml:id="sub231">
+<tt:span style="textWhite">He does not consider "son of a bitch" chants against Hopp</tt:span>
+<tt:br/>
+<tt:span style="textWhite">he does not consider a criminal offense.</tt:span>
+</tt:p>
+<tt:p begin="00:12:45.320" end="00:12:47.320" region="bottom" style="textCenter" xml:id="sub232">
+<tt:span style="textWhite">A legal explanation:</tt:span>
+</tt:p>
+<tt:p begin="00:12:47.360" end="00:12:50.680" region="bottom" style="textCenter" xml:id="sub233">
+<tt:span style="textYellow">It is as long</tt:span>
+<tt:br/>
+<tt:span style="textYellow">permitted as long as one can say</tt:span>
+</tt:p>
+<tt:p begin="00:12:50.720" end="00:12:53.160" region="bottom" style="textCenter" xml:id="sub234">
+<tt:span style="textYellow">that it is</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that it is not a violation of honor.</tt:span>
+</tt:p>
+<tt:p begin="00:12:53.200" end="00:12:56.000" region="bottom" style="textCenter" xml:id="sub235">
+<tt:span style="textYellow">That is,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">only an attack against the person,</tt:span>
+</tt:p>
+<tt:p begin="00:12:56.040" end="00:12:58.240" region="bottom" style="textCenter" xml:id="sub236">
+<tt:span style="textYellow">to make the person despicable.</tt:span>
+</tt:p>
+<tt:p begin="00:12:58.280" end="00:13:00.080" region="bottom" style="textCenter" xml:id="sub237">
+<tt:span style="textYellow">That is not the case here.</tt:span>
+</tt:p>
+<tt:p begin="00:13:00.120" end="00:13:03.440" region="bottom" style="textCenter" xml:id="sub238">
+<tt:span style="textYellow">The person Dietmar Hopp</tt:span>
+<tt:br/>
+<tt:span style="textYellow">is not attacked as a person,</tt:span>
+</tt:p>
+<tt:p begin="00:13:03.480" end="00:13:05.720" region="bottom" style="textCenter" xml:id="sub239">
+<tt:span style="textYellow">but his commitment</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and what he stands for.</tt:span>
+</tt:p>
+<tt:p begin="00:13:05.760" end="00:13:09.360" region="bottom" style="textCenter" xml:id="sub240">
+<tt:span style="textWhite">The word "son of a bitch" is used against the person.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">You have to see it in context.</tt:span>
+</tt:p>
+<tt:p begin="00:13:09.400" end="00:13:11.240" region="bottom" style="textCenter" xml:id="sub241">
+<tt:span style="textYellow">Just the insult "son of a bitch" -</tt:span>
+</tt:p>
+<tt:p begin="00:13:11.280" end="00:13:14.920" region="bottom" style="textCenter" xml:id="sub242">
+<tt:span style="textYellow">of course I'm not allowed to insult someone as a</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Son of a bitch, just like that.</tt:span>
+</tt:p>
+<tt:p begin="00:13:14.960" end="00:13:17.120" region="bottom" style="textCenter" xml:id="sub243">
+<tt:span style="textYellow">And in the context,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in which that happens,</tt:span>
+</tt:p>
+<tt:p begin="00:13:17.160" end="00:13:19.120" region="bottom" style="textCenter" xml:id="sub244">
+<tt:span style="textYellow">I don't think it's a crime.</tt:span>
+</tt:p>
+<tt:p begin="00:13:25.240" end="00:13:26.720" region="bottom" style="textCenter" xml:id="sub245">
+<tt:span style="textWhite">In the context of soccer</tt:span>
+</tt:p>
+<tt:p begin="00:13:26.760" end="00:13:29.760" region="bottom" style="textCenter" xml:id="sub246">
+<tt:span style="textWhite">extreme slurs like "son of a bitch</tt:span>
+<tt:br/>
+<tt:span style="textWhite">like "son of a bitch" are not new.</tt:span>
+</tt:p>
+<tt:p begin="00:13:29.800" end="00:13:32.960" region="bottom" style="textCenter" xml:id="sub247">
+<tt:span style="textWhite">Whether against fans</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the referee or players.</tt:span>
+</tt:p>
+<tt:p begin="00:13:35.920" end="00:13:38.520" region="bottom" style="textCenter" xml:id="sub248">
+<tt:span style="textWhite">Timo Werner, for example</tt:span>
+<tt:br/>
+<tt:span style="textWhite">has been called a "son of a bitch</tt:span>
+</tt:p>
+<tt:p begin="00:13:38.560" end="00:13:42.920" region="bottom" style="textCenter" xml:id="sub249">
+<tt:span style="textWhite">as a "son of a bitch" in many stadiums,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">including in Sinsheim by TSG fans.</tt:span>
+</tt:p>
+<tt:p begin="00:13:42.960" end="00:13:45.720" region="bottom" style="textCenter" xml:id="sub250">
+<tt:span style="textWhite">He was also</tt:span>
+<tt:br/>
+<tt:span style="textWhite">asked by the Sinsheim police</tt:span>
+</tt:p>
+<tt:p begin="00:13:45.760" end="00:13:48.800" region="bottom" style="textCenter" xml:id="sub251">
+<tt:span style="textWhite">whether he wanted to file a criminal complaint.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Werner did not want to.</tt:span>
+</tt:p>
+<tt:p begin="00:13:48.840" end="00:13:53.240" region="bottom" style="textCenter" xml:id="sub252">
+<tt:span style="textYellow">The offense of insulting</tt:span>
+<tt:br/>
+<tt:span style="textYellow">is a very individual one.</tt:span>
+</tt:p>
+<tt:p begin="00:13:53.280" end="00:13:58.680" region="bottom" style="textCenter" xml:id="sub253">
+<tt:span style="textYellow">One person feels insulted by a</tt:span>
+<tt:br/>
+<tt:span style="textYellow">offended, the other not.</tt:span>
+</tt:p>
+<tt:p begin="00:13:58.720" end="00:14:01.840" region="bottom" style="textCenter" xml:id="sub254">
+<tt:span style="textWhite">Does that mean Dietmar Hopp feels</tt:span>
+<tt:br/>
+<tt:span style="textWhite">more offended than others?</tt:span>
+</tt:p>
+<tt:p begin="00:14:01.880" end="00:14:03.720" region="bottom" style="textCenter" xml:id="sub255">
+<tt:span style="textYellow">Yes.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">And that's why he has filed a lawsuit.</tt:span>
+</tt:p>
+<tt:p begin="00:14:03.760" end="00:14:07.480" region="bottom" style="textCenter" xml:id="sub256">
+<tt:span style="textYellow">He feels his personal honor has been</tt:span>
+<tt:br/>
+<tt:span style="textYellow">his personal honor in the worst possible way.</tt:span>
+</tt:p>
+<tt:p begin="00:14:08.600" end="00:14:10.840" region="bottom" style="textCenter" xml:id="sub257">
+<tt:span style="textYellow">He is</tt:span>
+<tt:br/>
+<tt:span style="textYellow">recognized all over the world.</tt:span>
+</tt:p>
+<tt:p begin="00:14:10.880" end="00:14:15.600" region="bottom" style="textCenter" xml:id="sub258">
+<tt:span style="textYellow">And then these guys come along,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who are still green behind the ears,</tt:span>
+</tt:p>
+<tt:p begin="00:14:15.640" end="00:14:18.800" region="bottom" style="textCenter" xml:id="sub259">
+<tt:span style="textYellow">in his stadium</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and shout such insults.</tt:span>
+</tt:p>
+<tt:p begin="00:14:18.840" end="00:14:22.440" region="bottom" style="textCenter" xml:id="sub260">
+<tt:span style="textYellow">He's standing there with his sister,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">his grandchildren, his friends.</tt:span>
+</tt:p>
+<tt:p begin="00:14:23.560" end="00:14:25.320" region="bottom" style="textCenter" xml:id="sub261">
+<tt:span style="textWhite">But even from objective criticism</tt:span>
+</tt:p>
+<tt:p begin="00:14:25.360" end="00:14:27.760" region="bottom" style="textCenter" xml:id="sub262">
+<tt:span style="textWhite">Dietmar Hopp felt attacked</tt:span>
+<tt:br/>
+<tt:span style="textWhite">felt attacked early on.</tt:span>
+</tt:p>
+<tt:p begin="00:14:27.800" end="00:14:32.360" region="bottom" style="textCenter" xml:id="sub263">
+<tt:span style="textWhite">As in the case of Christian Heidel,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the Mainz manager in 2007.</tt:span>
+</tt:p>
+<tt:p begin="00:14:32.400" end="00:14:34.400" region="bottom" style="textCenter" xml:id="sub264">
+<tt:span style="textYellow">I think it's a bit of a pity..,</tt:span>
+</tt:p>
+<tt:p begin="00:14:34.440" end="00:14:36.880" region="bottom" style="textCenter" xml:id="sub265">
+<tt:span style="textYellow">that a club is now</tt:span>
+<tt:br/>
+<tt:span style="textYellow">is almost being invented.</tt:span>
+</tt:p>
+<tt:p begin="00:14:36.920" end="00:14:39.760" region="bottom" style="textCenter" xml:id="sub266">
+<tt:span style="textYellow">Even though TSG,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">I know, has a tradition.</tt:span>
+</tt:p>
+<tt:p begin="00:14:39.800" end="00:14:43.240" region="bottom" style="textCenter" xml:id="sub267">
+<tt:span style="textYellow">But there will now be one</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in professional soccer will be less.</tt:span>
+</tt:p>
+<tt:p begin="00:14:43.280" end="00:14:45.440" region="bottom" style="textCenter" xml:id="sub268">
+<tt:span style="textWhite">Hopp responds with a letter.</tt:span>
+</tt:p>
+<tt:p begin="00:14:45.480" end="00:14:48.440" region="bottom" style="textCenter" xml:id="sub269">
+<tt:span style="textWhite">In copy:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">The entire top German soccer team.</tt:span>
+</tt:p>
+<tt:p begin="00:14:48.480" end="00:14:52.920" region="bottom" style="textCenter" xml:id="sub270">
+<tt:span style="textWhite">In it, he calls Heidel's criticism</tt:span>
+<tt:br/>
+<tt:span style="textWhite">as, quote, "discrimination"</tt:span>
+</tt:p>
+<tt:p begin="00:14:52.960" end="00:14:56.280" region="bottom" style="textCenter" xml:id="sub271">
+<tt:span style="textWhite">and demands that it be sanctioned</tt:span>
+<tt:br/>
+<tt:span style="textWhite">sanctioned as racism.</tt:span>
+</tt:p>
+<tt:p begin="00:14:58.800" end="00:15:02.960" region="bottom" style="textCenter" xml:id="sub272">
+<tt:span style="textWhite">Hans-Joachim Watzke was also quick to criticize</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the Hoffenheim business model early on.</tt:span>
+</tt:p>
+<tt:p begin="00:15:03.000" end="00:15:07.160" region="bottom" style="textCenter" xml:id="sub273">
+<tt:span style="textWhite">Today, he thinks Hopp should have</tt:span>
+<tt:br/>
+<tt:span style="textWhite">had to endure the vituperation.</tt:span>
+</tt:p>
+<tt:p begin="00:15:07.960" end="00:15:11.040" region="bottom" style="textCenter" xml:id="sub274">
+<tt:span style="textYellow">I say, when you get</tt:span>
+<tt:br/>
+<tt:span style="textYellow">into soccer,</tt:span>
+</tt:p>
+<tt:p begin="00:15:11.080" end="00:15:12.960" region="bottom" style="textCenter" xml:id="sub275">
+<tt:span style="textYellow">it's just like in the kitchen.</tt:span>
+</tt:p>
+<tt:p begin="00:15:13.000" end="00:15:15.320" region="bottom" style="textCenter" xml:id="sub276">
+<tt:span style="textYellow">Sometimes it's a little</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a little hot, too.</tt:span>
+</tt:p>
+<tt:p begin="00:15:15.360" end="00:15:17.560" region="bottom" style="textCenter" xml:id="sub277">
+<tt:span style="textYellow">When I now</tt:span>
+<tt:br/>
+<tt:span style="textYellow">come to Gelsenkirchen,</tt:span>
+</tt:p>
+<tt:p begin="00:15:17.600" end="00:15:20.120" region="bottom" style="textCenter" xml:id="sub278">
+<tt:span style="textYellow">things have been</tt:span>
+<tt:br/>
+<tt:span style="textYellow">things have been thrown at me,</tt:span>
+</tt:p>
+<tt:p begin="00:15:20.160" end="00:15:23.640" region="bottom" style="textCenter" xml:id="sub279">
+<tt:span style="textYellow">compared to which everything that happened to Hopp</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was still harmless.</tt:span>
+</tt:p>
+<tt:p begin="00:15:23.680" end="00:15:28.040" region="bottom" style="textCenter" xml:id="sub280">
+<tt:span style="textYellow">But I just knew</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that's just the way it is. Ne?</tt:span>
+</tt:p>
+<tt:p begin="00:15:28.080" end="00:15:30.320" region="bottom" style="textCenter" xml:id="sub281">
+<tt:span style="textYellow">And he was never ready</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to accept that.</tt:span>
+</tt:p>
+<tt:p begin="00:15:30.360" end="00:15:32.560" region="bottom" style="textCenter" xml:id="sub282">
+<tt:span style="textYellow">That's a pity,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">because then the topic</tt:span>
+</tt:p>
+<tt:p begin="00:15:32.600" end="00:15:34.360" region="bottom" style="textCenter" xml:id="sub283">
+<tt:span style="textYellow">would have been settled long ago.</tt:span>
+</tt:p>
+<tt:p begin="00:15:34.400" end="00:15:37.480" region="bottom" style="textCenter" xml:id="sub284">
+<tt:span style="textYellow">I completely disagree with that.</tt:span>
+</tt:p>
+<tt:p begin="00:15:37.520" end="00:15:42.320" region="bottom" style="textCenter" xml:id="sub285">
+<tt:span style="textYellow">I deny that there are such posters against</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Mr. Watzke such posters exist,</tt:span>
+</tt:p>
+<tt:p begin="00:15:42.360" end="00:15:45.560" region="bottom" style="textCenter" xml:id="sub286">
+<tt:span style="textYellow">that are so humiliating,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">so disgusting.</tt:span>
+</tt:p>
+<tt:p begin="00:15:45.600" end="00:15:49.520" region="bottom" style="textCenter" xml:id="sub287">
+<tt:span style="textYellow">That is again</tt:span>
+<tt:br/>
+<tt:span style="textYellow">part of this belittlement.</tt:span>
+</tt:p>
+<tt:p begin="00:15:51.520" end="00:15:54.240" region="bottom" style="textCenter" xml:id="sub288">
+<tt:span style="textWhite">What is clear is that hardly anyone</tt:span>
+<tt:br/>
+<tt:span style="textWhite">were there such posters</tt:span>
+</tt:p>
+<tt:p begin="00:15:54.280" end="00:15:55.920" region="bottom" style="textCenter" xml:id="sub289">
+<tt:span style="textWhite">as against Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:15:55.960" end="00:15:58.400" region="bottom" style="textCenter" xml:id="sub290">
+<tt:span style="textWhite">But it is also clear:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Hopp was familiar with the hostility</tt:span>
+</tt:p>
+<tt:p begin="00:15:58.440" end="00:16:01.440" region="bottom" style="textCenter" xml:id="sub291">
+<tt:span style="textWhite">the kind of hostility that is commonplace in the stadium,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">for a long time.</tt:span>
+</tt:p>
+<tt:p begin="00:16:01.480" end="00:16:04.400" region="bottom" style="textCenter" xml:id="sub292">
+<tt:span style="textWhite">As an entrepreneur, patron,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">patron, he was above all</tt:span>
+</tt:p>
+<tt:p begin="00:16:04.440" end="00:16:07.480" region="bottom" style="textCenter" xml:id="sub293">
+<tt:span style="textWhite">recognition.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">In soccer, things are different.</tt:span>
+</tt:p>
+<tt:p begin="00:16:07.520" end="00:16:11.000" region="bottom" style="textCenter" xml:id="sub294">
+<tt:span style="textYellow">To say that Dietmar Hopp does not come</tt:span>
+<tt:br/>
+<tt:span style="textYellow">from soccer is absurd.</tt:span>
+</tt:p>
+<tt:p begin="00:16:11.040" end="00:16:12.560" region="bottom" style="textCenter" xml:id="sub295">
+<tt:span style="textYellow">He knows soccer.</tt:span>
+</tt:p>
+<tt:p begin="00:16:12.600" end="00:16:16.800" region="bottom" style="textCenter" xml:id="sub296">
+<tt:span style="textYellow">And he is not a man</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who now has a genteel air about him.</tt:span>
+</tt:p>
+<tt:p begin="00:16:16.840" end="00:16:18.680" region="bottom" style="textCenter" xml:id="sub297">
+<tt:span style="textYellow">He is a man of the people.</tt:span>
+</tt:p>
+<tt:p begin="00:16:18.720" end="00:16:22.440" region="bottom" style="textCenter" xml:id="sub298">
+<tt:span style="textYellow">And this is actually</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the last real football fan.</tt:span>
+</tt:p>
+<tt:p begin="00:16:26.800" end="00:16:28.640" region="bottom" style="textCenter" xml:id="sub299">
+<tt:span style="textWhite">The last real football fan?</tt:span>
+</tt:p>
+<tt:p begin="00:16:32.800" end="00:16:34.840" region="bottom" style="textCenter" xml:id="sub300">
+<tt:span style="textWhite">We're going to one,</tt:span>
+</tt:p>
+<tt:p begin="00:16:34.880" end="00:16:37.680" region="bottom" style="textCenter" xml:id="sub301">
+<tt:span style="textWhite">who knows about hostilities</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in football,</tt:span>
+</tt:p>
+<tt:p begin="00:16:37.720" end="00:16:40.520" region="bottom" style="textCenter" xml:id="sub302">
+<tt:span style="textWhite">who has been insulted</tt:span>
+<tt:br/>
+<tt:span style="textWhite">insulted in stadiums -</tt:span>
+</tt:p>
+<tt:p begin="00:16:40.560" end="00:16:44.000" region="bottom" style="textCenter" xml:id="sub303">
+<tt:span style="textWhite">and who is a good friend</tt:span>
+<tt:br/>
+<tt:span style="textWhite">of Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:16:51.920" end="00:16:55.160" region="bottom" style="textCenter" xml:id="sub304">
+<tt:span style="textYellow">I have never</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ever met a person</tt:span>
+</tt:p>
+<tt:p begin="00:16:55.200" end="00:16:57.080" region="bottom" style="textCenter" xml:id="sub305">
+<tt:span style="textYellow">who is so social.</tt:span>
+</tt:p>
+<tt:p begin="00:16:57.120" end="00:17:00.320" region="bottom" style="textCenter" xml:id="sub306">
+<tt:span style="textYellow">You have to drive</tt:span>
+<tt:br/>
+<tt:span style="textYellow">drive around the golf course with him,</tt:span>
+</tt:p>
+<tt:p begin="00:17:00.360" end="00:17:06.240" region="bottom" style="textCenter" xml:id="sub307">
+<tt:span style="textYellow">and there's a golf cart,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">where people can buy water,</tt:span>
+</tt:p>
+<tt:p begin="00:17:06.280" end="00:17:09.600" region="bottom" style="textCenter" xml:id="sub308">
+<tt:span style="textYellow">and there's a young girl or</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a young boy is on it.</tt:span>
+</tt:p>
+<tt:p begin="00:17:09.640" end="00:17:12.640" region="bottom" style="textCenter" xml:id="sub309">
+<tt:span style="textYellow">They already know:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">When Dietmar Hopp is on the road,</tt:span>
+</tt:p>
+<tt:p begin="00:17:12.680" end="00:17:15.680" region="bottom" style="textCenter" xml:id="sub310">
+<tt:span style="textYellow">he always buys</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a green apple, right?</tt:span>
+</tt:p>
+<tt:p begin="00:17:15.720" end="00:17:18.520" region="bottom" style="textCenter" xml:id="sub311">
+<tt:span style="textYellow">And then,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">when you buy a water</tt:span>
+</tt:p>
+<tt:p begin="00:17:18.560" end="00:17:20.960" region="bottom" style="textCenter" xml:id="sub312">
+<tt:span style="textYellow">and it costs five euros</tt:span>
+</tt:p>
+<tt:p begin="00:17:21.000" end="00:17:24.800" region="bottom" style="textCenter" xml:id="sub313">
+<tt:span style="textYellow">and you spend ten,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">then you are a very poor pig.</tt:span>
+</tt:p>
+<tt:p begin="00:17:24.840" end="00:17:27.800" region="bottom" style="textCenter" xml:id="sub314">
+<tt:span style="textYellow">Because Dietmar Hopp gives</tt:span>
+<tt:br/>
+<tt:span style="textYellow">for his green apple</tt:span>
+</tt:p>
+<tt:p begin="00:17:27.840" end="00:17:29.520" region="bottom" style="textCenter" xml:id="sub315">
+<tt:span style="textYellow">between 20 and 50.</tt:span>
+</tt:p>
+<tt:p begin="00:17:29.560" end="00:17:31.720" region="bottom" style="textCenter" xml:id="sub316">
+<tt:span style="textYellow">And then I thought to myself:</tt:span>
+</tt:p>
+<tt:p begin="00:17:31.760" end="00:17:35.800" region="bottom" style="textCenter" xml:id="sub317">
+<tt:span style="textYellow">Oops, that's just a synonym for how he thinks.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">for how he thinks.</tt:span>
+</tt:p>
+<tt:p begin="00:17:35.840" end="00:17:37.440" region="bottom" style="textCenter" xml:id="sub318">
+<tt:span style="textYellow">"I'm fine.</tt:span>
+</tt:p>
+<tt:p begin="00:17:37.480" end="00:17:40.560" region="bottom" style="textCenter" xml:id="sub319">
+<tt:span style="textYellow">I can afford a lot -</tt:span>
+<tt:br/>
+<tt:span style="textYellow">not to say everything.</tt:span>
+</tt:p>
+<tt:p begin="00:17:40.600" end="00:17:42.560" region="bottom" style="textCenter" xml:id="sub320">
+<tt:span style="textYellow">And everyone who has anything to do with me,</tt:span>
+</tt:p>
+<tt:p begin="00:17:42.600" end="00:17:45.280" region="bottom" style="textCenter" xml:id="sub321">
+<tt:span style="textYellow">including this young girl</tt:span>
+<tt:br/>
+<tt:span style="textYellow">or the young boy,</tt:span>
+</tt:p>
+<tt:p begin="00:17:45.320" end="00:17:48.040" region="bottom" style="textCenter" xml:id="sub322">
+<tt:span style="textYellow">I want them to be all right, too."</tt:span>
+</tt:p>
+<tt:p begin="00:17:48.080" end="00:17:51.680" region="bottom" style="textCenter" xml:id="sub323">
+<tt:span style="textWhite">* "bad guy" by Billie Eilish</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in string arrangement</tt:span>
+</tt:p>
+<tt:p begin="00:17:54.320" end="00:17:57.880" region="bottom" style="textCenter" xml:id="sub324">
+<tt:span style="textWhite">(reporter) You've been called names.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">you've been called names and insulted.</tt:span>
+</tt:p>
+<tt:p begin="00:17:57.920" end="00:17:59.480" region="bottom" style="textCenter" xml:id="sub325">
+<tt:span style="textWhite">To put it mildly.</tt:span>
+</tt:p>
+<tt:p begin="00:17:59.520" end="00:18:02.480" region="bottom" style="textCenter" xml:id="sub326">
+<tt:span style="textYellow">In the Daum affair</tt:span>
+<tt:br/>
+<tt:span style="textYellow">it was really bad.</tt:span>
+</tt:p>
+<tt:p begin="00:18:02.520" end="00:18:05.360" region="bottom" style="textCenter" xml:id="sub327">
+<tt:span style="textYellow">Once in Bremen</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the whole stadium shouted:</tt:span>
+</tt:p>
+<tt:p begin="00:18:05.400" end="00:18:07.160" region="bottom" style="textCenter" xml:id="sub328">
+<tt:span style="textYellow">"Hoeneß, you asshole!"</tt:span>
+</tt:p>
+<tt:p begin="00:18:07.200" end="00:18:09.320" region="bottom" style="textCenter" xml:id="sub329">
+<tt:span style="textYellow">A moderator is supposed to ...</tt:span>
+</tt:p>
+<tt:p begin="00:18:09.360" end="00:18:12.360" region="bottom" style="textCenter" xml:id="sub330">
+<tt:span style="textWhite">Not only in the Daum affair.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Also later on.</tt:span>
+</tt:p>
+<tt:p begin="00:18:12.400" end="00:18:14.520" region="bottom" style="textCenter" xml:id="sub331">
+<tt:span style="textWhite">* Chanting *</tt:span>
+<tt:br/>
+<tt:span style="textYellow">... so to speak.</tt:span>
+</tt:p>
+<tt:p begin="00:18:14.560" end="00:18:16.720" region="bottom" style="textCenter" xml:id="sub332">
+<tt:span style="textYellow">And now there are also the fans.</tt:span>
+</tt:p>
+<tt:p begin="00:18:16.760" end="00:18:19.400" region="bottom" style="textCenter" xml:id="sub333">
+<tt:span style="textYellow">So, there is still,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">I'll take that with me now,</tt:span>
+</tt:p>
+<tt:p begin="00:18:19.440" end="00:18:23.320" region="bottom" style="textCenter" xml:id="sub334">
+<tt:span style="textYellow">a need for mediation, so to speak</tt:span>
+<tt:br/>
+<tt:span style="textYellow">between Werder and Bayern Munich.</tt:span>
+</tt:p>
+<tt:p begin="00:18:25.440" end="00:18:28.400" region="bottom" style="textCenter" xml:id="sub335">
+<tt:span style="textWhite">(in the film) Have such insults hurt you?</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hurt you?</tt:span>
+</tt:p>
+<tt:p begin="00:18:28.440" end="00:18:34.160" region="bottom" style="textCenter" xml:id="sub336">
+<tt:span style="textYellow">I've had many a restless night</tt:span>
+<tt:br/>
+<tt:span style="textYellow">before and after.</tt:span>
+</tt:p>
+<tt:p begin="00:18:34.200" end="00:18:36.920" region="bottom" style="textCenter" xml:id="sub337">
+<tt:span style="textYellow">But on the whole -</tt:span>
+<tt:br/>
+<tt:span style="textYellow">as you can see,</tt:span>
+</tt:p>
+<tt:p begin="00:18:36.960" end="00:18:39.080" region="bottom" style="textCenter" xml:id="sub338">
+<tt:span style="textYellow">I survived quite well.</tt:span>
+</tt:p>
+<tt:p begin="00:18:39.120" end="00:18:42.080" region="bottom" style="textCenter" xml:id="sub339">
+<tt:span style="textWhite">Dietmar Hopp</tt:span>
+<tt:br/>
+<tt:span style="textWhite">started at some point to sue fans</tt:span>
+</tt:p>
+<tt:p begin="00:18:42.120" end="00:18:44.160" region="bottom" style="textCenter" xml:id="sub340">
+<tt:span style="textWhite">to sue fans for defamatory chants.</tt:span>
+</tt:p>
+<tt:p begin="00:18:44.200" end="00:18:46.000" region="bottom" style="textCenter" xml:id="sub341">
+<tt:span style="textWhite">Was that right from your point of view?</tt:span>
+</tt:p>
+<tt:p begin="00:18:46.040" end="00:18:49.120" region="bottom" style="textCenter" xml:id="sub342">
+<tt:span style="textYellow">You can do that with a certain</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a certain distance from things,</tt:span>
+</tt:p>
+<tt:p begin="00:18:49.160" end="00:18:51.200" region="bottom" style="textCenter" xml:id="sub343">
+<tt:span style="textYellow">as an unaffected person.</tt:span>
+</tt:p>
+<tt:p begin="00:18:51.240" end="00:18:52.880" region="bottom" style="textCenter" xml:id="sub344">
+<tt:span style="textYellow">You can't, and neither can I.</tt:span>
+</tt:p>
+<tt:p begin="00:18:52.920" end="00:18:56.800" region="bottom" style="textCenter" xml:id="sub345">
+<tt:span style="textYellow">Because Dietmar Hopp probably watched</tt:span>
+<tt:br/>
+<tt:span style="textYellow">watched for a long, long time.</tt:span>
+</tt:p>
+<tt:p begin="00:18:56.840" end="00:18:58.520" region="bottom" style="textCenter" xml:id="sub346">
+<tt:span style="textYellow">And at some point, enough is enough.</tt:span>
+</tt:p>
+<tt:p begin="00:18:58.560" end="00:19:00.880" region="bottom" style="textCenter" xml:id="sub347">
+<tt:span style="textYellow">Above all,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">if you can still</tt:span>
+</tt:p>
+<tt:p begin="00:19:00.920" end="00:19:02.800" region="bottom" style="textCenter" xml:id="sub348">
+<tt:span style="textYellow">he can't be blamed for anything.</tt:span>
+</tt:p>
+<tt:p begin="00:19:02.840" end="00:19:05.600" region="bottom" style="textCenter" xml:id="sub349">
+<tt:span style="textYellow">He has done</tt:span>
+<tt:br/>
+<tt:span style="textYellow">nothing illegal at all.</tt:span>
+</tt:p>
+<tt:p begin="00:19:05.640" end="00:19:07.120" region="bottom" style="textCenter" xml:id="sub350">
+<tt:span style="textYellow">And that's why...</tt:span>
+</tt:p>
+<tt:p begin="00:19:07.160" end="00:19:10.320" region="bottom" style="textCenter" xml:id="sub351">
+<tt:span style="textYellow">You have to be careful,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Mr. Breyer, be careful</tt:span>
+</tt:p>
+<tt:p begin="00:19:10.360" end="00:19:13.240" region="bottom" style="textCenter" xml:id="sub352">
+<tt:span style="textYellow">that you don't confuse</tt:span>
+<tt:br/>
+<tt:span style="textYellow">victim and perpetrator.</tt:span>
+</tt:p>
+<tt:p begin="00:19:16.160" end="00:19:19.880" region="bottom" style="textCenter" xml:id="sub353">
+<tt:span style="textWhite">The court in Sinsheim follows</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the prosecution in most cases</tt:span>
+</tt:p>
+<tt:p begin="00:19:19.920" end="00:19:22.000" region="bottom" style="textCenter" xml:id="sub354">
+<tt:span style="textWhite">and imposes fines.</tt:span>
+</tt:p>
+<tt:p begin="00:19:22.040" end="00:19:25.800" region="bottom" style="textCenter" xml:id="sub355">
+<tt:span style="textWhite">In the end, however, many cases are</tt:span>
+<tt:br/>
+<tt:span style="textWhite">but are dropped in exchange for fines.</tt:span>
+</tt:p>
+<tt:p begin="00:19:25.840" end="00:19:28.400" region="bottom" style="textCenter" xml:id="sub356">
+<tt:span style="textWhite">This means that the fans</tt:span>
+<tt:br/>
+<tt:span style="textWhite">have to pay around </tt:span>
+</tt:p>
+<tt:p begin="00:19:28.440" end="00:19:31.160" region="bottom" style="textCenter" xml:id="sub357">
+<tt:span style="textWhite">one month's salary</tt:span>
+<tt:br/>
+<tt:span style="textWhite">to a charitable institution</tt:span>
+</tt:p>
+<tt:p begin="00:19:31.200" end="00:19:33.760" region="bottom" style="textCenter" xml:id="sub358">
+<tt:span style="textWhite">The Ultras</tt:span>
+<tt:br/>
+<tt:span style="textWhite">perceive the lawsuits as an affront</tt:span>
+</tt:p>
+<tt:p begin="00:19:33.800" end="00:19:36.640" region="bottom" style="textCenter" xml:id="sub359">
+<tt:span style="textWhite">an attack on their fan culture -</tt:span>
+</tt:p>
+<tt:p begin="00:19:36.680" end="00:19:40.360" region="bottom" style="textCenter" xml:id="sub360">
+<tt:span style="textWhite">by a man who has bought his way</tt:span>
+<tt:br/>
+<tt:span style="textWhite">bought into their sport.</tt:span>
+</tt:p>
+<tt:p begin="00:19:40.400" end="00:19:42.680" region="bottom" style="textCenter" xml:id="sub361">
+<tt:span style="textWhite">(in the film)</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Isn't it also his right</tt:span>
+</tt:p>
+<tt:p begin="00:19:42.720" end="00:19:45.160" region="bottom" style="textCenter" xml:id="sub362">
+<tt:span style="textWhite">to say at some point:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">"I've had enough"?</tt:span>
+</tt:p>
+<tt:p begin="00:19:45.200" end="00:19:47.600" region="bottom" style="textCenter" xml:id="sub363">
+<tt:span style="textYellow">It is a right to say:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"I've had enough."</tt:span>
+</tt:p>
+<tt:p begin="00:19:47.640" end="00:19:49.680" region="bottom" style="textCenter" xml:id="sub364">
+<tt:span style="textYellow">But what does he want to achieve?</tt:span>
+</tt:p>
+<tt:p begin="00:19:49.720" end="00:19:52.040" region="bottom" style="textCenter" xml:id="sub365">
+<tt:span style="textYellow">If he wants to achieve</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to make it stop,</tt:span>
+</tt:p>
+<tt:p begin="00:19:52.080" end="00:19:54.520" region="bottom" style="textCenter" xml:id="sub366">
+<tt:span style="textYellow">then he has done</tt:span>
+<tt:br/>
+<tt:span style="textYellow">he has done exactly the wrong thing.</tt:span>
+</tt:p>
+<tt:p begin="00:19:55.920" end="00:19:57.840" region="bottom" style="textCenter" xml:id="sub367">
+<tt:span style="textWhite">Dietmar Hopp's requests for punishment</tt:span>
+</tt:p>
+<tt:p begin="00:19:57.880" end="00:20:00.560" region="bottom" style="textCenter" xml:id="sub368">
+<tt:span style="textWhite">have caused the protests</tt:span>
+<tt:br/>
+<tt:span style="textWhite">are flaring up all over again.</tt:span>
+</tt:p>
+<tt:p begin="00:20:00.600" end="00:20:03.920" region="bottom" style="textCenter" xml:id="sub369">
+<tt:span style="textWhite">Especially those of the Dortmunders,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">which had previously subsided.</tt:span>
+</tt:p>
+<tt:p begin="00:20:03.960" end="00:20:06.480" region="bottom" style="textCenter" xml:id="sub370">
+<tt:span style="textWhite">Their reaction to the criminal charges:</tt:span>
+</tt:p>
+<tt:p begin="00:20:06.520" end="00:20:09.960" region="bottom" style="textCenter" xml:id="sub371">
+<tt:span style="textWhite">this crosshair poster</tt:span>
+<tt:br/>
+<tt:span style="textWhite">with the message</tt:span>
+</tt:p>
+<tt:p begin="00:20:10.000" end="00:20:13.840" region="bottom" style="textCenter" xml:id="sub372">
+<tt:span style="textWhite">"Criminal proceedings and house bans</tt:span>
+<tt:br/>
+<tt:span style="textWhite">for offensive chants?</tt:span>
+</tt:p>
+<tt:p begin="00:20:13.880" end="00:20:16.160" region="bottom" style="textCenter" xml:id="sub373">
+<tt:span style="textWhite">What the fuck, you son of a bitch?"</tt:span>
+</tt:p>
+<tt:p begin="00:20:17.160" end="00:20:20.680" region="bottom" style="textCenter" xml:id="sub374">
+<tt:span style="textWhite">The DFB sports court imposes</tt:span>
+<tt:br/>
+<tt:span style="textWhite">a stadium ban on probation.</tt:span>
+</tt:p>
+<tt:p begin="00:20:20.720" end="00:20:22.560" region="bottom" style="textCenter" xml:id="sub375">
+<tt:span style="textWhite">It is the last warning.</tt:span>
+</tt:p>
+<tt:p begin="00:20:22.600" end="00:20:25.560" region="bottom" style="textCenter" xml:id="sub376">
+<tt:span style="textWhite">Another case like this</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and BVB fans will be banned for three years</tt:span>
+</tt:p>
+<tt:p begin="00:20:25.600" end="00:20:27.600" region="bottom" style="textCenter" xml:id="sub377">
+<tt:span style="textWhite">in the stadium in Sinsheim for three years.</tt:span>
+</tt:p>
+<tt:p begin="00:20:28.800" end="00:20:32.280" region="bottom" style="textCenter" xml:id="sub378">
+<tt:span style="textWhite">BVB's next game</tt:span>
+<tt:br/>
+<tt:span style="textWhite">at TSG, a year later.</tt:span>
+</tt:p>
+<tt:p begin="00:20:32.320" end="00:20:35.320" region="bottom" style="textCenter" xml:id="sub379">
+<tt:span style="textWhite">Again defamatory posters</tt:span>
+<tt:br/>
+<tt:span style="textWhite">against Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:20:35.360" end="00:20:39.760" region="bottom" style="textCenter" xml:id="sub380">
+<tt:span style="textWhite">"We wish you all a Merry Christmas</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and to you your last."</tt:span>
+</tt:p>
+<tt:p begin="00:20:41.720" end="00:20:44.240" region="bottom" style="textCenter" xml:id="sub381">
+<tt:span style="textWhite">(in the film) Do you find that acceptable?</tt:span>
+</tt:p>
+<tt:p begin="00:20:46.160" end="00:20:48.320" region="bottom" style="textCenter" xml:id="sub382">
+<tt:span style="textWhite">* (breathing loudly)</tt:span>
+</tt:p>
+<tt:p begin="00:20:48.360" end="00:20:51.160" region="bottom" style="textCenter" xml:id="sub383">
+<tt:span style="textYellow">Acceptable? Um...</tt:span>
+</tt:p>
+<tt:p begin="00:20:51.200" end="00:20:54.360" region="bottom" style="textCenter" xml:id="sub384">
+<tt:span style="textWhite">Do you have to think about it,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">if that's acceptable?</tt:span>
+</tt:p>
+<tt:p begin="00:20:54.400" end="00:20:57.680" region="bottom" style="textCenter" xml:id="sub385">
+<tt:span style="textYellow">The question is:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">What price do we pay</tt:span>
+</tt:p>
+<tt:p begin="00:20:57.720" end="00:20:59.800" region="bottom" style="textCenter" xml:id="sub386">
+<tt:span style="textYellow">to make sure that doesn't happen?</tt:span>
+</tt:p>
+<tt:p begin="00:20:59.840" end="00:21:01.360" region="bottom" style="textCenter" xml:id="sub387">
+<tt:span style="textYellow">Whether it's worth the price.</tt:span>
+</tt:p>
+<tt:p begin="00:21:01.400" end="00:21:03.960" region="bottom" style="textCenter" xml:id="sub388">
+<tt:span style="textWhite">But there has to be</tt:span>
+<tt:br/>
+<tt:span style="textWhite">a red line.</tt:span>
+</tt:p>
+<tt:p begin="00:21:04.000" end="00:21:07.600" region="bottom" style="textCenter" xml:id="sub389">
+<tt:span style="textYellow">There is a red line.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">The red line is the legal code.</tt:span>
+</tt:p>
+<tt:p begin="00:21:08.440" end="00:21:10.640" region="bottom" style="textCenter" xml:id="sub390">
+<tt:span style="textYellow">Then it has to be investigated:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"Who did this?"</tt:span>
+</tt:p>
+<tt:p begin="00:21:10.680" end="00:21:13.320" region="bottom" style="textCenter" xml:id="sub391">
+<tt:span style="textYellow">and a judge</tt:span>
+<tt:br/>
+<tt:span style="textYellow">must decide in the end.</tt:span>
+</tt:p>
+<tt:p begin="00:21:13.360" end="00:21:16.800" region="bottom" style="textCenter" xml:id="sub392">
+<tt:span style="textWhite">The judges of the DFB sports court</tt:span>
+<tt:br/>
+<tt:span style="textWhite">will decide in February 2020:</tt:span>
+</tt:p>
+<tt:p begin="00:21:16.840" end="00:21:18.920" region="bottom" style="textCenter" xml:id="sub393">
+<tt:span style="textWhite">Stadium ban.</tt:span>
+</tt:p>
+<tt:p begin="00:21:18.960" end="00:21:23.400" region="bottom" style="textCenter" xml:id="sub394">
+<tt:span style="textWhite">BVB fans are banned for three years</tt:span>
+<tt:br/>
+<tt:span style="textWhite">from matches in Sinsheim for three years.</tt:span>
+</tt:p>
+<tt:p begin="00:21:23.440" end="00:21:27.280" region="bottom" style="textCenter" xml:id="sub395">
+<tt:span style="textWhite">A so-called collective punishment,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">because it affects not only those</tt:span>
+</tt:p>
+<tt:p begin="00:21:27.320" end="00:21:29.760" region="bottom" style="textCenter" xml:id="sub396">
+<tt:span style="textWhite">who were responsible for the</tt:span>
+<tt:br/>
+<tt:span style="textWhite">were responsible.</tt:span>
+</tt:p>
+<tt:p begin="00:21:29.800" end="00:21:32.480" region="bottom" style="textCenter" xml:id="sub397">
+<tt:span style="textWhite">"Sippenhaft," say the Ultras.</tt:span>
+</tt:p>
+<tt:p begin="00:21:32.520" end="00:21:35.600" region="bottom" style="textCenter" xml:id="sub398">
+<tt:span style="textWhite">The verdict leads to</tt:span>
+<tt:br/>
+<tt:span style="textWhite">a massive wave of solidarity</tt:span>
+</tt:p>
+<tt:p begin="00:21:35.640" end="00:21:39.840" region="bottom" style="textCenter" xml:id="sub399">
+<tt:span style="textWhite">in almost all the curves and culminates</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in the action of the Bayern fans</tt:span>
+</tt:p>
+<tt:p begin="00:21:39.880" end="00:21:41.920" region="bottom" style="textCenter" xml:id="sub400">
+<tt:span style="textWhite">in Sinsheim a week later.</tt:span>
+</tt:p>
+<tt:p begin="00:21:43.000" end="00:21:45.040" region="bottom" style="textCenter" xml:id="sub401">
+<tt:span style="textWhite">This escalation has Hopp</tt:span>
+</tt:p>
+<tt:p begin="00:21:45.080" end="00:21:47.440" region="bottom" style="textCenter" xml:id="sub402">
+<tt:span style="textWhite">from the point of view of the Ultras</tt:span>
+<tt:br/>
+<tt:span style="textWhite">himself to blame.</tt:span>
+</tt:p>
+<tt:p begin="00:21:47.480" end="00:21:51.640" region="bottom" style="textCenter" xml:id="sub403">
+<tt:span style="textWhite">He had by the penalty applications</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the conflict anew.</tt:span>
+</tt:p>
+<tt:p begin="00:21:53.960" end="00:21:57.680" region="bottom" style="textCenter" xml:id="sub404">
+<tt:span style="textYellow">Without the motions for</tt:span>
+<tt:br/>
+<tt:span style="textYellow">it would not have got rolling.</tt:span>
+</tt:p>
+<tt:p begin="00:21:57.720" end="00:22:00.240" region="bottom" style="textCenter" xml:id="sub405">
+<tt:span style="textYellow">Ultimately, this match day was</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a reaction</tt:span>
+</tt:p>
+<tt:p begin="00:22:00.280" end="00:22:02.840" region="bottom" style="textCenter" xml:id="sub406">
+<tt:span style="textYellow">to the reintroduction</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of collective punishments.</tt:span>
+</tt:p>
+<tt:p begin="00:22:02.880" end="00:22:06.200" region="bottom" style="textCenter" xml:id="sub407">
+<tt:span style="textYellow">Without the penalty applications</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the cause would have been eliminated</tt:span>
+</tt:p>
+<tt:p begin="00:22:06.240" end="00:22:09.240" region="bottom" style="textCenter" xml:id="sub408">
+<tt:span style="textYellow">and this low point</tt:span>
+<tt:br/>
+<tt:span style="textYellow">would not have existed.</tt:span>
+</tt:p>
+<tt:p begin="00:22:09.280" end="00:22:10.800" region="bottom" style="textCenter" xml:id="sub409">
+<tt:span style="textYellow">I'm saying something different:</tt:span>
+</tt:p>
+<tt:p begin="00:22:10.840" end="00:22:13.320" region="bottom" style="textCenter" xml:id="sub410">
+<tt:span style="textYellow">They did something</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and he did nothing.</tt:span>
+</tt:p>
+<tt:p begin="00:22:13.360" end="00:22:16.280" region="bottom" style="textCenter" xml:id="sub411">
+<tt:span style="textYellow">That is the difference.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">He didn't do anything.</tt:span>
+</tt:p>
+<tt:p begin="00:22:16.320" end="00:22:18.920" region="bottom" style="textCenter" xml:id="sub412">
+<tt:span style="textYellow">If he sues someone,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that's not a bad thing.</tt:span>
+</tt:p>
+<tt:p begin="00:22:18.960" end="00:22:23.840" region="bottom" style="textCenter" xml:id="sub413">
+<tt:span style="textYellow">But if an ultra</tt:span>
+<tt:br/>
+<tt:span style="textYellow">puts up a crosshair poster</tt:span>
+</tt:p>
+<tt:p begin="00:22:23.880" end="00:22:26.800" region="bottom" style="textCenter" xml:id="sub414">
+<tt:span style="textYellow">with Dietmar Hopp,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">then it's a mess.</tt:span>
+</tt:p>
+<tt:p begin="00:22:26.840" end="00:22:30.040" region="bottom" style="textCenter" xml:id="sub415">
+<tt:span style="textWhite">The whole conflict</tt:span>
+<tt:br/>
+<tt:span style="textWhite">is a bit more complicated, I think.</tt:span>
+</tt:p>
+<tt:p begin="00:22:30.080" end="00:22:32.040" region="bottom" style="textCenter" xml:id="sub416">
+<tt:span style="textYellow">No, you're making it too easy for yourselves.</tt:span>
+</tt:p>
+<tt:p begin="00:22:32.080" end="00:22:36.520" region="bottom" style="textCenter" xml:id="sub417">
+<tt:span style="textYellow">You always try to understand</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to understand both sides.</tt:span>
+</tt:p>
+<tt:p begin="00:22:36.560" end="00:22:38.680" region="bottom" style="textCenter" xml:id="sub418">
+<tt:span style="textYellow">But there's nothing to understand here.</tt:span>
+</tt:p>
+<tt:p begin="00:22:38.720" end="00:22:40.680" region="bottom" style="textCenter" xml:id="sub419">
+<tt:span style="textYellow">Dietmar Hopp has done nothing.</tt:span>
+</tt:p>
+<tt:p begin="00:22:40.720" end="00:22:44.600" region="bottom" style="textCenter" xml:id="sub420">
+<tt:span style="textYellow">And he is attacked for things</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that are totally okay.</tt:span>
+</tt:p>
+<tt:p begin="00:22:44.640" end="00:22:48.160" region="bottom" style="textCenter" xml:id="sub421">
+<tt:span style="textYellow">You should</tt:span>
+<tt:br/>
+<tt:span style="textYellow">make clear in my opinion,</tt:span>
+</tt:p>
+<tt:p begin="00:22:48.200" end="00:22:50.680" region="bottom" style="textCenter" xml:id="sub422">
+<tt:span style="textYellow">who the culprits are</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and who is the victim.</tt:span>
+</tt:p>
+<tt:p begin="00:22:50.720" end="00:22:52.440" region="bottom" style="textCenter" xml:id="sub423">
+<tt:span style="textYellow">Here there is only one victim</tt:span>
+</tt:p>
+<tt:p begin="00:22:52.480" end="00:22:56.720" region="bottom" style="textCenter" xml:id="sub424">
+<tt:span style="textYellow">and only one group</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who is guilty and nothing else.</tt:span>
+</tt:p>
+<tt:p begin="00:22:59.240" end="00:23:03.400" region="bottom" style="textCenter" xml:id="sub425">
+<tt:span style="textWhite">We are talking to this group,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">which according to Hoeneß is the only guilty one:</tt:span>
+</tt:p>
+<tt:p begin="00:23:03.440" end="00:23:05.200" region="bottom" style="textCenter" xml:id="sub426">
+<tt:span style="textWhite">With the Schickeria.</tt:span>
+</tt:p>
+<tt:p begin="00:23:05.240" end="00:23:08.480" region="bottom" style="textCenter" xml:id="sub427">
+<tt:span style="textWhite">Which, admittedly</tt:span>
+<tt:br/>
+<tt:span style="textWhite">not so easy.</tt:span>
+</tt:p>
+<tt:p begin="00:23:08.520" end="00:23:10.840" region="bottom" style="textCenter" xml:id="sub428">
+<tt:span style="textWhite">Ultras hardly ever</tt:span>
+<tt:br/>
+<tt:span style="textWhite">hardly ever give interviews,</tt:span>
+</tt:p>
+<tt:p begin="00:23:10.880" end="00:23:12.800" region="bottom" style="textCenter" xml:id="sub429">
+<tt:span style="textWhite">especially not in front of the camera.</tt:span>
+</tt:p>
+<tt:p begin="00:23:13.600" end="00:23:16.760" region="bottom" style="textCenter" xml:id="sub430">
+<tt:span style="textWhite">For nine months, we meet with them</tt:span>
+<tt:br/>
+<tt:span style="textWhite">with them again and again,</tt:span>
+</tt:p>
+<tt:p begin="00:23:16.800" end="00:23:19.320" region="bottom" style="textCenter" xml:id="sub431">
+<tt:span style="textWhite">hold preliminary talks, discuss things.</tt:span>
+</tt:p>
+<tt:p begin="00:23:19.360" end="00:23:23.640" region="bottom" style="textCenter" xml:id="sub432">
+<tt:span style="textWhite">Then, in January, they invite us</tt:span>
+<tt:br/>
+<tt:span style="textWhite">to a youth club in Munich.</tt:span>
+</tt:p>
+<tt:p begin="00:23:26.720" end="00:23:29.080" region="bottom" style="textCenter" xml:id="sub433">
+<tt:span style="textWhite">* dynamic music *</tt:span>
+</tt:p>
+<tt:p begin="00:23:36.240" end="00:23:39.960" region="bottom" style="textCenter" xml:id="sub434">
+<tt:span style="textWhite">What does being Ultra</tt:span>
+<tt:br/>
+<tt:span style="textWhite">mean to you in concrete terms?</tt:span>
+</tt:p>
+<tt:p begin="00:23:40.000" end="00:23:43.240" region="bottom" style="textCenter" xml:id="sub435">
+<tt:span style="textYellow">You more or less</tt:span>
+<tt:br/>
+<tt:span style="textYellow">your whole life around it,</tt:span>
+</tt:p>
+<tt:p begin="00:23:43.280" end="00:23:45.680" region="bottom" style="textCenter" xml:id="sub436">
+<tt:span style="textYellow">that on the one hand</tt:span>
+<tt:br/>
+<tt:span style="textYellow">attend the games,</tt:span>
+</tt:p>
+<tt:p begin="00:23:46.760" end="00:23:50.360" region="bottom" style="textCenter" xml:id="sub437">
+<tt:span style="textYellow">on the other hand, topics that you</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that you take up as your own,</tt:span>
+</tt:p>
+<tt:p begin="00:23:50.400" end="00:23:52.120" region="bottom" style="textCenter" xml:id="sub438">
+<tt:span style="textYellow">social commitment, etcetera.</tt:span>
+</tt:p>
+<tt:p begin="00:23:52.160" end="00:23:55.320" region="bottom" style="textCenter" xml:id="sub439">
+<tt:span style="textYellow">Being an Ultra means to live</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to live it all out in an extreme way</tt:span>
+</tt:p>
+<tt:p begin="00:23:56.760" end="00:23:59.040" region="bottom" style="textCenter" xml:id="sub440">
+<tt:span style="textYellow">and quasi</tt:span>
+<tt:br/>
+<tt:span style="textYellow">with the claim to go to it,</tt:span>
+</tt:p>
+<tt:p begin="00:23:59.080" end="00:24:01.040" region="bottom" style="textCenter" xml:id="sub441">
+<tt:span style="textYellow">that his curve is the best.</tt:span>
+</tt:p>
+<tt:p begin="00:24:01.080" end="00:24:03.680" region="bottom" style="textCenter" xml:id="sub442">
+<tt:span style="textWhite">What exactly is the Schickeria?</tt:span>
+</tt:p>
+<tt:p begin="00:24:05.400" end="00:24:09.160" region="bottom" style="textCenter" xml:id="sub443">
+<tt:span style="textYellow">That's a documentary of its own</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to say, to answer the question.</tt:span>
+</tt:p>
+<tt:p begin="00:24:10.800" end="00:24:13.160" region="bottom" style="textCenter" xml:id="sub444">
+<tt:span style="textWhite">* Fan chants *</tt:span>
+</tt:p>
+<tt:p begin="00:24:13.200" end="00:24:16.680" region="bottom" style="textCenter" xml:id="sub445">
+<tt:span style="textWhite">This is actually their home,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in the heart of the Südkurve.</tt:span>
+</tt:p>
+<tt:p begin="00:24:16.720" end="00:24:21.880" region="bottom" style="textCenter" xml:id="sub446">
+<tt:span style="textWhite">The Schickeria, the most famous and</tt:span>
+<tt:br/>
+<tt:span style="textWhite">loudest Ultra grouping of Munich.</tt:span>
+</tt:p>
+<tt:p begin="00:24:21.920" end="00:24:24.200" region="bottom" style="textCenter" xml:id="sub447">
+<tt:span style="textWhite">* Fan chants *</tt:span>
+</tt:p>
+<tt:p begin="00:24:26.560" end="00:24:30.240" region="bottom" style="textCenter" xml:id="sub448">
+<tt:span style="textWhite">Politically left, uncomfortable,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">like other groups in the Südkurve,</tt:span>
+</tt:p>
+<tt:p begin="00:24:30.280" end="00:24:33.560" region="bottom" style="textCenter" xml:id="sub449">
+<tt:span style="textWhite">Critical, for example, of</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the club's dealings with Qatar.</tt:span>
+</tt:p>
+<tt:p begin="00:24:34.320" end="00:24:38.120" region="bottom" style="textCenter" xml:id="sub450">
+<tt:span style="textWhite">But also very active in</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in the preparation of choreographies,</tt:span>
+</tt:p>
+<tt:p begin="00:24:38.160" end="00:24:41.280" region="bottom" style="textCenter" xml:id="sub451">
+<tt:span style="textWhite">like the one for the 120th anniversary</tt:span>
+<tt:br/>
+<tt:span style="textWhite">last year.</tt:span>
+</tt:p>
+<tt:p begin="00:24:42.760" end="00:24:46.000" region="bottom" style="textCenter" xml:id="sub452">
+<tt:span style="textYellow">(Simon M.) We are 'a group,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that stands for relatively much.</tt:span>
+</tt:p>
+<tt:p begin="00:24:46.040" end="00:24:48.560" region="bottom" style="textCenter" xml:id="sub453">
+<tt:span style="textYellow">It starts with things</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that have to do with being fans,</tt:span>
+</tt:p>
+<tt:p begin="00:24:48.600" end="00:24:51.120" region="bottom" style="textCenter" xml:id="sub454">
+<tt:span style="textYellow">as we live it out, have to do.</tt:span>
+</tt:p>
+<tt:p begin="00:24:51.160" end="00:24:54.960" region="bottom" style="textCenter" xml:id="sub455">
+<tt:span style="textYellow">What you might describe as a negative</tt:span>
+<tt:br/>
+<tt:span style="textYellow">negative fringe phenomenon</tt:span>
+</tt:p>
+<tt:p begin="00:24:55.000" end="00:24:59.000" region="bottom" style="textCenter" xml:id="sub456">
+<tt:span style="textYellow">to anti-racist and social</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and social commitment,</tt:span>
+</tt:p>
+<tt:p begin="00:24:59.040" end="00:25:00.960" region="bottom" style="textCenter" xml:id="sub457">
+<tt:span style="textYellow">to fan-political commitment</tt:span>
+</tt:p>
+<tt:p begin="00:25:01.000" end="00:25:04.520" region="bottom" style="textCenter" xml:id="sub458">
+<tt:span style="textYellow">and also club politics,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">club-historical commitment.</tt:span>
+</tt:p>
+<tt:p begin="00:25:06.240" end="00:25:10.440" region="bottom" style="textCenter" xml:id="sub459">
+<tt:span style="textWhite">The Schickeria stands up against</tt:span>
+<tt:br/>
+<tt:span style="textWhite">racism and discrimination</tt:span>
+</tt:p>
+<tt:p begin="00:25:10.480" end="00:25:14.240" region="bottom" style="textCenter" xml:id="sub460">
+<tt:span style="textWhite">and for the commemoration of the</tt:span>
+<tt:br/>
+<tt:span style="textWhite">former Jewish president</tt:span>
+</tt:p>
+<tt:p begin="00:25:14.280" end="00:25:18.120" region="bottom" style="textCenter" xml:id="sub461">
+<tt:span style="textWhite">of the club, Kurt Landauer, who was</tt:span>
+<tt:br/>
+<tt:span style="textWhite">who was persecuted by the Nazis.</tt:span>
+</tt:p>
+<tt:p begin="00:25:19.120" end="00:25:23.280" region="bottom" style="textCenter" xml:id="sub462">
+<tt:span style="textWhite">In 2014, she received the DFB's</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the Julius Hirsch Award for this work.</tt:span>
+</tt:p>
+<tt:p begin="00:25:25.600" end="00:25:28.320" region="bottom" style="textCenter" xml:id="sub463">
+<tt:span style="textWhite">But there is also</tt:span>
+<tt:br/>
+<tt:span style="textWhite">another face of the group,</tt:span>
+</tt:p>
+<tt:p begin="00:25:28.360" end="00:25:30.920" region="bottom" style="textCenter" xml:id="sub464">
+<tt:span style="textWhite">a masked, martial one.</tt:span>
+</tt:p>
+<tt:p begin="00:25:30.960" end="00:25:34.480" region="bottom" style="textCenter" xml:id="sub465">
+<tt:span style="textWhite">(in the film) On the one hand</tt:span>
+<tt:br/>
+<tt:span style="textWhite">against anti-Semitism,</tt:span>
+</tt:p>
+<tt:p begin="00:25:34.520" end="00:25:36.000" region="bottom" style="textCenter" xml:id="sub466">
+<tt:span style="textWhite">against discrimination.</tt:span>
+</tt:p>
+<tt:p begin="00:25:36.040" end="00:25:39.400" region="bottom" style="textCenter" xml:id="sub467">
+<tt:span style="textWhite">On the other hand:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">violent, defamatory actions.</tt:span>
+</tt:p>
+<tt:p begin="00:25:39.440" end="00:25:41.040" region="bottom" style="textCenter" xml:id="sub468">
+<tt:span style="textWhite">How does that fit together?</tt:span>
+</tt:p>
+<tt:p begin="00:25:41.080" end="00:25:45.880" region="bottom" style="textCenter" xml:id="sub469">
+<tt:span style="textYellow">These are the different sides</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of emotionality.</tt:span>
+</tt:p>
+<tt:p begin="00:25:45.920" end="00:25:49.840" region="bottom" style="textCenter" xml:id="sub470">
+<tt:span style="textYellow">Also the whole commitment</tt:span>
+<tt:br/>
+<tt:span style="textYellow">for history works,</tt:span>
+</tt:p>
+<tt:p begin="00:25:49.880" end="00:25:54.920" region="bottom" style="textCenter" xml:id="sub471">
+<tt:span style="textYellow">because some people have</tt:span>
+<tt:br/>
+<tt:span style="textYellow">heart and soul behind it.</tt:span>
+</tt:p>
+<tt:p begin="00:25:54.960" end="00:25:57.840" region="bottom" style="textCenter" xml:id="sub472">
+<tt:span style="textYellow">And this lifeblood</tt:span>
+<tt:br/>
+<tt:span style="textYellow">is an emotion, so to speak.</tt:span>
+</tt:p>
+<tt:p begin="00:25:57.880" end="00:26:01.760" region="bottom" style="textCenter" xml:id="sub473">
+<tt:span style="textYellow">And yes, emotions can sometimes</tt:span>
+<tt:br/>
+<tt:span style="textYellow">boil over in another direction.</tt:span>
+</tt:p>
+<tt:p begin="00:26:02.800" end="00:26:05.880" region="bottom" style="textCenter" xml:id="sub474">
+<tt:span style="textWhite">You express yourselves now</tt:span>
+<tt:br/>
+<tt:span style="textWhite">for the first time in the media,</tt:span>
+</tt:p>
+<tt:p begin="00:26:05.920" end="00:26:08.600" region="bottom" style="textCenter" xml:id="sub475">
+<tt:span style="textWhite">about this day in Sinsheim</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and this conflict.</tt:span>
+</tt:p>
+<tt:p begin="00:26:08.640" end="00:26:10.920" region="bottom" style="textCenter" xml:id="sub476">
+<tt:span style="textWhite">Why did you do that back then?</tt:span>
+</tt:p>
+<tt:p begin="00:26:10.960" end="00:26:14.320" region="bottom" style="textCenter" xml:id="sub477">
+<tt:span style="textYellow">It was about the collective</tt:span>
+<tt:br/>
+<tt:span style="textYellow">against the Dortmunders.</tt:span>
+</tt:p>
+<tt:p begin="00:26:14.360" end="00:26:16.480" region="bottom" style="textCenter" xml:id="sub478">
+<tt:span style="textYellow">Especially after the promise in 2017,</tt:span>
+</tt:p>
+<tt:p begin="00:26:16.520" end="00:26:20.160" region="bottom" style="textCenter" xml:id="sub479">
+<tt:span style="textYellow">that no more collective punishments</tt:span>
+<tt:br/>
+<tt:span style="textYellow">will be handed out,</tt:span>
+</tt:p>
+<tt:p begin="00:26:20.200" end="00:26:21.800" region="bottom" style="textCenter" xml:id="sub480">
+<tt:span style="textYellow">this was a breach of taboo.</tt:span>
+</tt:p>
+<tt:p begin="00:26:21.840" end="00:26:25.240" region="bottom" style="textCenter" xml:id="sub481">
+<tt:span style="textYellow">Which in the case of</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Dortmund has now been hit,</tt:span>
+</tt:p>
+<tt:p begin="00:26:25.280" end="00:26:27.920" region="bottom" style="textCenter" xml:id="sub482">
+<tt:span style="textYellow">but which can also affect others</tt:span>
+</tt:p>
+<tt:p begin="00:26:27.960" end="00:26:30.720" region="bottom" style="textCenter" xml:id="sub483">
+<tt:span style="textYellow">and therefore affects us all,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">every fan.</tt:span>
+</tt:p>
+<tt:p begin="00:26:30.760" end="00:26:34.520" region="bottom" style="textCenter" xml:id="sub484">
+<tt:span style="textWhite">But why in this way?</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Why with this choice of words?</tt:span>
+</tt:p>
+<tt:p begin="00:26:34.560" end="00:26:37.800" region="bottom" style="textCenter" xml:id="sub485">
+<tt:span style="textWhite">"Son of a bitch" is not only</tt:span>
+<tt:br/>
+<tt:span style="textWhite">defamatory, but sexist.</tt:span>
+</tt:p>
+<tt:p begin="00:26:37.840" end="00:26:41.680" region="bottom" style="textCenter" xml:id="sub486">
+<tt:span style="textYellow">This terminology is not</tt:span>
+<tt:br/>
+<tt:span style="textYellow">our normal use of language.</tt:span>
+</tt:p>
+<tt:p begin="00:26:41.720" end="00:26:44.600" region="bottom" style="textCenter" xml:id="sub487">
+<tt:span style="textYellow">But if we had chosen a different wording</tt:span>
+<tt:br/>
+<tt:span style="textYellow">chosen</tt:span>
+</tt:p>
+<tt:p begin="00:26:44.640" end="00:26:47.120" region="bottom" style="textCenter" xml:id="sub488">
+<tt:span style="textYellow">or had described</tt:span>
+<tt:br/>
+<tt:span style="textYellow">described the subject matter,</tt:span>
+</tt:p>
+<tt:p begin="00:26:47.160" end="00:26:49.560" region="bottom" style="textCenter" xml:id="sub489">
+<tt:span style="textYellow">we would</tt:span>
+<tt:br/>
+<tt:span style="textYellow">never been listened to in our lifetime.</tt:span>
+</tt:p>
+<tt:p begin="00:26:49.600" end="00:26:53.880" region="bottom" style="textCenter" xml:id="sub490">
+<tt:span style="textYellow">The Dortmunders were</tt:span>
+<tt:br/>
+<tt:span style="textYellow">sentenced to a collective punishment</tt:span>
+</tt:p>
+<tt:p begin="00:26:53.920" end="00:26:56.800" region="bottom" style="textCenter" xml:id="sub491">
+<tt:span style="textYellow">to a collective punishment.</tt:span>
+</tt:p>
+<tt:p begin="00:26:56.840" end="00:27:00.840" region="bottom" style="textCenter" xml:id="sub492">
+<tt:span style="textYellow">And we have exactly</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in solidarity with the Dortmunders</tt:span>
+</tt:p>
+<tt:p begin="00:27:00.880" end="00:27:03.560" region="bottom" style="textCenter" xml:id="sub493">
+<tt:span style="textYellow">this choice of words</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of the Dortmunders.</tt:span>
+</tt:p>
+<tt:p begin="00:27:05.400" end="00:27:07.400" region="bottom" style="textCenter" xml:id="sub494">
+<tt:span style="textWhite">Thus ignited</tt:span>
+<tt:br/>
+<tt:span style="textWhite">that day in Sinsheim</tt:span>
+</tt:p>
+<tt:p begin="00:27:07.440" end="00:27:10.360" region="bottom" style="textCenter" xml:id="sub495">
+<tt:span style="textWhite">not only the conflict</tt:span>
+<tt:br/>
+<tt:span style="textWhite">between the Ultras and Hopp,</tt:span>
+</tt:p>
+<tt:p begin="00:27:10.400" end="00:27:12.520" region="bottom" style="textCenter" xml:id="sub496">
+<tt:span style="textWhite">but above all</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the protest of the</tt:span>
+</tt:p>
+<tt:p begin="00:27:12.560" end="00:27:16.160" region="bottom" style="textCenter" xml:id="sub497">
+<tt:span style="textWhite">against the DFB</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and against the collective punishments.</tt:span>
+</tt:p>
+<tt:p begin="00:27:16.200" end="00:27:20.000" region="bottom" style="textCenter" xml:id="sub498">
+<tt:span style="textWhite">It is the bone of contention</tt:span>
+<tt:br/>
+<tt:span style="textWhite">between the fan scenes and the DFB</tt:span>
+</tt:p>
+<tt:p begin="00:27:20.040" end="00:27:23.240" region="bottom" style="textCenter" xml:id="sub499">
+<tt:span style="textWhite">and unites the otherwise</tt:span>
+<tt:br/>
+<tt:span style="textWhite">rival ultra groups.</tt:span>
+</tt:p>
+<tt:p begin="00:27:23.280" end="00:27:25.560" region="bottom" style="textCenter" xml:id="sub500">
+<tt:span style="textWhite">They accuse the association</tt:span>
+</tt:p>
+<tt:p begin="00:27:25.600" end="00:27:28.640" region="bottom" style="textCenter" xml:id="sub501">
+<tt:span style="textWhite">of reintroducing collective punishments for Dietmar</tt:span>
+<tt:br/>
+<tt:span style="textWhite">reintroduced</tt:span>
+</tt:p>
+<tt:p begin="00:27:28.680" end="00:27:31.520" region="bottom" style="textCenter" xml:id="sub502">
+<tt:span style="textWhite">and in doing so</tt:span>
+<tt:br/>
+<tt:span style="textWhite">broken a promise.</tt:span>
+</tt:p>
+<tt:p begin="00:27:31.560" end="00:27:34.080" region="bottom" style="textCenter" xml:id="sub503">
+<tt:span style="textWhite">"Everything as before.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">The DFB breaks its word",</tt:span>
+</tt:p>
+<tt:p begin="00:27:34.120" end="00:27:36.480" region="bottom" style="textCenter" xml:id="sub504">
+<tt:span style="textWhite">was written on the banner of the Schickeria.</tt:span>
+</tt:p>
+<tt:p begin="00:27:36.520" end="00:27:38.720" region="bottom" style="textCenter" xml:id="sub505">
+<tt:span style="textWhite">The Ultras refer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">to a promise</tt:span>
+</tt:p>
+<tt:p begin="00:27:38.760" end="00:27:41.680" region="bottom" style="textCenter" xml:id="sub506">
+<tt:span style="textWhite">of the former DFB president</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Reinhard Grindel</tt:span>
+</tt:p>
+<tt:p begin="00:27:41.720" end="00:27:43.880" region="bottom" style="textCenter" xml:id="sub507">
+<tt:span style="textWhite">from the fall of 2017.</tt:span>
+</tt:p>
+<tt:p begin="00:27:43.920" end="00:27:48.960" region="bottom" style="textCenter" xml:id="sub508">
+<tt:span style="textYellow">We want to enter into a</tt:span>
+<tt:br/>
+<tt:span style="textYellow">really serious dialog</tt:span>
+</tt:p>
+<tt:p begin="00:27:49.000" end="00:27:54.200" region="bottom" style="textCenter" xml:id="sub509">
+<tt:span style="textYellow">with all fan groups,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">including with the Ultras.</tt:span>
+</tt:p>
+<tt:p begin="00:27:55.000" end="00:27:59.720" region="bottom" style="textCenter" xml:id="sub510">
+<tt:span style="textYellow">And to document</tt:span>
+<tt:br/>
+<tt:span style="textYellow">how important this dialogue is to us,</tt:span>
+</tt:p>
+<tt:p begin="00:28:00.720" end="00:28:03.840" region="bottom" style="textCenter" xml:id="sub511">
+<tt:span style="textYellow">we, the DFB presidium, recommend</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to our control committee,</tt:span>
+</tt:p>
+<tt:p begin="00:28:07.080" end="00:28:10.760" region="bottom" style="textCenter" xml:id="sub512">
+<tt:span style="textYellow">not to apply for any of the</tt:span>
+<tt:br/>
+<tt:span style="textYellow">collective punishments</tt:span>
+</tt:p>
+<tt:p begin="00:28:10.800" end="00:28:13.320" region="bottom" style="textCenter" xml:id="sub513">
+<tt:span style="textYellow">to our</tt:span>
+<tt:br/>
+<tt:span style="textYellow">independent sports court.</tt:span>
+</tt:p>
+<tt:p begin="00:28:13.360" end="00:28:18.040" region="bottom" style="textCenter" xml:id="sub514">
+<tt:span style="textYellow">In this way, the president</tt:span>
+<tt:br/>
+<tt:span style="textYellow">led the DFB into the trap.</tt:span>
+</tt:p>
+<tt:p begin="00:28:18.080" end="00:28:22.520" region="bottom" style="textCenter" xml:id="sub515">
+<tt:span style="textYellow">This has only caused head-shaking</tt:span>
+<tt:br/>
+<tt:span style="textYellow">within the DFB.</tt:span>
+</tt:p>
+<tt:p begin="00:28:22.560" end="00:28:25.520" region="bottom" style="textCenter" xml:id="sub516">
+<tt:span style="textYellow">That was harmful. It was nonsense.</tt:span>
+</tt:p>
+<tt:p begin="00:28:26.840" end="00:28:30.440" region="bottom" style="textCenter" xml:id="sub517">
+<tt:span style="textWhite">Christoph Schickhardt, Dietmar Hopp's lawyer</tt:span>
+<tt:br/>
+<tt:span style="textWhite">of Dietmar Hopp, thus finds:</tt:span>
+</tt:p>
+<tt:p begin="00:28:30.480" end="00:28:35.280" region="bottom" style="textCenter" xml:id="sub518">
+<tt:span style="textWhite">The blame for the whole mess</tt:span>
+<tt:br/>
+<tt:span style="textWhite">is the former president of the DFB,</tt:span>
+</tt:p>
+<tt:p begin="00:28:35.320" end="00:28:38.040" region="bottom" style="textCenter" xml:id="sub519">
+<tt:span style="textWhite">Reinhard Grindel.</tt:span>
+</tt:p>
+<tt:p begin="00:28:38.080" end="00:28:40.440" region="bottom" style="textCenter" xml:id="sub520">
+<tt:span style="textYellow">Hermann, have you already</tt:span>
+<tt:br/>
+<tt:span style="textYellow">coffee yet?</tt:span>
+</tt:p>
+<tt:p begin="00:28:40.480" end="00:28:42.640" region="bottom" style="textCenter" xml:id="sub521">
+<tt:span style="textYellow">Hermann, can I have some coffee?</tt:span>
+</tt:p>
+<tt:p begin="00:28:44.440" end="00:28:46.200" region="bottom" style="textCenter" xml:id="sub522">
+<tt:span style="textYellow">Great, wonderful.</tt:span>
+</tt:p>
+<tt:p begin="00:28:49.520" end="00:28:51.800" region="bottom" style="textCenter" xml:id="sub523">
+<tt:span style="textYellow">Shall we go straight away?</tt:span>
+</tt:p>
+<tt:p begin="00:28:51.840" end="00:28:56.480" region="bottom" style="textCenter" xml:id="sub524">
+<tt:span style="textWhite">How did you make this commitment in 2017?</tt:span>
+<tt:br/>
+<tt:span style="textWhite">how did you make this commitment?</tt:span>
+</tt:p>
+<tt:p begin="00:28:56.520" end="00:28:59.080" region="bottom" style="textCenter" xml:id="sub525">
+<tt:span style="textYellow">I wanted</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the dialogue with the Ultras,</tt:span>
+</tt:p>
+<tt:p begin="00:28:59.120" end="00:29:02.240" region="bottom" style="textCenter" xml:id="sub526">
+<tt:span style="textYellow">because in the stadiums</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a situation had arisen in the stadiums</tt:span>
+</tt:p>
+<tt:p begin="00:29:02.280" end="00:29:08.560" region="bottom" style="textCenter" xml:id="sub527">
+<tt:span style="textYellow">where people were only raging against the DFB</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and posters were raised.</tt:span>
+</tt:p>
+<tt:p begin="00:29:09.560" end="00:29:11.280" region="bottom" style="textCenter" xml:id="sub528">
+<tt:span style="textWhite">And not only that.</tt:span>
+</tt:p>
+<tt:p begin="00:29:11.320" end="00:29:15.480" region="bottom" style="textCenter" xml:id="sub529">
+<tt:span style="textWhite">In 2017, Dresden supporters declared</tt:span>
+<tt:br/>
+<tt:span style="textWhite">martially declared war on the DFB.</tt:span>
+</tt:p>
+<tt:p begin="00:29:16.600" end="00:29:18.360" region="bottom" style="textCenter" xml:id="sub530">
+<tt:span style="textWhite">At a cup match in Rostock</tt:span>
+</tt:p>
+<tt:p begin="00:29:18.400" end="00:29:21.640" region="bottom" style="textCenter" xml:id="sub531">
+<tt:span style="textWhite">flares</tt:span>
+<tt:br/>
+<tt:span style="textWhite">of Hertha fans fly into spectator blocks.</tt:span>
+</tt:p>
+<tt:p begin="00:29:22.680" end="00:29:25.640" region="bottom" style="textCenter" xml:id="sub532">
+<tt:span style="textYellow">(Grindel) That's why I wanted to</tt:span>
+<tt:br/>
+<tt:span style="textYellow">enter into dialogue.</tt:span>
+</tt:p>
+<tt:p begin="00:29:25.680" end="00:29:29.320" region="bottom" style="textCenter" xml:id="sub533">
+<tt:span style="textYellow">And as an invitation and credible</tt:span>
+<tt:br/>
+<tt:span style="textYellow">signal that we are serious,</tt:span>
+</tt:p>
+<tt:p begin="00:29:29.360" end="00:29:32.960" region="bottom" style="textCenter" xml:id="sub534">
+<tt:span style="textYellow">I have campaigned for the suspension</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of the collective punishment.</tt:span>
+</tt:p>
+<tt:p begin="00:29:33.000" end="00:29:34.480" region="bottom" style="textCenter" xml:id="sub535">
+<tt:span style="textYellow">I concede</tt:span>
+</tt:p>
+<tt:p begin="00:29:34.520" end="00:29:37.960" region="bottom" style="textCenter" xml:id="sub536">
+<tt:span style="textYellow">that I also had our Euro bid</tt:span>
+<tt:br/>
+<tt:span style="textYellow">for 2024 in mind,</tt:span>
+</tt:p>
+<tt:p begin="00:29:38.000" end="00:29:40.200" region="bottom" style="textCenter" xml:id="sub537">
+<tt:span style="textYellow">because for that</tt:span>
+<tt:br/>
+<tt:span style="textYellow">a nice stadium atmosphere</tt:span>
+</tt:p>
+<tt:p begin="00:29:40.240" end="00:29:42.280" region="bottom" style="textCenter" xml:id="sub538">
+<tt:span style="textYellow">in Germany was important.</tt:span>
+</tt:p>
+<tt:p begin="00:29:43.200" end="00:29:45.840" region="bottom" style="textCenter" xml:id="sub539">
+<tt:span style="textWhite">So it wasn't just about reconciliation,</tt:span>
+</tt:p>
+<tt:p begin="00:29:45.880" end="00:29:50.240" region="bottom" style="textCenter" xml:id="sub540">
+<tt:span style="textWhite">but about their own</tt:span>
+<tt:br/>
+<tt:span style="textWhite">interests: the 2024 European Championship.</tt:span>
+</tt:p>
+<tt:p begin="00:29:50.280" end="00:29:54.240" region="bottom" style="textCenter" xml:id="sub541">
+<tt:span style="textWhite">What were the reactions</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in the association to your initiative?</tt:span>
+</tt:p>
+<tt:p begin="00:29:54.280" end="00:29:57.640" region="bottom" style="textCenter" xml:id="sub542">
+<tt:span style="textYellow">Essentially</tt:span>
+<tt:br/>
+<tt:span style="textYellow">my line was supported.</tt:span>
+</tt:p>
+<tt:p begin="00:29:59.640" end="00:30:02.600" region="bottom" style="textCenter" xml:id="sub543">
+<tt:span style="textYellow">There was a vice president</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who is also responsible for legal</tt:span>
+</tt:p>
+<tt:p begin="00:30:02.640" end="00:30:06.080" region="bottom" style="textCenter" xml:id="sub544">
+<tt:span style="textYellow">and matters relating to the Articles of Association,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who took a different line.</tt:span>
+</tt:p>
+<tt:p begin="00:30:09.400" end="00:30:11.400" region="bottom" style="textCenter" xml:id="sub545">
+<tt:span style="textWhite">You mean Rainer Koch.</tt:span>
+</tt:p>
+<tt:p begin="00:30:12.800" end="00:30:14.680" region="bottom" style="textCenter" xml:id="sub546">
+<tt:span style="textYellow">Yes.</tt:span>
+</tt:p>
+<tt:p begin="00:30:14.720" end="00:30:16.520" region="bottom" style="textCenter" xml:id="sub547">
+<tt:span style="textYellow">So. Good.</tt:span>
+</tt:p>
+<tt:p begin="00:30:16.560" end="00:30:19.760" region="bottom" style="textCenter" xml:id="sub548">
+<tt:span style="textYellow">"We are in favor of,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to pause, to rethink,</tt:span>
+</tt:p>
+<tt:p begin="00:30:19.800" end="00:30:22.840" region="bottom" style="textCenter" xml:id="sub549">
+<tt:span style="textYellow">...how we can create...</tt:span>
+<tt:br/>
+<tt:span style="textYellow">positive stadium experience for all,</tt:span>
+</tt:p>
+<tt:p begin="00:30:22.880" end="00:30:25.000" region="bottom" style="textCenter" xml:id="sub550">
+<tt:span style="textYellow">who love football,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">can come."</tt:span>
+</tt:p>
+<tt:p begin="00:30:25.040" end="00:30:28.440" region="bottom" style="textCenter" xml:id="sub551">
+<tt:span style="textWhite">Do you understand</tt:span>
+<tt:br/>
+<tt:span style="textWhite">that the Ultras are referring to this?</tt:span>
+</tt:p>
+<tt:p begin="00:30:28.480" end="00:30:31.760" region="bottom" style="textCenter" xml:id="sub552">
+<tt:span style="textYellow">No, we have to listen carefully to</tt:span>
+<tt:br/>
+<tt:span style="textYellow">what Grindel said.</tt:span>
+</tt:p>
+<tt:p begin="00:30:31.800" end="00:30:33.280" region="bottom" style="textCenter" xml:id="sub553">
+<tt:span style="textYellow">And that is true,</tt:span>
+</tt:p>
+<tt:p begin="00:30:33.320" end="00:30:36.760" region="bottom" style="textCenter" xml:id="sub554">
+<tt:span style="textYellow">that we have to work together</tt:span>
+<tt:br/>
+<tt:span style="textYellow">we have to look for solutions together,</tt:span>
+</tt:p>
+<tt:p begin="00:30:36.800" end="00:30:39.960" region="bottom" style="textCenter" xml:id="sub555">
+<tt:span style="textYellow">like Dietmar Hopp</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in the crosshairs in the stadium</tt:span>
+</tt:p>
+<tt:p begin="00:30:40.000" end="00:30:42.240" region="bottom" style="textCenter" xml:id="sub556">
+<tt:span style="textYellow">can be prevented in the future.</tt:span>
+</tt:p>
+<tt:p begin="00:30:42.280" end="00:30:47.520" region="bottom" style="textCenter" xml:id="sub557">
+<tt:span style="textYellow">And DFB President, Reinhard Grindel</tt:span>
+<tt:br/>
+<tt:span style="textYellow">at the time, also said very clearly:</tt:span>
+</tt:p>
+<tt:p begin="00:30:47.560" end="00:30:52.120" region="bottom" style="textCenter" xml:id="sub558">
+<tt:span style="textYellow">"As long as we have alternative ways</tt:span>
+<tt:br/>
+<tt:span style="textYellow">are available,</tt:span>
+</tt:p>
+<tt:p begin="00:30:52.160" end="00:30:56.840" region="bottom" style="textCenter" xml:id="sub559">
+<tt:span style="textYellow">we will not be able to resort to</tt:span>
+<tt:br/>
+<tt:span style="textYellow">such a measure."</tt:span>
+</tt:p>
+<tt:p begin="00:30:56.880" end="00:30:59.360" region="bottom" style="textCenter" xml:id="sub560">
+<tt:span style="textWhite">When such a promise</tt:span>
+<tt:br/>
+<tt:span style="textWhite">is made ...</tt:span>
+</tt:p>
+<tt:p begin="00:30:59.400" end="00:31:02.680" region="bottom" style="textCenter" xml:id="sub561">
+<tt:span style="textYellow">No, it's not a promise.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Sorry.</tt:span>
+</tt:p>
+<tt:p begin="00:31:11.440" end="00:31:13.440" region="bottom" style="textCenter" xml:id="sub562">
+<tt:span style="textWhite">What was the position of Rainer Koch?</tt:span>
+</tt:p>
+<tt:p begin="00:31:13.480" end="00:31:16.120" region="bottom" style="textCenter" xml:id="sub563">
+<tt:span style="textYellow">Rainer Koch believed,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that with hardness ...</tt:span>
+</tt:p>
+<tt:p begin="00:31:16.160" end="00:31:19.200" region="bottom" style="textCenter" xml:id="sub564">
+<tt:span style="textYellow">possibly also a,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in my opinion, absurd idea.</tt:span>
+</tt:p>
+<tt:p begin="00:31:19.240" end="00:31:22.480" region="bottom" style="textCenter" xml:id="sub565">
+<tt:span style="textYellow">He believed that with the infiltration</tt:span>
+<tt:br/>
+<tt:span style="textYellow">undercover investigators</tt:span>
+</tt:p>
+<tt:p begin="00:31:22.520" end="00:31:26.960" region="bottom" style="textCenter" xml:id="sub566">
+<tt:span style="textYellow">from security firms on the block,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to make film recordings,</tt:span>
+</tt:p>
+<tt:p begin="00:31:27.000" end="00:31:31.040" region="bottom" style="textCenter" xml:id="sub567">
+<tt:span style="textYellow">to catch ringleaders</tt:span>
+<tt:br/>
+<tt:span style="textYellow">ringleaders in the ultrascene</tt:span>
+</tt:p>
+<tt:p begin="00:31:31.080" end="00:31:33.560" region="bottom" style="textCenter" xml:id="sub568">
+<tt:span style="textYellow">and thereby break up the</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to be able to break up the scene.</tt:span>
+</tt:p>
+<tt:p begin="00:31:35.800" end="00:31:38.240" region="bottom" style="textCenter" xml:id="sub569">
+<tt:span style="textWhite">Has this dissent on this issue</tt:span>
+</tt:p>
+<tt:p begin="00:31:38.280" end="00:31:40.960" region="bottom" style="textCenter" xml:id="sub570">
+<tt:span style="textWhite">put a strain on your</tt:span>
+<tt:br/>
+<tt:span style="textWhite">with Rainer Koch?</tt:span>
+</tt:p>
+<tt:p begin="00:31:41.000" end="00:31:45.160" region="bottom" style="textCenter" xml:id="sub571">
+<tt:span style="textYellow">Yes, my relationship with Rainer Koch</tt:span>
+<tt:br/>
+<tt:span style="textYellow">has not only been</tt:span>
+</tt:p>
+<tt:p begin="00:31:45.200" end="00:31:50.560" region="bottom" style="textCenter" xml:id="sub572">
+<tt:span style="textYellow">not only put a strain on my relationship with Rainer Koch,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">but almost destroyed,</tt:span>
+</tt:p>
+<tt:p begin="00:31:50.600" end="00:31:54.760" region="bottom" style="textCenter" xml:id="sub573">
+<tt:span style="textYellow">because he said: "The Rule of Law</tt:span>
+<tt:br/>
+<tt:span style="textYellow">must not be open to discussion."</tt:span>
+</tt:p>
+<tt:p begin="00:31:54.800" end="00:31:58.600" region="bottom" style="textCenter" xml:id="sub574">
+<tt:span style="textYellow">To me, as a judge</tt:span>
+<tt:br/>
+<tt:span style="textYellow">I don't think it comes as a surprise to anyone</tt:span>
+</tt:p>
+<tt:p begin="00:31:58.640" end="00:32:01.800" region="bottom" style="textCenter" xml:id="sub575">
+<tt:span style="textYellow">that the rule of law,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that is, the rule of law,</tt:span>
+</tt:p>
+<tt:p begin="00:32:01.840" end="00:32:04.760" region="bottom" style="textCenter" xml:id="sub576">
+<tt:span style="textYellow">of the orders are above everything.</tt:span>
+</tt:p>
+<tt:p begin="00:32:04.800" end="00:32:08.280" region="bottom" style="textCenter" xml:id="sub577">
+<tt:span style="textYellow">I have noticed that his</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"Rule of Law" is going nowhere,</tt:span>
+</tt:p>
+<tt:p begin="00:32:08.320" end="00:32:11.160" region="bottom" style="textCenter" xml:id="sub578">
+<tt:span style="textYellow">has brought nothing at all</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and then it makes sense</tt:span>
+</tt:p>
+<tt:p begin="00:32:11.200" end="00:32:13.560" region="bottom" style="textCenter" xml:id="sub579">
+<tt:span style="textYellow">when you realize:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"My horse is dead",</tt:span>
+</tt:p>
+<tt:p begin="00:32:13.600" end="00:32:16.720" region="bottom" style="textCenter" xml:id="sub580">
+<tt:span style="textYellow">maybe to dismount</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and think of something new.</tt:span>
+</tt:p>
+<tt:p begin="00:32:19.480" end="00:32:21.360" region="bottom" style="textCenter" xml:id="sub581">
+<tt:span style="textWhite">Our meeting with Reinhard Grindel</tt:span>
+</tt:p>
+<tt:p begin="00:32:21.400" end="00:32:23.800" region="bottom" style="textCenter" xml:id="sub582">
+<tt:span style="textWhite">took place after the meeting</tt:span>
+<tt:br/>
+<tt:span style="textWhite">with Rainer Koch.</tt:span>
+</tt:p>
+<tt:p begin="00:32:23.840" end="00:32:27.320" region="bottom" style="textCenter" xml:id="sub583">
+<tt:span style="textWhite">We confronted Koch in writing</tt:span>
+<tt:br/>
+<tt:span style="textWhite">with Grindel's accusation,</tt:span>
+</tt:p>
+<tt:p begin="00:32:27.360" end="00:32:30.760" region="bottom" style="textCenter" xml:id="sub584">
+<tt:span style="textWhite">that he wanted to use undercover</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in the stadium.</tt:span>
+</tt:p>
+<tt:p begin="00:32:30.800" end="00:32:34.000" region="bottom" style="textCenter" xml:id="sub585">
+<tt:span style="textWhite">Rainer Koch denies this in a</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in a statement to us.</tt:span>
+</tt:p>
+<tt:p begin="00:32:34.040" end="00:32:37.280" region="bottom" style="textCenter" xml:id="sub586">
+<tt:span style="textWhite">He had never wanted to send</tt:span>
+<tt:br/>
+<tt:span style="textWhite">investigators into the blocks.</tt:span>
+</tt:p>
+<tt:p begin="00:32:37.320" end="00:32:39.880" region="bottom" style="textCenter" xml:id="sub587">
+<tt:span style="textWhite">His strategy was rather,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Quote, a ...</tt:span>
+</tt:p>
+<tt:p begin="00:33:01.840" end="00:33:05.360" region="bottom" style="textCenter" xml:id="sub588">
+<tt:span style="textWhite">Reinhard Grindel</tt:span>
+<tt:br/>
+<tt:span style="textWhite">stands by his account.</tt:span>
+</tt:p>
+<tt:p begin="00:33:06.920" end="00:33:10.160" region="bottom" style="textCenter" xml:id="sub589">
+<tt:span style="textWhite">The two DFB leaders</tt:span>
+<tt:br/>
+<tt:span style="textWhite">were, it becomes clear,</tt:span>
+</tt:p>
+<tt:p begin="00:33:10.200" end="00:33:13.680" region="bottom" style="textCenter" xml:id="sub590">
+<tt:span style="textWhite">completely at odds about</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the right way to deal with the Ultras.</tt:span>
+</tt:p>
+<tt:p begin="00:33:13.720" end="00:33:17.480" region="bottom" style="textCenter" xml:id="sub591">
+<tt:span style="textWhite">But what exactly does all this have to do with</tt:span>
+<tt:br/>
+<tt:span style="textWhite">to do with the escalation in Sinsheim?</tt:span>
+</tt:p>
+<tt:p begin="00:33:17.520" end="00:33:20.360" region="bottom" style="textCenter" xml:id="sub592">
+<tt:span style="textWhite">Hopp's lawyer Schickhardt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">was of the opinion,</tt:span>
+</tt:p>
+<tt:p begin="00:33:20.400" end="00:33:22.600" region="bottom" style="textCenter" xml:id="sub593">
+<tt:span style="textWhite">Grindel's promise was to blame.</tt:span>
+</tt:p>
+<tt:p begin="00:33:23.480" end="00:33:27.720" region="bottom" style="textCenter" xml:id="sub594">
+<tt:span style="textYellow">"It was precisely the president who led the DFB into the trap.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">led the DFB into the trap."</tt:span>
+</tt:p>
+<tt:p begin="00:33:29.280" end="00:33:31.960" region="bottom" style="textCenter" xml:id="sub595">
+<tt:span style="textYellow">Reality</tt:span>
+<tt:br/>
+<tt:span style="textYellow">disproves Mr. Schickhardt,</tt:span>
+</tt:p>
+<tt:p begin="00:33:32.000" end="00:33:35.320" region="bottom" style="textCenter" xml:id="sub596">
+<tt:span style="textYellow">because Dietmar Hopp has never been</tt:span>
+<tt:br/>
+<tt:span style="textYellow">has never been so attacked at a match</tt:span>
+</tt:p>
+<tt:p begin="00:33:35.360" end="00:33:37.880" region="bottom" style="textCenter" xml:id="sub597">
+<tt:span style="textYellow">as he was at the</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of Bayern Munich in Hoffenheim.</tt:span>
+</tt:p>
+<tt:p begin="00:33:37.920" end="00:33:41.000" region="bottom" style="textCenter" xml:id="sub598">
+<tt:span style="textYellow">This behavior</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was a reaction to precisely that,</tt:span>
+</tt:p>
+<tt:p begin="00:33:41.040" end="00:33:45.000" region="bottom" style="textCenter" xml:id="sub599">
+<tt:span style="textYellow">that the collective penalty</tt:span>
+<tt:br/>
+<tt:span style="textYellow">has been pronounced again.</tt:span>
+</tt:p>
+<tt:p begin="00:33:45.040" end="00:33:47.040" region="bottom" style="textCenter" xml:id="sub600">
+<tt:span style="textYellow">Something like that comes from something like that.</tt:span>
+</tt:p>
+<tt:p begin="00:33:48.960" end="00:33:50.680" region="bottom" style="textCenter" xml:id="sub601">
+<tt:span style="textWhite">"Something like this comes from something like this."</tt:span>
+</tt:p>
+<tt:p begin="00:33:52.280" end="00:33:56.440" region="bottom" style="textCenter" xml:id="sub602">
+<tt:span style="textWhite">The day in Sinsheim has</tt:span>
+<tt:br/>
+<tt:span style="textWhite">many different back stories.</tt:span>
+</tt:p>
+<tt:p begin="00:34:05.240" end="00:34:08.960" region="bottom" style="textCenter" xml:id="sub603">
+<tt:span style="textWhite">The Löwenbräukeller in Munich,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">two days before the game.</tt:span>
+</tt:p>
+<tt:p begin="00:34:09.000" end="00:34:12.000" region="bottom" style="textCenter" xml:id="sub604">
+<tt:span style="textWhite">The fans celebrate 120 years of FC Bayern.</tt:span>
+</tt:p>
+<tt:p begin="00:34:12.040" end="00:34:14.600" region="bottom" style="textCenter" xml:id="sub605">
+<tt:span style="textWhite">* Chant</tt:span>
+</tt:p>
+<tt:p begin="00:34:20.080" end="00:34:23.360" region="bottom" style="textCenter" xml:id="sub606">
+<tt:span style="textYellow">Two days before there was</tt:span>
+<tt:br/>
+<tt:span style="textYellow">an anniversary of our Südkurve.</tt:span>
+</tt:p>
+<tt:p begin="00:34:23.400" end="00:34:25.920" region="bottom" style="textCenter" xml:id="sub607">
+<tt:span style="textYellow">I was invited,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">I was there too.</tt:span>
+</tt:p>
+<tt:p begin="00:34:25.960" end="00:34:29.960" region="bottom" style="textCenter" xml:id="sub608">
+<tt:span style="textYellow">So it was up to Uli Hoeneß,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who was our guest that evening,</tt:span>
+</tt:p>
+<tt:p begin="00:34:30.000" end="00:34:34.480" region="bottom" style="textCenter" xml:id="sub609">
+<tt:span style="textYellow">who was our guest that evening,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that there would be these actions.</tt:span>
+</tt:p>
+<tt:p begin="00:34:34.520" end="00:34:36.280" region="bottom" style="textCenter" xml:id="sub610">
+<tt:span style="textYellow">And we were actually</tt:span>
+</tt:p>
+<tt:p begin="00:34:36.320" end="00:34:38.360" region="bottom" style="textCenter" xml:id="sub611">
+<tt:span style="textYellow">relatively objective</tt:span>
+<tt:br/>
+<tt:span style="textYellow">about it.</tt:span>
+</tt:p>
+<tt:p begin="00:34:38.400" end="00:34:42.280" region="bottom" style="textCenter" xml:id="sub612">
+<tt:span style="textYellow">I heard something ringing,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">talked to the people in charge</tt:span>
+</tt:p>
+<tt:p begin="00:34:42.320" end="00:34:44.920" region="bottom" style="textCenter" xml:id="sub613">
+<tt:span style="textYellow">and told them clearly</tt:span>
+<tt:br/>
+<tt:span style="textYellow">what I thought of it</tt:span>
+</tt:p>
+<tt:p begin="00:34:44.960" end="00:34:47.760" region="bottom" style="textCenter" xml:id="sub614">
+<tt:span style="textYellow">and that I could not</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and that I can't accept it at all.</tt:span>
+</tt:p>
+<tt:p begin="00:34:47.800" end="00:34:51.280" region="bottom" style="textCenter" xml:id="sub615">
+<tt:span style="textWhite">Do you think</tt:span>
+<tt:br/>
+<tt:span style="textWhite">that Hoffenheim also knew about it?</tt:span>
+</tt:p>
+<tt:p begin="00:34:51.320" end="00:34:53.600" region="bottom" style="textCenter" xml:id="sub616">
+<tt:span style="textYellow">I think so,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the whole league knew.</tt:span>
+</tt:p>
+<tt:p begin="00:34:53.640" end="00:34:56.080" region="bottom" style="textCenter" xml:id="sub617">
+<tt:span style="textWhite">Did you inform</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Dietmar Hopp about it?</tt:span>
+</tt:p>
+<tt:p begin="00:34:56.120" end="00:34:58.400" region="bottom" style="textCenter" xml:id="sub618">
+<tt:span style="textYellow">He knew about it.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">That was known,</tt:span>
+</tt:p>
+<tt:p begin="00:34:58.440" end="00:35:01.480" region="bottom" style="textCenter" xml:id="sub619">
+<tt:span style="textYellow">that FC Bayern</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was very close to Dietmar Hopp</tt:span>
+</tt:p>
+<tt:p begin="00:35:01.520" end="00:35:05.240" region="bottom" style="textCenter" xml:id="sub620">
+<tt:span style="textYellow">and was also in direct contact with</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was also in direct contact.</tt:span>
+</tt:p>
+<tt:p begin="00:35:05.280" end="00:35:08.080" region="bottom" style="textCenter" xml:id="sub621">
+<tt:span style="textYellow">And it was already clear</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that something could happen.</tt:span>
+</tt:p>
+<tt:p begin="00:35:11.200" end="00:35:15.200" region="bottom" style="textCenter" xml:id="sub622">
+<tt:span style="textWhite">Also the live reporter of Sky,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Kai Dittmann, was also informed.</tt:span>
+</tt:p>
+<tt:p begin="00:35:16.440" end="00:35:18.240" region="bottom" style="textCenter" xml:id="sub623">
+<tt:span style="textYellow">There were indications beforehand,</tt:span>
+</tt:p>
+<tt:p begin="00:35:18.280" end="00:35:21.280" region="bottom" style="textCenter" xml:id="sub624">
+<tt:span style="textYellow">that in the Bundesliga</tt:span>
+<tt:br/>
+<tt:span style="textYellow">something would happen against Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:35:21.320" end="00:35:23.080" region="bottom" style="textCenter" xml:id="sub625">
+<tt:span style="textYellow">It was brought to my attention in preliminary talks -</tt:span>
+</tt:p>
+<tt:p begin="00:35:23.120" end="00:35:26.000" region="bottom" style="textCenter" xml:id="sub626">
+<tt:span style="textYellow">I'm preparing for the game - I was</tt:span>
+<tt:br/>
+<tt:span style="textYellow">always said,</tt:span>
+</tt:p>
+<tt:p begin="00:35:26.040" end="00:35:29.200" region="bottom" style="textCenter" xml:id="sub627">
+<tt:span style="textYellow">how much good Hopp does,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">where I thought, "Yeah, I know that."</tt:span>
+</tt:p>
+<tt:p begin="00:35:29.240" end="00:35:32.640" region="bottom" style="textCenter" xml:id="sub628">
+<tt:span style="textYellow">But these people</tt:span>
+<tt:br/>
+<tt:span style="textYellow">don't just want to tell me that.</tt:span>
+</tt:p>
+<tt:p begin="00:35:32.680" end="00:35:35.320" region="bottom" style="textCenter" xml:id="sub629">
+<tt:span style="textWhite">Who gave you</tt:span>
+<tt:br/>
+<tt:span style="textWhite">given you these hints before?</tt:span>
+</tt:p>
+<tt:p begin="00:35:35.360" end="00:35:37.960" region="bottom" style="textCenter" xml:id="sub630">
+<tt:span style="textYellow">These are sources</tt:span>
+<tt:br/>
+<tt:span style="textYellow">at the individual clubs,</tt:span>
+</tt:p>
+<tt:p begin="00:35:38.000" end="00:35:39.760" region="bottom" style="textCenter" xml:id="sub631">
+<tt:span style="textYellow">when you ask general things</tt:span>
+</tt:p>
+<tt:p begin="00:35:39.800" end="00:35:42.200" region="bottom" style="textCenter" xml:id="sub632">
+<tt:span style="textYellow">and suddenly</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in a direction is steered,</tt:span>
+</tt:p>
+<tt:p begin="00:35:42.240" end="00:35:44.360" region="bottom" style="textCenter" xml:id="sub633">
+<tt:span style="textYellow">where you say:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"Now you have to be awake."</tt:span>
+</tt:p>
+<tt:p begin="00:35:44.400" end="00:35:47.440" region="bottom" style="textCenter" xml:id="sub634">
+<tt:span style="textYellow">I didn't ask about Hopp</tt:span>
+<tt:br/>
+<tt:span style="textYellow">about Hopp, but I found out,</tt:span>
+</tt:p>
+<tt:p begin="00:35:47.480" end="00:35:50.040" region="bottom" style="textCenter" xml:id="sub635">
+<tt:span style="textYellow">Mr. Hopp</tt:span>
+<tt:br/>
+<tt:span style="textYellow">makes many beautiful stories ...</tt:span>
+</tt:p>
+<tt:p begin="00:35:50.080" end="00:35:53.560" region="bottom" style="textCenter" xml:id="sub636">
+<tt:span style="textYellow">And when they asked:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"Why are you telling me this?</tt:span>
+</tt:p>
+<tt:p begin="00:35:53.600" end="00:35:56.280" region="bottom" style="textCenter" xml:id="sub637">
+<tt:span style="textYellow">the answer was:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"We heard from Hoffenheim,</tt:span>
+</tt:p>
+<tt:p begin="00:35:56.320" end="00:35:59.600" region="bottom" style="textCenter" xml:id="sub638">
+<tt:span style="textYellow">that throughout Germany,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">in other stadiums, too,</tt:span>
+</tt:p>
+<tt:p begin="00:35:59.640" end="00:36:01.840" region="bottom" style="textCenter" xml:id="sub639">
+<tt:span style="textYellow">actions against Dietmar Hopp</tt:span>
+<tt:br/>
+<tt:span style="textYellow">against Dietmar Hopp."</tt:span>
+</tt:p>
+<tt:p begin="00:36:01.880" end="00:36:04.960" region="bottom" style="textCenter" xml:id="sub640">
+<tt:span style="textWhite">So some kind of framing?</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Yes, definitely.</tt:span>
+</tt:p>
+<tt:p begin="00:36:05.800" end="00:36:08.000" region="bottom" style="textCenter" xml:id="sub641">
+<tt:span style="textWhite">(Off)</tt:span>
+<tt:br/>
+<tt:span style="textWhite">A framing - that is, a control,</tt:span>
+</tt:p>
+<tt:p begin="00:36:08.040" end="00:36:09.880" region="bottom" style="textCenter" xml:id="sub642">
+<tt:span style="textWhite">a kind of influencing.</tt:span>
+</tt:p>
+<tt:p begin="00:36:11.640" end="00:36:16.280" region="bottom" style="textCenter" xml:id="sub643">
+<tt:span style="textWhite">And the DFB is also prepared.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">It instructs its referees</tt:span>
+</tt:p>
+<tt:p begin="00:36:16.320" end="00:36:18.520" region="bottom" style="textCenter" xml:id="sub644">
+<tt:span style="textWhite">how they</tt:span>
+<tt:br/>
+<tt:span style="textWhite">how they should react to the expected</tt:span>
+</tt:p>
+<tt:p begin="00:36:18.560" end="00:36:21.760" region="bottom" style="textCenter" xml:id="sub645">
+<tt:span style="textWhite">against Hopp:</tt:span>
+<tt:br/>
+<tt:span style="textWhite">With the "three-step plan."</tt:span>
+</tt:p>
+<tt:p begin="00:36:21.800" end="00:36:23.360" region="bottom" style="textCenter" xml:id="sub646">
+<tt:span style="textWhite">This is designed for racist</tt:span>
+</tt:p>
+<tt:p begin="00:36:23.400" end="00:36:26.120" region="bottom" style="textCenter" xml:id="sub647">
+<tt:span style="textWhite">and discriminatory incidents</tt:span>
+<tt:br/>
+<tt:span style="textWhite">have been introduced</tt:span>
+</tt:p>
+<tt:p begin="00:36:26.160" end="00:36:30.680" region="bottom" style="textCenter" xml:id="sub648">
+<tt:span style="textWhite">and provides for games to be interrupted</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and, if necessary, abandon them.</tt:span>
+</tt:p>
+<tt:p begin="00:36:32.120" end="00:36:34.000" region="bottom" style="textCenter" xml:id="sub649">
+<tt:span style="textWhite">This afternoon it also comes</tt:span>
+</tt:p>
+<tt:p begin="00:36:34.040" end="00:36:36.240" region="bottom" style="textCenter" xml:id="sub650">
+<tt:span style="textWhite">for the protection</tt:span>
+<tt:br/>
+<tt:span style="textWhite">of Dietmar Hopp.</tt:span>
+</tt:p>
+<tt:p begin="00:36:36.280" end="00:36:39.400" region="bottom" style="textCenter" xml:id="sub651">
+<tt:span style="textWhite">(in the film) According to the DFB</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the three-step plan is victim protection.</tt:span>
+</tt:p>
+<tt:p begin="00:36:39.440" end="00:36:42.320" region="bottom" style="textCenter" xml:id="sub652">
+<tt:span style="textWhite">And in this case Dietmar Hopp</tt:span>
+<tt:br/>
+<tt:span style="textWhite">has become a victim.</tt:span>
+</tt:p>
+<tt:p begin="00:36:42.360" end="00:36:45.280" region="bottom" style="textCenter" xml:id="sub653">
+<tt:span style="textYellow">I consider this explanation</tt:span>
+<tt:br/>
+<tt:span style="textYellow">constructed in retrospect.</tt:span>
+</tt:p>
+<tt:p begin="00:36:45.320" end="00:36:48.000" region="bottom" style="textCenter" xml:id="sub654">
+<tt:span style="textYellow">The Three Step Plan</tt:span>
+<tt:br/>
+<tt:span style="textYellow">is an outgrowth of a paper</tt:span>
+</tt:p>
+<tt:p begin="00:36:48.040" end="00:36:50.800" region="bottom" style="textCenter" xml:id="sub655">
+<tt:span style="textYellow">against racism</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and discrimination in soccer.</tt:span>
+</tt:p>
+<tt:p begin="00:36:50.840" end="00:36:52.720" region="bottom" style="textCenter" xml:id="sub656">
+<tt:span style="textYellow">Discrimination against marginalized groups.</tt:span>
+</tt:p>
+<tt:p begin="00:36:52.760" end="00:36:54.960" region="bottom" style="textCenter" xml:id="sub657">
+<tt:span style="textYellow">To which marginalized group</tt:span>
+<tt:br/>
+<tt:span style="textYellow">does Mr. Hopp belong?</tt:span>
+</tt:p>
+<tt:p begin="00:36:56.320" end="00:36:59.880" region="bottom" style="textCenter" xml:id="sub658">
+<tt:span style="textWhite">This means that in Sinsheim, what Hopp did back in 2007</tt:span>
+<tt:br/>
+<tt:span style="textWhite">what Hopp did back in 2007</tt:span>
+</tt:p>
+<tt:p begin="00:36:59.920" end="00:37:03.240" region="bottom" style="textCenter" xml:id="sub659">
+<tt:span style="textWhite">in a dispute with Christian Heidel</tt:span>
+<tt:br/>
+<tt:span style="textWhite">had demanded from the DFB:</tt:span>
+</tt:p>
+<tt:p begin="00:37:03.280" end="00:37:07.240" region="bottom" style="textCenter" xml:id="sub660">
+<tt:span style="textWhite">that actions against him</tt:span>
+<tt:br/>
+<tt:span style="textWhite">be treated like racism.</tt:span>
+</tt:p>
+<tt:p begin="00:37:09.840" end="00:37:13.720" region="bottom" style="textCenter" xml:id="sub661">
+<tt:span style="textWhite">The fan scenes accuse the DFB of,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">with the help of the three-step plan</tt:span>
+</tt:p>
+<tt:p begin="00:37:13.760" end="00:37:17.160" region="bottom" style="textCenter" xml:id="sub662">
+<tt:span style="textWhite">simply to protect a business partner</tt:span>
+<tt:br/>
+<tt:span style="textWhite">business partner:</tt:span>
+</tt:p>
+<tt:p begin="00:37:18.000" end="00:37:22.160" region="bottom" style="textCenter" xml:id="sub663">
+<tt:span style="textWhite">Dietmar Hopp, through the software company</tt:span>
+<tt:br/>
+<tt:span style="textWhite">software company SAP, which he co-founded</tt:span>
+</tt:p>
+<tt:p begin="00:37:22.200" end="00:37:24.760" region="bottom" style="textCenter" xml:id="sub664">
+<tt:span style="textWhite">a partner of the DFB and FC Bayern.</tt:span>
+</tt:p>
+<tt:p begin="00:37:24.800" end="00:37:27.320" region="bottom" style="textCenter" xml:id="sub665">
+<tt:span style="textWhite">Does the DFB make itself vulnerable</tt:span>
+</tt:p>
+<tt:p begin="00:37:27.360" end="00:37:30.440" region="bottom" style="textCenter" xml:id="sub666">
+<tt:span style="textWhite">through its economic</tt:span>
+<tt:br/>
+<tt:span style="textWhite">connections to Dietmar Hopp?</tt:span>
+</tt:p>
+<tt:p begin="00:37:30.480" end="00:37:33.160" region="bottom" style="textCenter" xml:id="sub667">
+<tt:span style="textYellow">I believe that the</tt:span>
+<tt:br/>
+<tt:span style="textYellow">economic connections</tt:span>
+</tt:p>
+<tt:p begin="00:37:35.440" end="00:37:39.240" region="bottom" style="textCenter" xml:id="sub668">
+<tt:span style="textYellow">with Dietmar Hopp, with SAP, or with many other</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to many other partners of the DFB</tt:span>
+</tt:p>
+<tt:p begin="00:37:39.320" end="00:37:42.920" region="bottom" style="textCenter" xml:id="sub669">
+<tt:span style="textYellow">are completely separate from the values</tt:span>
+<tt:br/>
+<tt:span style="textYellow">from the values, from the positions</tt:span>
+</tt:p>
+<tt:p begin="00:37:42.960" end="00:37:45.240" region="bottom" style="textCenter" xml:id="sub670">
+<tt:span style="textYellow">that the DFB represents.</tt:span>
+</tt:p>
+<tt:p begin="00:37:45.280" end="00:37:48.360" region="bottom" style="textCenter" xml:id="sub671">
+<tt:span style="textYellow">So now it's saying:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"We're interrupting the games,</tt:span>
+</tt:p>
+<tt:p begin="00:37:48.400" end="00:37:50.360" region="bottom" style="textCenter" xml:id="sub672">
+<tt:span style="textYellow">because Dietmar Hopp is insulted."</tt:span>
+</tt:p>
+<tt:p begin="00:37:50.400" end="00:37:52.920" region="bottom" style="textCenter" xml:id="sub673">
+<tt:span style="textYellow">But who says</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that not basically</tt:span>
+</tt:p>
+<tt:p begin="00:37:52.960" end="00:37:55.480" region="bottom" style="textCenter" xml:id="sub674">
+<tt:span style="textYellow">that, so to speak</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the means of choice?</tt:span>
+</tt:p>
+<tt:p begin="00:37:55.520" end="00:37:59.720" region="bottom" style="textCenter" xml:id="sub675">
+<tt:span style="textYellow">That people will say: "Any criticism</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of this whole soccer business,</tt:span>
+</tt:p>
+<tt:p begin="00:37:59.760" end="00:38:03.400" region="bottom" style="textCenter" xml:id="sub676">
+<tt:span style="textYellow">this business, everything</tt:span>
+<tt:br/>
+<tt:span style="textYellow">everything that gets in the way of marketing,</tt:span>
+</tt:p>
+<tt:p begin="00:38:03.440" end="00:38:09.160" region="bottom" style="textCenter" xml:id="sub677">
+<tt:span style="textYellow">if it's too much for us to bear,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">we'll interrupt the games, too"?</tt:span>
+</tt:p>
+<tt:p begin="00:38:10.440" end="00:38:12.440" region="bottom" style="textCenter" xml:id="sub678">
+<tt:span style="textWhite">Did the DFB overreact?</tt:span>
+</tt:p>
+<tt:p begin="00:38:12.480" end="00:38:14.320" region="bottom" style="textCenter" xml:id="sub679">
+<tt:span style="textWhite">In the week after the game</tt:span>
+</tt:p>
+<tt:p begin="00:38:14.360" end="00:38:17.400" region="bottom" style="textCenter" xml:id="sub680">
+<tt:span style="textWhite">the association admits</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in the sports committee of the Bundestag:</tt:span>
+</tt:p>
+<tt:p begin="00:38:17.440" end="00:38:21.400" region="bottom" style="textCenter" xml:id="sub681">
+<tt:span style="textYellow">This regulation is designed</tt:span>
+<tt:br/>
+<tt:span style="textYellow">for racism and discrimination.</tt:span>
+</tt:p>
+<tt:p begin="00:38:21.440" end="00:38:24.760" region="bottom" style="textCenter" xml:id="sub682">
+<tt:span style="textYellow">It is not</tt:span>
+<tt:br/>
+<tt:span style="textYellow">for personal insults.</tt:span>
+</tt:p>
+<tt:p begin="00:38:24.800" end="00:38:28.040" region="bottom" style="textCenter" xml:id="sub683">
+<tt:span style="textYellow">We know that there</tt:span>
+<tt:br/>
+<tt:span style="textYellow">there has been an oversensitization.</tt:span>
+</tt:p>
+<tt:p begin="00:38:29.040" end="00:38:32.400" region="bottom" style="textCenter" xml:id="sub684">
+<tt:span style="textWhite">An oversensitization -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">even among those responsible?</tt:span>
+</tt:p>
+<tt:p begin="00:38:32.440" end="00:38:36.040" region="bottom" style="textCenter" xml:id="sub685">
+<tt:span style="textWhite">On that day in Sinsheim</tt:span>
+<tt:br/>
+<tt:span style="textWhite">knowing what was going to happen,</tt:span>
+</tt:p>
+<tt:p begin="00:38:36.080" end="00:38:38.880" region="bottom" style="textCenter" xml:id="sub686">
+<tt:span style="textWhite">a signal was to be set</tt:span>
+<tt:br/>
+<tt:span style="textWhite">to send out a signal?</tt:span>
+</tt:p>
+<tt:p begin="00:38:39.960" end="00:38:43.560" region="bottom" style="textCenter" xml:id="sub687">
+<tt:span style="textYellow">I believe that it was more of a</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was more of a staging and a play</tt:span>
+</tt:p>
+<tt:p begin="00:38:43.600" end="00:38:46.680" region="bottom" style="textCenter" xml:id="sub688">
+<tt:span style="textYellow">rather than a spontaneous</tt:span>
+<tt:br/>
+<tt:span style="textYellow">spontaneous action,</tt:span>
+</tt:p>
+<tt:p begin="00:38:49.440" end="00:38:53.880" region="bottom" style="textCenter" xml:id="sub689">
+<tt:span style="textYellow">because the people at FC Bayern and</tt:span>
+<tt:br/>
+<tt:span style="textYellow">TSG Hoffenheim knew about it.</tt:span>
+</tt:p>
+<tt:p begin="00:38:53.920" end="00:38:57.480" region="bottom" style="textCenter" xml:id="sub690">
+<tt:span style="textYellow">The spectacle was made by the fans</tt:span>
+<tt:br/>
+<tt:span style="textYellow">not the FC Bayern.</tt:span>
+</tt:p>
+<tt:p begin="00:38:57.520" end="00:39:00.240" region="bottom" style="textCenter" xml:id="sub691">
+<tt:span style="textYellow">To turn the tables now</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and the black Peter</tt:span>
+</tt:p>
+<tt:p begin="00:39:00.280" end="00:39:04.040" region="bottom" style="textCenter" xml:id="sub692">
+<tt:span style="textYellow">to Karl-Heinz Rummenigge or</tt:span>
+<tt:br/>
+<tt:span style="textYellow">Dietmar Hopp, is perverse.</tt:span>
+</tt:p>
+<tt:p begin="00:39:04.960" end="00:39:07.600" region="bottom" style="textCenter" xml:id="sub693">
+<tt:span style="textWhite">Even after the game</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the outrage does not subside.</tt:span>
+</tt:p>
+<tt:p begin="00:39:07.640" end="00:39:10.440" region="bottom" style="textCenter" xml:id="sub694">
+<tt:span style="textWhite">The invective</tt:span>
+<tt:br/>
+<tt:span style="textWhite">are compared to racism,</tt:span>
+</tt:p>
+<tt:p begin="00:39:10.480" end="00:39:12.560" region="bottom" style="textCenter" xml:id="sub695">
+<tt:span style="textWhite">and there are calls for a crackdown,</tt:span>
+</tt:p>
+<tt:p begin="00:39:12.600" end="00:39:16.480" region="bottom" style="textCenter" xml:id="sub696">
+<tt:span style="textWhite">for example by Christoph Schickhardt</tt:span>
+<tt:br/>
+<tt:span style="textWhite">the day after the incident.</tt:span>
+</tt:p>
+<tt:p begin="00:39:16.520" end="00:39:19.360" region="bottom" style="textCenter" xml:id="sub697">
+<tt:span style="textYellow">The state</tt:span>
+<tt:br/>
+<tt:span style="textYellow">must show the hard hand,</tt:span>
+</tt:p>
+<tt:p begin="00:39:19.400" end="00:39:22.480" region="bottom" style="textCenter" xml:id="sub698">
+<tt:span style="textYellow">and then it must</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to house searches.</tt:span>
+</tt:p>
+<tt:p begin="00:39:22.520" end="00:39:26.760" region="bottom" style="textCenter" xml:id="sub699">
+<tt:span style="textYellow">You have to pick up a few</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and leave them in the cell for a day.</tt:span>
+</tt:p>
+<tt:p begin="00:39:26.800" end="00:39:28.360" region="bottom" style="textCenter" xml:id="sub700">
+<tt:span style="textYellow">That has always worked well.</tt:span>
+</tt:p>
+<tt:p begin="00:39:28.400" end="00:39:31.160" region="bottom" style="textCenter" xml:id="sub701">
+<tt:span style="textYellow">Yes, that's right,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that you're confronting me.</tt:span>
+</tt:p>
+<tt:p begin="00:39:31.200" end="00:39:34.560" region="bottom" style="textCenter" xml:id="sub702">
+<tt:span style="textYellow">I wouldn't do that today.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">do that again. That was a mistake.</tt:span>
+</tt:p>
+<tt:p begin="00:39:35.520" end="00:39:39.400" region="bottom" style="textCenter" xml:id="sub703">
+<tt:span style="textWhite">Dietmar Hopp didn't speak out until five</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Dietmar Hopp did not speak out until five weeks after the invective,</tt:span>
+</tt:p>
+<tt:p begin="00:39:39.440" end="00:39:40.920" region="bottom" style="textCenter" xml:id="sub704">
+<tt:span style="textWhite">in the "Current Sports Studio".</tt:span>
+</tt:p>
+<tt:p begin="00:39:40.960" end="00:39:43.120" region="bottom" style="textCenter" xml:id="sub705">
+<tt:span style="textYellow">I would of course be pleased</tt:span>
+</tt:p>
+<tt:p begin="00:39:43.160" end="00:39:47.040" region="bottom" style="textCenter" xml:id="sub706">
+<tt:span style="textYellow">if those who have been</tt:span>
+<tt:br/>
+<tt:span style="textYellow">who have been insulting me without reason for 13 years,</tt:span>
+</tt:p>
+<tt:p begin="00:39:47.080" end="00:39:49.800" region="bottom" style="textCenter" xml:id="sub707">
+<tt:span style="textYellow">stop it at some point.</tt:span>
+</tt:p>
+<tt:p begin="00:39:49.840" end="00:39:53.800" region="bottom" style="textCenter" xml:id="sub708">
+<tt:span style="textYellow">Making me the face</tt:span>
+<tt:br/>
+<tt:span style="textYellow">for commercialism,</tt:span>
+</tt:p>
+<tt:p begin="00:39:53.840" end="00:39:57.040" region="bottom" style="textCenter" xml:id="sub709">
+<tt:span style="textYellow">is really incomprehensible.</tt:span>
+</tt:p>
+<tt:p begin="00:39:57.080" end="00:40:01.080" region="bottom" style="textCenter" xml:id="sub710">
+<tt:span style="textYellow">Unfortunately, the agitation was</tt:span>
+<tt:br/>
+<tt:span style="textYellow">was so perfectly staged</tt:span>
+</tt:p>
+<tt:p begin="00:40:01.120" end="00:40:03.880" region="bottom" style="textCenter" xml:id="sub711">
+<tt:span style="textYellow">that Ultras from many clubs</tt:span>
+<tt:br/>
+<tt:span style="textYellow">have participated.</tt:span>
+</tt:p>
+<tt:p begin="00:40:03.920" end="00:40:06.840" region="bottom" style="textCenter" xml:id="sub712">
+<tt:span style="textYellow">But I would like to</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to forget all this,</tt:span>
+</tt:p>
+<tt:p begin="00:40:06.880" end="00:40:09.160" region="bottom" style="textCenter" xml:id="sub713">
+<tt:span style="textYellow">if it is history from now on.</tt:span>
+</tt:p>
+<tt:p begin="00:40:09.960" end="00:40:13.880" region="bottom" style="textCenter" xml:id="sub714">
+<tt:span style="textYellow">With us came, in the same period</tt:span>
+<tt:br/>
+<tt:span style="textYellow">and still today,</tt:span>
+</tt:p>
+<tt:p begin="00:40:13.920" end="00:40:16.440" region="bottom" style="textCenter" xml:id="sub715">
+<tt:span style="textYellow">we received a series of accusations.</tt:span>
+</tt:p>
+<tt:p begin="00:40:16.480" end="00:40:21.240" region="bottom" style="textCenter" xml:id="sub716">
+<tt:span style="textYellow">So, of the gentleman:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">super lip service in the ZDF.</tt:span>
+</tt:p>
+<tt:p begin="00:40:21.280" end="00:40:23.480" region="bottom" style="textCenter" xml:id="sub717">
+<tt:span style="textYellow">Yes, but nothing more.</tt:span>
+</tt:p>
+<tt:p begin="00:40:24.520" end="00:40:27.200" region="bottom" style="textCenter" xml:id="sub718">
+<tt:span style="textWhite">Dietmar Hopp</tt:span>
+<tt:br/>
+<tt:span style="textWhite">did not want to be available to us for this</tt:span>
+</tt:p>
+<tt:p begin="00:40:27.240" end="00:40:29.040" region="bottom" style="textCenter" xml:id="sub719">
+<tt:span style="textWhite">for this documentary.</tt:span>
+</tt:p>
+<tt:p begin="00:40:30.440" end="00:40:33.640" region="bottom" style="textCenter" xml:id="sub720">
+<tt:span style="textWhite">Back in Sinsheim.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">Local court, courtroom 11.</tt:span>
+</tt:p>
+<tt:p begin="00:40:33.680" end="00:40:36.120" region="bottom" style="textCenter" xml:id="sub721">
+<tt:span style="textWhite">The trial is over.</tt:span>
+</tt:p>
+<tt:p begin="00:40:36.160" end="00:40:40.040" region="bottom" style="textCenter" xml:id="sub722">
+<tt:span style="textWhite">Fabian S.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">was sentenced to 15 daily sentences.</tt:span>
+</tt:p>
+<tt:p begin="00:40:40.080" end="00:40:44.240" region="bottom" style="textCenter" xml:id="sub723">
+<tt:span style="textWhite">It is a low sentence,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">but a conviction.</tt:span>
+</tt:p>
+<tt:p begin="00:40:44.280" end="00:40:47.680" region="bottom" style="textCenter" xml:id="sub724">
+<tt:span style="textWhite">Not for insult,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">but for trespassing,</tt:span>
+</tt:p>
+<tt:p begin="00:40:47.720" end="00:40:50.320" region="bottom" style="textCenter" xml:id="sub725">
+<tt:span style="textWhite">for climbing the fence</tt:span>
+<tt:br/>
+<tt:span style="textWhite">had climbed the fence.</tt:span>
+</tt:p>
+<tt:p begin="00:40:50.360" end="00:40:53.960" region="bottom" style="textCenter" xml:id="sub726">
+<tt:span style="textWhite">"A", according to the verdict, "trespassing</tt:span>
+<tt:br/>
+<tt:span style="textWhite">into pacified property".</tt:span>
+</tt:p>
+<tt:p begin="00:40:55.120" end="00:40:57.800" region="bottom" style="textCenter" xml:id="sub727">
+<tt:span style="textWhite">For this he gets</tt:span>
+<tt:br/>
+<tt:span style="textWhite">at the instigation of TSG Hoffenheim</tt:span>
+</tt:p>
+<tt:p begin="00:40:57.840" end="00:41:00.880" region="bottom" style="textCenter" xml:id="sub728">
+<tt:span style="textWhite">a nationwide stadium ban</tt:span>
+<tt:br/>
+<tt:span style="textWhite">for one year.</tt:span>
+</tt:p>
+<tt:p begin="00:41:02.320" end="00:41:05.480" region="bottom" style="textCenter" xml:id="sub729">
+<tt:span style="textYellow">I had never</tt:span>
+<tt:br/>
+<tt:span style="textYellow">thought for a second</tt:span>
+</tt:p>
+<tt:p begin="00:41:05.520" end="00:41:08.880" region="bottom" style="textCenter" xml:id="sub730">
+<tt:span style="textYellow">that with this action,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">as they did with us,</tt:span>
+</tt:p>
+<tt:p begin="00:41:08.920" end="00:41:12.480" region="bottom" style="textCenter" xml:id="sub731">
+<tt:span style="textYellow">but also with</tt:span>
+<tt:br/>
+<tt:span style="textYellow">but also with all other clubs,</tt:span>
+</tt:p>
+<tt:p begin="00:41:12.520" end="00:41:16.320" region="bottom" style="textCenter" xml:id="sub732">
+<tt:span style="textYellow">even in the direction</tt:span>
+<tt:br/>
+<tt:span style="textYellow">of a criminal offence me commits.</tt:span>
+</tt:p>
+<tt:p begin="00:41:16.360" end="00:41:18.640" region="bottom" style="textCenter" xml:id="sub733">
+<tt:span style="textYellow">Therefore I can say to it only,</tt:span>
+</tt:p>
+<tt:p begin="00:41:18.680" end="00:41:21.800" region="bottom" style="textCenter" xml:id="sub734">
+<tt:span style="textYellow">that I can</tt:span>
+<tt:br/>
+<tt:span style="textYellow">absolutely not comprehend.</tt:span>
+</tt:p>
+<tt:p begin="00:41:23.120" end="00:41:25.000" region="bottom" style="textCenter" xml:id="sub735">
+<tt:span style="textWhite">We show Christoph Schickhardt,</tt:span>
+</tt:p>
+<tt:p begin="00:41:25.040" end="00:41:27.400" region="bottom" style="textCenter" xml:id="sub736">
+<tt:span style="textWhite">what Fabian S.</tt:span>
+<tt:br/>
+<tt:span style="textWhite">has been convicted of:</tt:span>
+</tt:p>
+<tt:p begin="00:41:27.440" end="00:41:29.800" region="bottom" style="textCenter" xml:id="sub737">
+<tt:span style="textWhite">the picture of him on the fence in the stadium.</tt:span>
+</tt:p>
+<tt:p begin="00:41:33.000" end="00:41:36.400" region="bottom" style="textCenter" xml:id="sub738">
+<tt:span style="textYellow">So I can still</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the offense at all.</tt:span>
+</tt:p>
+<tt:p begin="00:41:36.440" end="00:41:38.920" region="bottom" style="textCenter" xml:id="sub739">
+<tt:span style="textYellow">Well, if ...</tt:span>
+<tt:br/>
+<tt:span style="textYellow">he was already inside.</tt:span>
+</tt:p>
+<tt:p begin="00:41:38.960" end="00:41:40.720" region="bottom" style="textCenter" xml:id="sub740">
+<tt:span style="textYellow">What is the crime?</tt:span>
+</tt:p>
+<tt:p begin="00:41:40.760" end="00:41:44.560" region="bottom" style="textCenter" xml:id="sub741">
+<tt:span style="textWhite">That he entered the airspace</tt:span>
+<tt:br/>
+<tt:span style="textWhite">of the interior.</tt:span>
+</tt:p>
+<tt:p begin="00:41:44.600" end="00:41:46.320" region="bottom" style="textCenter" xml:id="sub742">
+<tt:span style="textYellow">Well, that... Well...</tt:span>
+</tt:p>
+<tt:p begin="00:41:46.360" end="00:41:49.240" region="bottom" style="textCenter" xml:id="sub743">
+<tt:span style="textYellow">If the</tt:span>
+<tt:br/>
+<tt:span style="textYellow">had been defended by me,</tt:span>
+</tt:p>
+<tt:p begin="00:41:49.280" end="00:41:52.800" region="bottom" style="textCenter" xml:id="sub744">
+<tt:span style="textYellow">I can't imagine</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that he would have been convicted.</tt:span>
+</tt:p>
+<tt:p begin="00:41:55.000" end="00:41:58.280" region="bottom" style="textCenter" xml:id="sub745">
+<tt:span style="textWhite">Dietmar Hopp's lawyer says,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">if he'd been the Ultra,</tt:span>
+</tt:p>
+<tt:p begin="00:41:58.320" end="00:42:01.720" region="bottom" style="textCenter" xml:id="sub746">
+<tt:span style="textWhite">brought to court by Dietmar Hopp's club</tt:span>
+<tt:br/>
+<tt:span style="textWhite">who was brought to court by Dietmar Hopp's club,</tt:span>
+</tt:p>
+<tt:p begin="00:42:01.760" end="00:42:05.360" region="bottom" style="textCenter" xml:id="sub747">
+<tt:span style="textWhite">defended,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">he would not have been convicted.</tt:span>
+</tt:p>
+<tt:p begin="00:42:07.160" end="00:42:10.840" region="bottom" style="textCenter" xml:id="sub748">
+<tt:span style="textWhite">It somehow fits well</tt:span>
+<tt:br/>
+<tt:span style="textWhite">to this tangled conflict.</tt:span>
+</tt:p>
+<tt:p begin="00:42:18.400" end="00:42:20.280" region="bottom" style="textCenter" xml:id="sub749">
+<tt:span style="textWhite">For the moment, everything is on hold.</tt:span>
+</tt:p>
+<tt:p begin="00:42:20.320" end="00:42:23.960" region="bottom" style="textCenter" xml:id="sub750">
+<tt:span style="textWhite">But what will happen</tt:span>
+<tt:br/>
+<tt:span style="textWhite">when fans are allowed back into the stadium?</tt:span>
+</tt:p>
+<tt:p begin="00:42:24.000" end="00:42:25.760" region="bottom" style="textCenter" xml:id="sub751">
+<tt:span style="textWhite">It wasn't just Corona that showed</tt:span>
+</tt:p>
+<tt:p begin="00:42:25.800" end="00:42:30.280" region="bottom" style="textCenter" xml:id="sub752">
+<tt:span style="textWhite">how important their passion</tt:span>
+<tt:br/>
+<tt:span style="textWhite">for the soccer experience.</tt:span>
+</tt:p>
+<tt:p begin="00:42:30.320" end="00:42:32.960" region="bottom" style="textCenter" xml:id="sub753">
+<tt:span style="textWhite">After the pandemic, will</tt:span>
+<tt:br/>
+<tt:span style="textWhite">will there be a greater willingness</tt:span>
+</tt:p>
+<tt:p begin="00:42:33.000" end="00:42:35.680" region="bottom" style="textCenter" xml:id="sub754">
+<tt:span style="textWhite">to reach out to each other will be greater?</tt:span>
+</tt:p>
+<tt:p begin="00:42:35.720" end="00:42:39.840" region="bottom" style="textCenter" xml:id="sub755">
+<tt:span style="textYellow">It would be nice if the fan scene</tt:span>
+<tt:br/>
+<tt:span style="textYellow">would take the first step.</tt:span>
+</tt:p>
+<tt:p begin="00:42:39.880" end="00:42:43.600" region="bottom" style="textCenter" xml:id="sub756">
+<tt:span style="textYellow">After a certain cooling phase,</tt:span>
+<tt:br/>
+<tt:span style="textYellow">like the one we're going through now,</tt:span>
+</tt:p>
+<tt:p begin="00:42:43.640" end="00:42:46.240" region="bottom" style="textCenter" xml:id="sub757">
+<tt:span style="textYellow">they can say:</tt:span>
+<tt:br/>
+<tt:span style="textYellow">"We've done a lot of thinking.</tt:span>
+</tt:p>
+<tt:p begin="00:42:46.280" end="00:42:49.400" region="bottom" style="textCenter" xml:id="sub758">
+<tt:span style="textYellow">And with a certain distance</tt:span>
+<tt:br/>
+<tt:span style="textYellow">we want to apologize</tt:span>
+</tt:p>
+<tt:p begin="00:42:49.440" end="00:42:52.040" region="bottom" style="textCenter" xml:id="sub759">
+<tt:span style="textYellow">and will</tt:span>
+<tt:br/>
+<tt:span style="textYellow">leave him alone in the future."</tt:span>
+</tt:p>
+<tt:p begin="00:42:52.080" end="00:42:54.120" region="bottom" style="textCenter" xml:id="sub760">
+<tt:span style="textYellow">Now that would be something.</tt:span>
+</tt:p>
+<tt:p begin="00:42:54.160" end="00:42:57.560" region="bottom" style="textCenter" xml:id="sub761">
+<tt:span style="textWhite">What would have</tt:span>
+<tt:br/>
+<tt:span style="textWhite">from the fans' point of view,</tt:span>
+</tt:p>
+<tt:p begin="00:42:57.600" end="00:42:59.480" region="bottom" style="textCenter" xml:id="sub762">
+<tt:span style="textWhite">so that there are no son of a bitch chants</tt:span>
+</tt:p>
+<tt:p begin="00:42:59.520" end="00:43:01.840" region="bottom" style="textCenter" xml:id="sub763">
+<tt:span style="textWhite">and no more crosshair posters</tt:span>
+<tt:br/>
+<tt:span style="textWhite">anymore?</tt:span>
+</tt:p>
+<tt:p begin="00:43:01.880" end="00:43:04.960" region="bottom" style="textCenter" xml:id="sub764">
+<tt:span style="textYellow">That won't be possible.</tt:span>
+<tt:br/>
+<tt:span style="textYellow">It won't be possible,</tt:span>
+</tt:p>
+<tt:p begin="00:43:05.000" end="00:43:08.240" region="bottom" style="textCenter" xml:id="sub765">
+<tt:span style="textYellow">a rebellious young culture</tt:span>
+<tt:br/>
+<tt:span style="textYellow">to educate a rebellious young culture</tt:span>
+</tt:p>
+<tt:p begin="00:43:08.280" end="00:43:10.120" region="bottom" style="textCenter" xml:id="sub766">
+<tt:span style="textYellow">not to cross borders.</tt:span>
+</tt:p>
+<tt:p begin="00:43:10.160" end="00:43:13.760" region="bottom" style="textCenter" xml:id="sub767">
+<tt:span style="textWhite">(in the film) Would he also be willing,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">to reach out to the Ultras?</tt:span>
+</tt:p>
+<tt:p begin="00:43:13.800" end="00:43:15.960" region="bottom" style="textCenter" xml:id="sub768">
+<tt:span style="textYellow">I have no doubt about that.</tt:span>
+</tt:p>
+<tt:p begin="00:43:16.000" end="00:43:18.000" region="bottom" style="textCenter" xml:id="sub769">
+<tt:span style="textYellow">But he wants to see action.</tt:span>
+</tt:p>
+<tt:p begin="00:43:18.800" end="00:43:20.480" region="bottom" style="textCenter" xml:id="sub770">
+<tt:span style="textYellow">First and foremost</tt:span>
+</tt:p>
+<tt:p begin="00:43:20.520" end="00:43:23.200" region="bottom" style="textCenter" xml:id="sub771">
+<tt:span style="textYellow">is the withdrawal</tt:span>
+<tt:br/>
+<tt:span style="textYellow">the collective penalty for Dortmund.</tt:span>
+</tt:p>
+<tt:p begin="00:43:23.240" end="00:43:27.440" region="bottom" style="textCenter" xml:id="sub772">
+<tt:span style="textYellow">That's the easiest thing</tt:span>
+<tt:br/>
+<tt:span style="textYellow">that can happen now.</tt:span>
+</tt:p>
+<tt:p begin="00:43:28.560" end="00:43:32.800" region="bottom" style="textCenter" xml:id="sub773">
+<tt:span style="textWhite">The Ultras and Dietmar Hopp -</tt:span>
+<tt:br/>
+<tt:span style="textWhite">it's complicated.</tt:span>
+</tt:p>
+<tt:p begin="00:43:32.840" end="00:43:35.240" region="bottom" style="textCenter" xml:id="sub774">
+<tt:span style="textWhite">Because it is only at first sight</tt:span>
+</tt:p>
+<tt:p begin="00:43:35.280" end="00:43:37.640" region="bottom" style="textCenter" xml:id="sub775">
+<tt:span style="textWhite">about crosshairs</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and collective punishments.</tt:span>
+</tt:p>
+<tt:p begin="00:43:37.680" end="00:43:39.960" region="bottom" style="textCenter" xml:id="sub776">
+<tt:span style="textWhite">At second glance, it's about much more:</tt:span>
+</tt:p>
+<tt:p begin="00:43:40.000" end="00:43:44.840" region="bottom" style="textCenter" xml:id="sub777">
+<tt:span style="textWhite">about worlds that collide</tt:span>
+<tt:br/>
+<tt:span style="textWhite">between fans and officials.</tt:span>
+</tt:p>
+<tt:p begin="00:43:44.880" end="00:43:49.280" region="bottom" style="textCenter" xml:id="sub778">
+<tt:span style="textWhite">The question of what professional soccer is for and</tt:span>
+<tt:br/>
+<tt:span style="textWhite">professional soccer is actually for.</tt:span>
+</tt:p>
+<tt:p begin="00:43:49.320" end="00:43:51.000" region="bottom" style="textCenter" xml:id="sub779">
+<tt:span style="textWhite">A culture clash,</tt:span>
+</tt:p>
+<tt:p begin="00:43:51.040" end="00:43:54.520" region="bottom" style="textCenter" xml:id="sub780">
+<tt:span style="textWhite">which for some has become a kind of</tt:span>
+<tt:br/>
+<tt:span style="textWhite">a kind of religious struggle.</tt:span>
+</tt:p>
+<tt:p begin="00:43:54.560" end="00:43:57.800" region="bottom" style="textCenter" xml:id="sub781">
+<tt:span style="textWhite">Not everyone wants</tt:span>
+<tt:br/>
+<tt:span style="textWhite">dialogue on both sides.</tt:span>
+</tt:p>
+<tt:p begin="00:43:57.840" end="00:43:59.880" region="bottom" style="textCenter" xml:id="sub782">
+<tt:span style="textWhite">That, too, is part of the truth.</tt:span>
+</tt:p>
+<tt:p begin="00:44:01.320" end="00:44:04.400" region="bottom" style="textCenter" xml:id="sub783">
+<tt:span style="textWhite">Fabian S., at any rate</tt:span>
+<tt:br/>
+<tt:span style="textWhite">has filed an appeal.</tt:span>
+</tt:p>
+<tt:p begin="00:44:04.440" end="00:44:07.520" region="bottom" style="textCenter" xml:id="sub784">
+<tt:span style="textWhite">The biggest conflict</tt:span>
+<tt:br/>
+<tt:span style="textWhite">in German soccer continues -</tt:span>
+</tt:p>
+<tt:p begin="00:44:07.560" end="00:44:11.960" region="bottom" style="textCenter" xml:id="sub785">
+<tt:span style="textWhite">in court and probably also</tt:span>
+<tt:br/>
+<tt:span style="textWhite">and probably also in the corners at some point.</tt:span>
+</tt:p>
+<tt:p begin="00:44:13.360" end="00:44:16.320" region="bottom" style="textCenter" xml:id="sub786">
+<tt:span style="textWhite">Subtitles commissioned by ZDF,</tt:span>
+<tt:br/>
+<tt:span style="textWhite">2021</tt:span>
+</tt:p>
+</tt:div>
+</tt:body>
+</tt:tt>
