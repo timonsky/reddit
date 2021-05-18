@@ -39,7 +39,7 @@
 <tt:span style="textWhite">on the way to his trial.</tt:span>
 </tt:p>
 <tt:p begin="00:00:11.120" end="00:00:13.960" region="bottom" style="textCenter" xml:id="sub3">
-<tt:span style="textWhite">Report filed by TSG Hoffenheim.</tt:span>
+<tt:span style="textWhite">Charges filed by TSG Hoffenheim.</tt:span>
 </tt:p>
 <tt:p begin="00:00:14.000" end="00:00:17.200" region="bottom" style="textCenter" xml:id="sub4">
 <tt:span style="textWhite">It's about the biggest conflict</tt:span>
@@ -53,12 +53,12 @@
 <tt:span style="textWhite">* Shouts in chorus *</tt:span>
 </tt:p>
 <tt:p begin="00:00:21.160" end="00:00:24.040" region="bottom" style="textCenter" xml:id="sub7">
-<tt:span style="textYellow">Horror and bewilderment</tt:span>
+<tt:span style="textYellow">[News anchor 1] Horror and bewilderment</tt:span>
 <tt:br/>
 <tt:span style="textYellow">in the Bundesliga ...</tt:span>
 </tt:p>
 <tt:p begin="00:00:24.080" end="00:00:26.400" region="bottom" style="textCenter" xml:id="sub8">
-<tt:span style="textYellow">... because of insults</tt:span>
+<tt:span style="textYellow">[News anchor 2]... because of insults</tt:span>
 <tt:br/>
 <tt:span style="textYellow">of Bayern fans</tt:span>
 </tt:p>
@@ -89,12 +89,12 @@
 <tt:span style="textYellow">who is a man of honor.</tt:span>
 </tt:p>
 <tt:p begin="00:00:46.880" end="00:00:50.120" region="bottom" style="textCenter" xml:id="sub15">
-<tt:span style="textYellow">This agitation against people</tt:span>
+<tt:span style="textYellow">[Christian Streich, coach SC Freiburg] This agitation against people,</tt:span>
 <tt:br/>
-<tt:span style="textYellow">are so unacceptable.</tt:span>
+<tt:span style="textYellow">in this way, are unacceptable.</tt:span>
 </tt:p>
 <tt:p begin="00:00:50.160" end="00:00:52.640" region="bottom" style="textCenter" xml:id="sub16">
-<tt:span style="textYellow">We have reached rock bottom.</tt:span>
+<tt:span style="textYellow">[Fritz Keller, president DFB] We have reached rock bottom.</tt:span>
 </tt:p>
 <tt:p begin="00:00:52.680" end="00:00:54.640" region="bottom" style="textCenter" xml:id="sub17">
 <tt:span style="textWhite">The Ultras and Dietmar Hopp,</tt:span>
@@ -127,7 +127,7 @@
 <tt:span style="textWhite">with officials.</tt:span>
 </tt:p>
 <tt:p begin="00:01:15.640" end="00:01:17.760" region="bottom" style="textCenter" xml:id="sub25">
-<tt:span style="textYellow">Dietmar Hopp has done nothing.</tt:span>
+<tt:span style="textYellow">[Uli Hoeness] Dietmar Hopp has done nothing.</tt:span>
 </tt:p>
 <tt:p begin="00:01:17.800" end="00:01:20.400" region="bottom" style="textCenter" xml:id="sub26">
 <tt:span style="textYellow">He's being attacked for things</tt:span>
@@ -143,7 +143,7 @@
 <tt:span style="textYellow">who is guilty.</tt:span>
 </tt:p>
 <tt:p begin="00:01:24.840" end="00:01:26.560" region="bottom" style="textCenter" xml:id="sub29">
-<tt:span style="textYellow">Nonsense.</tt:span>
+<tt:span style="textYellow">[Witte] Nonsense.</tt:span>
 </tt:p>
 <tt:p begin="00:01:26.600" end="00:01:28.360" region="bottom" style="textCenter" xml:id="sub30">
 <tt:span style="textWhite">What we have learned:</tt:span>
@@ -157,7 +157,7 @@
 <tt:span style="textWhite">as it seemed so far.</tt:span>
 </tt:p>
 <tt:p begin="00:01:34.800" end="00:01:38.240" region="bottom" style="textCenter" xml:id="sub33">
-<tt:span style="textYellow">I think it was</tt:span>
+<tt:span style="textYellow">[Jan-Henrik Gruszecki] I think it was</tt:span>
 <tt:br/>
 <tt:span style="textYellow">a staging, a play.</tt:span>
 </tt:p>
@@ -177,7 +177,7 @@
 <tt:span style="textWhite">of the most powerful DFB bosses at the time.</tt:span>
 </tt:p>
 <tt:p begin="00:01:49.800" end="00:01:53.160" region="bottom" style="textCenter" xml:id="sub37">
-<tt:span style="textYellow">The decision</tt:span>
+<tt:span style="textYellow">[Grindel] The decision</tt:span>
 <tt:br/>
 <tt:span style="textYellow">has not only put a strain</tt:span>
 </tt:p>
@@ -200,7 +200,7 @@
 <tt:span style="textWhite">The Ultras of the Schickeria</tt:span>
 </tt:p>
 <tt:p begin="00:02:05.360" end="00:02:08.160" region="bottom" style="textCenter" xml:id="sub42">
-<tt:span style="textWhite">speak out in front of the camera</tt:span>
+<tt:span style="textWhite">speak out</tt:span>
 <tt:br/>
 <tt:span style="textWhite">in front of the camera for the first time.</tt:span>
 </tt:p>
@@ -210,10 +210,10 @@
 <tt:p begin="00:02:09.760" end="00:02:13.840" region="bottom" style="textCenter" xml:id="sub44">
 <tt:span style="textWhite">who has to answer for this day</tt:span>
 <tt:br/>
-<tt:span style="textWhite">in court.</tt:span>
+<tt:span style="textWhite">in court. </tt:span>
 </tt:p>
 <tt:p begin="00:02:39.720" end="00:02:43.400" region="bottom" style="textCenter" xml:id="sub45">
-<tt:span style="textYellow">It was not yet Corona,</tt:span>
+<tt:span style="textYellow">[Rainer Koch] It was not yet Corona,</tt:span>
 <tt:br/>
 <tt:span style="textYellow">but it was still a day</tt:span>
 </tt:p>
@@ -228,7 +228,7 @@
 <tt:span style="textYellow">"Goretzka, fantastic! 6:0!"</tt:span>
 </tt:p>
 <tt:p begin="00:02:49.880" end="00:02:52.120" region="bottom" style="textCenter" xml:id="sub48">
-<tt:span style="textYellow">I am</tt:span>
+<tt:span style="textYellow">[Witte] I am</tt:span>
 <tt:br/>
 <tt:span style="textYellow">neither Hoffenheim nor Bayern fan,</tt:span>
 </tt:p>
@@ -267,7 +267,7 @@
 <tt:span style="textYellow">What is this?"</tt:span>
 </tt:p>
 <tt:p begin="00:03:13.920" end="00:03:16.400" region="bottom" style="textCenter" xml:id="sub57">
-<tt:span style="textYellow">I saw that on TV,</tt:span>
+<tt:span style="textYellow">[Hoeness] I saw that on TV,</tt:span>
 </tt:p>
 <tt:p begin="00:03:16.440" end="00:03:20.040" region="bottom" style="textCenter" xml:id="sub58">
 <tt:span style="textYellow">and what happened there,</tt:span>
@@ -285,7 +285,7 @@
 <tt:span style="textYellow">why one does that!"</tt:span>
 </tt:p>
 <tt:p begin="00:03:26.040" end="00:03:29.480" region="bottom" style="textCenter" xml:id="sub61">
-<tt:span style="textYellow">All those who were there </tt:span>
+<tt:span style="textYellow">[Dittmann, commentator] All those who were there </tt:span>
 <tt:br/>
 <tt:span style="textYellow">as reporters, have seen</tt:span>
 </tt:p>
@@ -323,7 +323,7 @@
 <tt:span style="textYellow">leave the field."</tt:span>
 </tt:p>
 <tt:p begin="00:03:51.880" end="00:03:55.480" region="bottom" style="textCenter" xml:id="sub69">
-<tt:span style="textYellow">(man) An absurd spectacle,</tt:span>
+<tt:span style="textYellow">(Gruszecki) An absurd spectacle,</tt:span>
 <tt:br/>
 <tt:span style="textYellow">what was organized there.</tt:span>
 </tt:p>
@@ -343,7 +343,7 @@
 <tt:span style="textYellow">and walk out onto the pitch.</tt:span>
 </tt:p>
 <tt:p begin="00:04:07.280" end="00:04:08.840" region="bottom" style="textCenter" xml:id="sub73">
-<tt:span style="textYellow">That was not soccer,</tt:span>
+<tt:span style="textYellow">[Koch] That was not soccer,</tt:span>
 </tt:p>
 <tt:p begin="00:04:08.880" end="00:04:12.720" region="bottom" style="textCenter" xml:id="sub74">
 <tt:span style="textYellow">but a demonstration</tt:span>
@@ -353,17 +353,17 @@
 <tt:p begin="00:04:12.760" end="00:04:16.040" region="bottom" style="textCenter" xml:id="sub75">
 <tt:span style="textYellow">(Commentator)</tt:span>
 <tt:br/>
-<tt:span style="textYellow">"So, I stand up, clap along,</tt:span>
+<tt:span style="textYellow">"OK, I stand up, clap along,</tt:span>
 </tt:p>
 <tt:p begin="00:04:16.080" end="00:04:21.120" region="bottom" style="textCenter" xml:id="sub76">
 <tt:span style="textYellow">as a protest, communally,</tt:span>
 <tt:br/>
-<tt:span style="textYellow">against people who want equality,</tt:span>
+<tt:span style="textYellow">against people </tt:span>
 </tt:p>
 <tt:p begin="00:04:21.160" end="00:04:24.840" region="bottom" style="textCenter" xml:id="sub77">
-<tt:span style="textYellow">democracy, a free life</tt:span>
+<tt:span style="textYellow">who don't want equality,</tt:span>
 <tt:br/>
-<tt:span style="textYellow">with equality, democracy, a free life,</tt:span>
+<tt:span style="textYellow">democracy, a free life</tt:span>
 </tt:p>
 <tt:p begin="00:04:24.880" end="00:04:29.320" region="bottom" style="textCenter" xml:id="sub78">
 <tt:span style="textYellow">because they say, "Let's show it</tt:span>
@@ -394,7 +394,7 @@
 <tt:span style="textWhite">* Muffled shouts and applause *</tt:span>
 </tt:p>
 <tt:p begin="00:04:44.640" end="00:04:46.960" region="bottom" style="textCenter" xml:id="sub84">
-<tt:span style="textYellow">Everyone knew:</tt:span>
+<tt:span style="textYellow">[Schickhardt] Everyone knew:</tt:span>
 <tt:br/>
 <tt:span style="textYellow">This was the last day,</tt:span>
 </tt:p>
@@ -491,7 +491,7 @@
 <tt:span style="textWhite">onto the big soccer stage.</tt:span>
 </tt:p>
 <tt:p begin="00:05:55.720" end="00:05:59.080" region="bottom" style="textCenter" xml:id="sub105">
-<tt:span style="textYellow">(Anounncer) 1899 Hoffenheim!</tt:span>
+<tt:span style="textYellow">(Announcer) 1899 Hoffenheim!</tt:span>
 </tt:p>
 <tt:p begin="00:05:59.120" end="00:06:02.080" region="bottom" style="textCenter" xml:id="sub106">
 <tt:span style="textWhite">For him and the region, a dream,</tt:span>
