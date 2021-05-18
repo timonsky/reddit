@@ -335,6 +335,7 @@ flair|image
 :El_Gouna:|![](https://emoji.redditmedia.com/ucy4ayw8p5w21_t5_2qi58/El_Gouna)
 :El_Salvador:|![](https://emoji.redditmedia.com/me6vs2897zt11_t5_2qi58/El_Salvador)
 :Elana_Torun:|![](https://emoji.redditmedia.com/n428pn4gi2g61_t5_2qi58/Elana_Torun)
+:Elche:|![](https://emoji.redditmedia.com/8dsvgp92gxh11_t5_2qi58/Elche)
 :Emerald_Force:|![](https://emoji.redditmedia.com/5g3nvxhyj2e11_t5_2qi58/Emerald_Force)
 :England:|![](https://emoji.redditmedia.com/vnp5cfdv6bd11_t5_2qi58/England)
 :English_FA:|![](https://emoji.redditmedia.com/lu9u6eu37kv11_t5_2qi58/English_FA)
@@ -386,6 +387,7 @@ flair|image
 :FC_Hansa_Rostock:|![](https://emoji.redditmedia.com/r7dgsygxvbd11_t5_2qi58/FC_Hansa_Rostock)
 :FC_Helsingor:|![](https://emoji.redditmedia.com/lmxyyziz0kv11_t5_2qi58/FC_Helsingor)
 :FC_Ilves:|![](https://emoji.redditmedia.com/v9yxm8lcm8t11_t5_2qi58/FC_Ilves)
+:FC_Inter_Turku:|![](https://emoji.redditmedia.com/zoi6g4f5wbe11_t5_2qi58/FC_Inter_Turku)
 :FC_Isle_Of_Man:|![](https://emoji.redditmedia.com/3ld1phktozj51_t5_2qi58/FC_Isle_Of_Man)
 :FC_Kobenhavn:|![](https://emoji.redditmedia.com/me41gm51d9d11_t5_2qi58/FC_Kobenhavn)
 :FC_Lahti:|![](https://emoji.redditmedia.com/xilpvwerjxh11_t5_2qi58/FC_Lahti)
@@ -606,6 +608,7 @@ flair|image
 :LA_Galaxy:|![](https://emoji.redditmedia.com/l23toy0w6bd11_t5_2qi58/LA_Galaxy)
 :La_Liga:|![](https://emoji.redditmedia.com/3yhfygrabkv11_t5_2qi58/La_Liga)
 :Lancaster_City:|![](https://emoji.redditmedia.com/f28sc4s21kv11_t5_2qi58/Lancaster_City)
+:Landskrona_BoIS:|![](https://emoji.redditmedia.com/s8p6an7iqae11_t5_2qi58/Landskrona_BoIS)
 :Las_Vegas_Lights:|![](https://emoji.redditmedia.com/malmj3031kv11_t5_2qi58/Las_Vegas_Lights)
 :LASK_Linz:|![](https://emoji.redditmedia.com/w3ei7wbb70i11_t5_2qi58/LASK_Linz)
 :Latvia:|![](https://emoji.redditmedia.com/kmy2h9fn5wd11_t5_2qi58/Latvia)
@@ -817,6 +820,7 @@ flair|image
 :Pune_F:|![](https://emoji.redditmedia.com/kytjxi4tnrd11_t5_2qi58/Pune_F)
 **#Q**|
 :Qatar:|![](https://emoji.redditmedia.com/t2wmgouhr0531_t5_2qi58/Qatar)
+:Queen_of_the_South:|![](https://emoji.redditmedia.com/k8jhiv7tvbe11_t5_2qi58/Queen_of_the_South)
 :Queen_s_Park:|![](https://emoji.redditmedia.com/1l0pzj06r3e11_t5_2qi58/Queen_s_Park)
 :Queens_Park_Rangers:|![](https://emoji.redditmedia.com/wsszf3xkn5d11_t5_2qi58/Queens_Park_Rangers)
 **#R**|
@@ -874,6 +878,7 @@ flair|image
 :RWDM_Brussels:|![](https://emoji.redditmedia.com/k8fn4686gxh11_t5_2qi58/RWDM_Brussels)
 **#S**|
 :Sacramento_Republic:|![](https://emoji.redditmedia.com/63q29bxeghd11_t5_2qi58/Sacramento_Republic)
+:Sagan_Tosu:|![](https://emoji.redditmedia.com/fenej1fxexh11_t5_2qi58/Sagan_Tosu)
 :Saint_Louis_FC:|![](https://emoji.redditmedia.com/ndz70kzrjxh11_t5_2qi58/Saint_Louis_FC)
 :Salford_City:|![](https://emoji.redditmedia.com/xbx1ima8ddu11_t5_2qi58/Salford_City)
 :Salisbury_City:|![](https://emoji.redditmedia.com/p6jcr9pywfi11_t5_2qi58/Salisbury_City)
