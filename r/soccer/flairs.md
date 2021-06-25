@@ -182,6 +182,7 @@ flair|image
 :Bristol_City:|![](https://emoji.redditmedia.com/3tkek3ke4p831_t5_2qi58/Bristol_City)
 :Bristol_Rovers:|![](https://emoji.redditmedia.com/yzr03ybgg9d11_t5_2qi58/Bristol_Rovers)
 :Bromley:|![](https://emoji.redditmedia.com/fgzpdwb0ett11_t5_2qi58/Bromley)
+:Brondby_IF:|![](https://emoji.redditmedia.com/z06xi8nmd9d11_t5_2qi58/Brondby_IF)
 :Brooklyn_Italians:|![](https://emoji.redditmedia.com/pzzkkphuzwi11_t5_2qi58/Brooklyn_Italians)
 :Brunei:|![](https://emoji.redditmedia.com/cg50d8nhqae11_t5_2qi58/Brunei)
 :BSG_Chemie_Leipzig:|![](https://emoji.redditmedia.com/e0ny46tjtpd11_t5_2qi58/BSG_Chemie_Leipzig)
@@ -308,6 +309,7 @@ flair|image
 :Cyprus:|![](https://emoji.redditmedia.com/24iley2uyxd11_t5_2qi58/Cyprus)
 :Czech_Republic:|![](https://emoji.redditmedia.com/1v15t55prj471_t5_2qi58/Czech_Republic)
 **#D**|
+:Daegu_FC:|![](https://emoji.redditmedia.com/8uwohm19r2e11_t5_2qi58/Daegu_FC)
 :Dagenham_Redbridge_F:|![](https://emoji.redditmedia.com/azc1vbhyc2e11_t5_2qi58/Dagenham_Redbridge_F)
 :Dalkurd_FF:|![](https://emoji.redditmedia.com/mfkiv8pl8du11_t5_2qi58/Dalkurd_FF)
 :Danubio:|![](https://emoji.redditmedia.com/qf8ro8bwexh11_t5_2qi58/Danubio)
@@ -968,6 +970,7 @@ flair|image
 **#S**|
 :Sacramento_Republic:|![](https://emoji.redditmedia.com/63q29bxeghd11_t5_2qi58/Sacramento_Republic)
 :Sagan_Tosu:|![](https://emoji.redditmedia.com/fenej1fxexh11_t5_2qi58/Sagan_Tosu)
+:Saint-Etienne:|![](https://emoji.redditmedia.com/wp5byjy1wbd11_t5_2qi58/Saint-Etienne)
 :Saint_Louis_FC:|![](https://emoji.redditmedia.com/ndz70kzrjxh11_t5_2qi58/Saint_Louis_FC)
 :Salford_City:|![](https://emoji.redditmedia.com/xbx1ima8ddu11_t5_2qi58/Salford_City)
 :Salisbury_City:|![](https://emoji.redditmedia.com/p6jcr9pywfi11_t5_2qi58/Salisbury_City)
@@ -1236,6 +1239,7 @@ flair|image
 :Willem_II:|![](https://emoji.redditmedia.com/ux9atkdk5ye11_t5_2qi58/Willem_II)
 :Wisla_Krakow:|![](https://emoji.redditmedia.com/mrscgbke7zt11_t5_2qi58/Wisla_Krakow)
 :Woking:|![](https://emoji.redditmedia.com/m3m15i60a9m61_t5_2qi58/Woking)
+:Wolfsberger_AC:|![](https://emoji.redditmedia.com/4m29r8ozdtt11_t5_2qi58/Wolfsberger_AC)
 :Wollongong_Wolves:|![](https://emoji.redditmedia.com/zykend66n5v11_t5_2qi58/Wollongong_Wolves)
 :Wolverhampton_Wanderers_:|![](https://emoji.redditmedia.com/y3ggjboln5d11_t5_2qi58/Wolverhampton_Wanderers_)
 :Worthing:|![](https://emoji.redditmedia.com/6u6hzf1l2kv11_t5_2qi58/Worthing)
@@ -1256,5 +1260,6 @@ flair|image
 :Zanzibar:|![](https://emoji.redditmedia.com/59rcbw6bbkv11_t5_2qi58/Zanzibar)
 :Zbrojovka_Brno:|![](https://emoji.redditmedia.com/j8ifve4r0lt11_t5_2qi58/Zbrojovka_Brno)
 :Zenit:|![](https://emoji.redditmedia.com/bz3zb9ehvje11_t5_2qi58/Zenit)
+:Zimbabwe:|![](https://emoji.redditmedia.com/7vwskxd5jxh11_t5_2qi58/Zimbabwe)
 :Zulia_FC:|![](https://emoji.redditmedia.com/jzlhpl4h1gi11_t5_2qi58/Zulia_FC)
 :Zweigen_Kanazawa:|![](https://emoji.redditmedia.com/bbb9ev3cjfu11_t5_2qi58/Zweigen_Kanazawa)
