@@ -162,6 +162,7 @@ flair|image
 :Bodo_Glimt: | ![](https://emoji.redditmedia.com/3xn062fnfhd11_t5_2qi58/Bodo_Glimt)
 :Bognor_Regis_Town: | ![](https://emoji.redditmedia.com/34xnlm55wbe11_t5_2qi58/Bognor_Regis_Town)
 :Bohemian: | ![](https://emoji.redditmedia.com/7kxv49hnfhd11_t5_2qi58/Bohemian)
+:Bolivar: | ![](https://emoji.redditmedia.com/78lyznkrvbe11_t5_2qi58/Bolivar)
 :Bolivia: | ![](https://emoji.redditmedia.com/0yueuszqrj471_t5_2qi58/Bolivia)
 :Bologna_FC_1909: | ![](https://emoji.redditmedia.com/gtq4k1bsnrd11_t5_2qi58/Bologna_FC_1909)
 :Bolton_Wanderers: | ![](https://emoji.redditmedia.com/csr3mq70d9d11_t5_2qi58/Bolton_Wanderers)
@@ -335,6 +336,7 @@ flair|image
 :Denmark: (FA logo - disused during tournament play) | ![](https://emoji.redditmedia.com/26v1whvjn5d11_t5_2qi58/Denmark)
 :Deportes_Concepcion: | ![](https://emoji.redditmedia.com/3rbpre7uw4x41_t5_2qi58/Deportes_Concepcion)
 :Deportivo_La_Coruna: | ![](https://emoji.redditmedia.com/gxuby4e9hzt11_t5_2qi58/Deportivo_La_Coruna)
+:Deportivo_Pereira: | ![](https://emoji.redditmedia.com/a7udfhund0i11_t5_2qi58/Deportivo_Pereira)
 :Deportivo_Saprissa: | ![](https://emoji.redditmedia.com/2jta2naofhd11_t5_2qi58/Deportivo_Saprissa)
 :Deportivo_Tachira: | ![](https://emoji.redditmedia.com/dtvxmnfwexh11_t5_2qi58/Deportivo_Tachira)
 :Deportivo_Wanka: | ![](https://emoji.redditmedia.com/zyy1a8py8pd11_t5_2qi58/Deportivo_Wanka)
@@ -764,6 +766,7 @@ flair|image
 :Melbourne_City: | ![](https://emoji.redditmedia.com/l1aqp71bhzt11_t5_2qi58/Melbourne_City)
 :Melbourne_Knights: | ![](https://emoji.redditmedia.com/awm4flw8zfi11_t5_2qi58/Melbourne_Knights)
 :Melbourne_Victory: | ![](https://emoji.redditmedia.com/pojz9zdkn5d11_t5_2qi58/Melbourne_Victory)
+:Melilla: | ![](https://emoji.redditmedia.com/c0o0lr651kv11_t5_2qi58/Melilla)
 :Memphis_901_FC: | ![](https://emoji.redditmedia.com/5dihzzxtbk431_t5_2qi58/Memphis_901_FC)
 :Merseyside_Red: | ![](https://emoji.redditmedia.com/jrvralmmxiq61_t5_2qi58/Merseyside_Red)
 :Metalist_1925_Kharkiv: | ![](https://emoji.redditmedia.com/o8s8p6b51kv11_t5_2qi58/Metalist_1925_Kharkiv)
@@ -1249,7 +1252,7 @@ flair|image
 :VVV_Venlo: | ![](https://emoji.redditmedia.com/g137vbetnrd11_t5_2qi58/VVV_Venlo)
 **#W**|
 :Waasland-Beveren: | ![](https://emoji.redditmedia.com/1jonxsnvzwi11_t5_2qi58/Waasland-Beveren)
-:Wales: | ![](https://emoji.redditmedia.com/2myc3t9qrj471_t5_2qi58/Wales)
+:Wales: | ![](https://emoji.redditmedia.com/0vfsqbear1871_t5_2qi58/Wales)
 :Wales: (FA logo - disused during tournament play) | ![](https://emoji.redditmedia.com/z32o803n1ry31_t5_2qi58/Wales)
 :Wales_1980s: | ![](https://emoji.redditmedia.com/jec18p7ztbk61_t5_2qi58/Wales_1980s)
 :Walsall_FC: | ![](https://emoji.redditmedia.com/jcd1j57vtcd11_t5_2qi58/Walsall_FC)
@@ -1287,6 +1290,7 @@ flair|image
 **#Y**|
 :Yemen: | ![](https://emoji.redditmedia.com/ncqtms2abpk11_t5_2qi58/Yemen)
 :Yokohama_F: | ![](https://emoji.redditmedia.com/4ec12rxuyxd11_t5_2qi58/Yokohama_F)
+:York_City_FC: | ![](https://emoji.redditmedia.com/uilvrgeyvbd11_t5_2qi58/York_City_FC)
 :York_United_FC: | ![](https://emoji.redditmedia.com/ztmdkcw35zs61_t5_2qi58/York_United_FC)
 :Young_Boys: | ![](https://emoji.redditmedia.com/jf592ct8hzt11_t5_2qi58/Young_Boys)
 **#Z**|
